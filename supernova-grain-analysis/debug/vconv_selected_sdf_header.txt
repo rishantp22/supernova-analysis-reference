@@ -1,0 +1,108 @@
+# SDF
+parameter byteorder = 0x78563412;
+int npart = 945342;
+int iter = 4200;
+float dt = 26.8436;
+float eps = 0.003;
+float Gnewt = 3.94572e-09;
+float tolerance = 2797.4;
+float frac_tolerance = 0.05;
+int ndim = 3;
+float tpos = 12283.2;
+float tvel = 12283.2;
+float t_wind = 0;
+float R0 = 31129.2;
+float Omega0 = 0;
+float H0 = 0;
+float Lambda_prime = 0;
+float hubble = 0;
+float redshift = 0;
+float gamma = 1.4;
+float massCF = 1.9889e+27;
+float lenCF = 6.955e+10;
+float timeCF = 100;
+float centmass = 0;
+float bndry_x = -73.7423;
+float bndry_y = -119.671;
+float bndry_z = 31.8636;
+float bndry_vx = -0.00566585;
+float bndry_vy = -0.00855274;
+float bndry_vz = 0.00266753;
+float bndry_ax = 0;
+float bndry_ay = 0;
+float bndry_az = 0;
+float bndry_px = -15.6301;
+float bndry_py = -23.594;
+float bndry_pz = 7.35876;
+float bndry_lx = 4.27966;
+float bndry_ly = 3.091;
+float bndry_lz = -4.36557;
+float bndry_mass = 2758.65;
+float bndry_r = 524.613;
+double ke = 2783282.094229672;
+double pe = -17.23596578762954;
+double te = 39404.30223680848;
+int p1 = 6;
+int n1 = 6;
+int p2 = 8;
+int n2 = 8;
+int p3 = 10;
+int n3 = 10;
+int p4 = 12;
+int n4 = 12;
+int p5 = 14;
+int n5 = 14;
+int p6 = 15;
+int n6 = 16;
+int p7 = 16;
+int n7 = 16;
+int p8 = 18;
+int n8 = 18;
+int p9 = 20;
+int n9 = 20;
+int p10 = 20;
+int n10 = 24;
+int p11 = 21;
+int n11 = 23;
+int p12 = 22;
+int n12 = 22;
+int p13 = 24;
+int n13 = 24;
+int p14 = 26;
+int n14 = 26;
+int p15 = 26;
+int n15 = 30;
+int p16 = 27;
+int n16 = 29;
+int p17 = 28;
+int n17 = 28;
+int p18 = 0;
+int n18 = 1;
+int p19 = 1;
+int n19 = 0;
+int p20 = 2;
+int n20 = 2;
+struct {
+    double x, y, z;		/* position of body */
+    float mass;			/* mass of body */
+    float vx, vy, vz;		/* velocity of body */
+    float u;			/* internal energy */
+    float h;			/* smoothing length */
+    float rho;			/* density */
+    float drho_dt;              /* time derivative of rho */
+    float udot;			/* time derivative of u */
+    float ax, ay, az;		/* acceleration */
+    float lax, lay, laz;	/* acceleration at tpos-dt */
+    float phi;			/* potential */
+    float idt;			/* timestep */
+    float pr;		/* pressure */
+    unsigned int nbrs;          /* number of neighbors */
+    unsigned int ident;		/* unique identifier */
+    unsigned int windid;        /* wind id */
+    float temp;                 /* temperature */
+    float Y_el;                  /* for alignment */
+    float mfp;			/* mean free path */
+    float f1,f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f14,f15,f16,f17,f18,f19,f20; 
+}[945342];
+#
+# SDF-EOH                           

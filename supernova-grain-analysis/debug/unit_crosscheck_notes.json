@@ -1,0 +1,20 @@
+[
+  {
+    "model": "50Am",
+    "particle_id": 191136,
+    "variant": "archived_original",
+    "status": "configured_path_missing_read_archived_candidate",
+    "trajectory_path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/191136_trajectory.txt",
+    "archive_member": "/scratch/svierlin/prism-v02/input/conditions/50Am_output.zip::50Am_output/191136_trajectory.txt",
+    "caveat": "No proof that this archived variant was consumed by the sampled PRISM run"
+  },
+  {
+    "model": "50Am",
+    "particle_id": 191136,
+    "variant": "archived_tempcorr",
+    "status": "configured_path_missing_read_archived_candidate",
+    "trajectory_path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/191136_trajectory.txt",
+    "archive_member": "/scratch/svierlin/prism-v02/input/conditions/50Am_output_tempcorr.zip::50Am_output_tempcorr/191136_trajectory.txt",
+    "caveat": "No proof that this archived variant was consumed by the sampled PRISM run"
+  }
+]

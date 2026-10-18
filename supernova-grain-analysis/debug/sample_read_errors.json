@@ -1,0 +1,46 @@
+[
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/10354/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/10354/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103110/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103110/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103295/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103295/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103480/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103480/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103664/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103664/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103849/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs/103849/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/x.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/x.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/xz.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/xz.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/y.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/y.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/xtime.txt",
+    "error": "[Errno 2] No such file or directory: '/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/14/xtime.txt'"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/vconv_data/vconv_outputs/14/xtime.txt",
+    "error": "over 32 MiB sample cap"
+  }
+]

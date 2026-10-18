@@ -1,0 +1,22 @@
+{
+  "completed_utc": "2026-09-26T01:14:09.571060+00:00",
+  "status": "completed_with_read_errors",
+  "error_counts": {
+    "sample_read_errors.json": 11,
+    "prism_errors.json": 7,
+    "snapshot_errors.json": 0
+  },
+  "snapshot_headers_validated": 483,
+  "PRISM_particles_sampled": {
+    "50Am": 6,
+    "jet3b": 27,
+    "cco2": 28,
+    "vconv": 32
+  },
+  "requested_fields": 298,
+  "sample_values_rows": 27714,
+  "scope": "All named snapshot headers; all IDs in four selected snapshots; bounded PRISM/archives samples. Not full archive integrity or all-particle abundance census.",
+  "python": "3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 16:50:00) [GCC 14.3.0]",
+  "numpy": "2.4.4",
+  "matplotlib": "3.10.9"
+}

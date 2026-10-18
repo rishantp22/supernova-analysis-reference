@@ -1,0 +1,206 @@
+{
+  "7753": {
+    "x": {
+      "final_chunks": -79.4314,
+      "plotting": -5524453870000.0,
+      "converted_final_chunks": -5524453870000.0
+    },
+    "y": {
+      "final_chunks": 563.12,
+      "plotting": 39164996000000.0,
+      "converted_final_chunks": 39164996000000.0
+    },
+    "z": {
+      "final_chunks": -24.3183,
+      "plotting": -1691337765000.0,
+      "converted_final_chunks": -1691337765000.0
+    },
+    "vx": {
+      "final_chunks": -0.0164803,
+      "plotting": -11462048.65,
+      "converted_final_chunks": -11462048.65
+    },
+    "vy": {
+      "final_chunks": 0.225218,
+      "plotting": 156639119.0,
+      "converted_final_chunks": 156639119.0
+    },
+    "vz": {
+      "final_chunks": 0.00501998,
+      "plotting": 3491396.09,
+      "converted_final_chunks": 3491396.0900000003
+    },
+    "ax": {
+      "final_chunks": 4.70855e-05,
+      "plotting": 327.4796525,
+      "converted_final_chunks": 327.4796525
+    },
+    "ay": {
+      "final_chunks": -0.000163256,
+      "plotting": -1135.44548,
+      "converted_final_chunks": -1135.44548
+    },
+    "az": {
+      "final_chunks": -2.89109e-05,
+      "plotting": -201.0753095,
+      "converted_final_chunks": -201.0753095
+    },
+    "mass": {
+      "final_chunks": 9.61971,
+      "plotting": 1.9132641219e+28,
+      "converted_final_chunks": 1.9132641218999999e+28
+    },
+    "h": {
+      "final_chunks": 24.6489,
+      "plotting": 1714330995000.0,
+      "converted_final_chunks": 1714330995000.0
+    },
+    "density": {
+      "final_chunks": 0.00078091,
+      "plotting": 4.61660299551e-09,
+      "converted_final_chunks": 4.616602995512772e-09
+    },
+    "peak temp": {
+      "final_chunks": 6763770880.0,
+      "plotting": 6763770000.0,
+      "converted_final_chunks": 6763770880.0
+    },
+    "peak density": {
+      "final_chunks": 1696933741000.0,
+      "plotting": 10031952.6209,
+      "converted_final_chunks": 10031974.737021288
+    },
+    "Y_{e}": {
+      "final_chunks": 0.590934,
+      "plotting": 0.500006,
+      "converted_final_chunks": 0.590934
+    },
+    "4He": {
+      "final_chunks": 0.0,
+      "plotting": 0.0,
+      "converted_final_chunks": 0.0
+    },
+    "12C": {
+      "final_chunks": 0.0,
+      "plotting": 0.0,
+      "converted_final_chunks": 0.0
+    },
+    "16O": {
+      "final_chunks": 4.02148e-15,
+      "plotting": 4.02148e-15,
+      "converted_final_chunks": 4.02148e-15
+    },
+    "56Fe": {
+      "final_chunks": 0.00016972,
+      "plotting": 0.00016972,
+      "converted_final_chunks": 0.00016972
+    },
+    "56Ni": {
+      "final_chunks": 0.19997,
+      "plotting": 0.19997,
+      "converted_final_chunks": 0.19997
+    }
+  },
+  "10000": {
+    "x": {
+      "final_chunks": 439.069,
+      "plotting": 30537248950000.0,
+      "converted_final_chunks": 30537248950000.0
+    },
+    "y": {
+      "final_chunks": -235.716,
+      "plotting": -16394047800000.0,
+      "converted_final_chunks": -16394047800000.0
+    },
+    "z": {
+      "final_chunks": -291.453,
+      "plotting": -20270556150000.0,
+      "converted_final_chunks": -20270556150000.0
+    },
+    "vx": {
+      "final_chunks": 0.184244,
+      "plotting": 128141702.0,
+      "converted_final_chunks": 128141702.0
+    },
+    "vy": {
+      "final_chunks": -0.11259,
+      "plotting": -78306345.0,
+      "converted_final_chunks": -78306345.0
+    },
+    "vz": {
+      "final_chunks": -0.117902,
+      "plotting": -82000841.0,
+      "converted_final_chunks": -82000841.0
+    },
+    "ax": {
+      "final_chunks": -1.47216e-06,
+      "plotting": -10.2388728,
+      "converted_final_chunks": -10.2388728
+    },
+    "ay": {
+      "final_chunks": 4.13148e-05,
+      "plotting": 287.344434,
+      "converted_final_chunks": 287.344434
+    },
+    "az": {
+      "final_chunks": 4.05792e-05,
+      "plotting": 282.228336,
+      "converted_final_chunks": 282.228336
+    },
+    "mass": {
+      "final_chunks": 9.03102,
+      "plotting": 1.7961795678e+28,
+      "converted_final_chunks": 1.7961795678e+28
+    },
+    "h": {
+      "final_chunks": 22.6763,
+      "plotting": 1577136665000.0,
+      "converted_final_chunks": 1577136665000.0
+    },
+    "density": {
+      "final_chunks": 0.00112218,
+      "plotting": 6.63413139735e-09,
+      "converted_final_chunks": 6.634131397349916e-09
+    },
+    "peak temp": {
+      "final_chunks": 6725607424.0,
+      "plotting": 6725610000.0,
+      "converted_final_chunks": 6725607424.0
+    },
+    "peak density": {
+      "final_chunks": 1705553953000.0,
+      "plotting": 10082912.5495,
+      "converted_final_chunks": 10082935.91890032
+    },
+    "Y_{e}": {
+      "final_chunks": 0.49993,
+      "plotting": 0.499965,
+      "converted_final_chunks": 0.49993
+    },
+    "4He": {
+      "final_chunks": 0.0,
+      "plotting": 0.0,
+      "converted_final_chunks": 0.0
+    },
+    "12C": {
+      "final_chunks": 0.0,
+      "plotting": 0.0,
+      "converted_final_chunks": 0.0
+    },
+    "16O": {
+      "final_chunks": 1.97065e-15,
+      "plotting": 1.97065e-15,
+      "converted_final_chunks": 1.97065e-15
+    },
+    "56Fe": {
+      "final_chunks": 5.8216e-05,
+      "plotting": 5.8216e-05,
+      "converted_final_chunks": 5.8216e-05
+    },
+    "56Ni": {
+      "final_chunks": 0.123336,
+      "plotting": 0.123336,
+      "converted_final_chunks": 0.123336
+    }
+  }
+}

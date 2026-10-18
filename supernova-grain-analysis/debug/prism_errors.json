@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/191136_trajectory.txt",
+    "error": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/191136_trajectory.txt not found."
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/372924_trajectory.txt",
+    "error": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/372924_trajectory.txt not found."
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/463819_trajectory.txt",
+    "error": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/463819_trajectory.txt not found."
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/554686_trajectory.txt",
+    "error": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/554686_trajectory.txt not found."
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/645539_trajectory.txt",
+    "error": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/645539_trajectory.txt not found."
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/917342_trajectory.txt",
+    "error": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/917342_trajectory.txt not found."
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/cco2_traj/14_trajectory.txt",
+    "error": "Invalid trajectory shape or values"
+  }
+]

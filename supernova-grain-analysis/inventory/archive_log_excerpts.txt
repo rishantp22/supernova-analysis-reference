@@ -1,0 +1,321 @@
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679133.err
+BYTES 114
+[2026-05-12T12:54:17.063] error: *** JOB 52679133 ON sc085 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679133.out
+BYTES 320
+========================================
+  Job ID     : 52679133_10
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0010
+  Lines      : 900001 to 1000000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz
+========================================
+  Subfolders in this batch: 37229
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679134.err
+BYTES 114
+[2026-05-12T12:54:17.050] error: *** JOB 52679134 ON sc060 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679134.out
+BYTES 314
+========================================
+  Job ID     : 52679133_1
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0001
+  Lines      : 1 to 100000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679135.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679135.out
+BYTES 545
+========================================
+  Job ID     : 52679133_2
+  Started    : Mon May 11 12:54:08 MST 2026
+  Batch      : 0002
+  Lines      : 100001 to 200000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0002.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+========================================
+  Finished   : Tue May 12 01:15:18 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0002.tar.gz
+  Size       : 40G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679136.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679136.out
+BYTES 545
+========================================
+  Job ID     : 52679133_3
+  Started    : Mon May 11 12:54:14 MST 2026
+  Batch      : 0003
+  Lines      : 200001 to 300000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0003.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+========================================
+  Finished   : Tue May 12 02:04:15 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0003.tar.gz
+  Size       : 49G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679137.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679137.out
+BYTES 545
+========================================
+  Job ID     : 52679133_4
+  Started    : Mon May 11 12:54:10 MST 2026
+  Batch      : 0004
+  Lines      : 300001 to 400000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0004.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+========================================
+  Finished   : Tue May 12 04:33:41 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0004.tar.gz
+  Size       : 41G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679138.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679138.out
+BYTES 545
+========================================
+  Job ID     : 52679133_5
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0005
+  Lines      : 400001 to 500000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0005.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+========================================
+  Finished   : Tue May 12 05:27:16 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0005.tar.gz
+  Size       : 66G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679139.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679139.out
+BYTES 545
+========================================
+  Job ID     : 52679133_6
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0006
+  Lines      : 500001 to 600000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0006.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+========================================
+  Finished   : Tue May 12 05:57:44 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0006.tar.gz
+  Size       : 88G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679140.err
+BYTES 114
+[2026-05-12T12:54:17.071] error: *** JOB 52679140 ON sc082 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679140.out
+BYTES 319
+========================================
+  Job ID     : 52679133_7
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0007
+  Lines      : 600001 to 700000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679141.err
+BYTES 114
+[2026-05-12T12:54:17.072] error: *** JOB 52679141 ON sc065 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679141.out
+BYTES 319
+========================================
+  Job ID     : 52679133_8
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0008
+  Lines      : 700001 to 800000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0008.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679142.err
+BYTES 114
+[2026-05-12T12:54:17.043] error: *** JOB 52679142 ON sc065 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52679142.out
+BYTES 319
+========================================
+  Job ID     : 52679133_9
+  Started    : Mon May 11 12:54:09 MST 2026
+  Batch      : 0009
+  Lines      : 800001 to 900000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0009.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754098.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754098.out
+BYTES 547
+========================================
+  Job ID     : 52754098_10
+  Started    : Tue May 12 15:07:06 MST 2026
+  Batch      : 0010
+  Lines      : 900001 to 1000000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz
+========================================
+  Subfolders in this batch: 37229
+
+========================================
+  Finished   : Wed May 13 15:49:51 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz
+  Size       : 334G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754099.err
+BYTES 213
+
+gzip: stdout: No space left on device
+tar: /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz: Wrote only 6144 of 10240 bytes
+tar: Child returned status 1
+tar: Error is not recoverable: exiting now
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754099.out
+BYTES 314
+========================================
+  Job ID     : 52754098_1
+  Started    : Tue May 12 15:07:07 MST 2026
+  Batch      : 0001
+  Lines      : 1 to 100000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754100.err
+BYTES 0
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754100.out
+BYTES 546
+========================================
+  Job ID     : 52754098_7
+  Started    : Tue May 12 15:07:06 MST 2026
+  Batch      : 0007
+  Lines      : 600001 to 700000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+========================================
+  Finished   : Wed May 13 16:39:05 MST 2026
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz
+  Size       : 207G
+========================================
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754101.err
+BYTES 213
+
+gzip: stdout: No space left on device
+tar: /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0008.tar.gz: Wrote only 4096 of 10240 bytes
+tar: Child returned status 1
+tar: Error is not recoverable: exiting now
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754101.out
+BYTES 319
+========================================
+  Job ID     : 52754098_8
+  Started    : Tue May 12 15:07:13 MST 2026
+  Batch      : 0008
+  Lines      : 700001 to 800000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0008.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754102.err
+BYTES 213
+
+gzip: stdout: No space left on device
+tar: /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0009.tar.gz: Wrote only 8192 of 10240 bytes
+tar: Child returned status 1
+tar: Error is not recoverable: exiting now
+
+
+FILE /data/pyoung3/groupdata/svierlin/logs/tar_batches_52754102.out
+BYTES 319
+========================================
+  Job ID     : 52754098_9
+  Started    : Tue May 12 15:07:13 MST 2026
+  Batch      : 0009
+  Lines      : 800001 to 900000
+  Archive    : /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0009.tar.gz
+========================================
+  Subfolders in this batch: 100000
+
+
+FILE /data/pyoung3/groupdata/svierlin/50Am_data/slurm_log/slurm.62563401.err
+BYTES 286
+WARNING: possibly insufficient space in /data/pyoung3/groupdata/svierlin/50Am_data/output
+Available: 939772608512 bytes, estimated need: 1572643799040 bytes
+pigz: skipping: <stdin> empty
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+
+FILE /data/pyoung3/groupdata/svierlin/50Am_data/slurm_log/slurm.62563401.out
+BYTES 163
+Starting extraction of /data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz to /data/pyoung3/groupdata/svierlin/50Am_data/output
+Using 8 CPUs for pigz
+
+
+FILE /data/pyoung3/groupdata/svierlin/50Am_data/output/progress.log
+BYTES 75
+/var/spool/slurmd/job62563401/slurm_script: line 34: pv: command not found
+

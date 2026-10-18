@@ -1,0 +1,56 @@
+{
+  "output_sha256_verified": true,
+  "rows_in_epoch_file": 937229,
+  "all_export_IDs_have_physical_fields": true,
+  "all_export_IDs_have_all_61_hydro_snapshots": true,
+  "independent_source_spot_checks": [
+    {
+      "Id": 10000,
+      "source_chunk": 1,
+      "isotope_fields_exactly_matched": 222,
+      "independent_sum": 0.988119777496768
+    },
+    {
+      "Id": 13046,
+      "source_chunk": 34,
+      "isotope_fields_exactly_matched": 222,
+      "independent_sum": 2.4716621854400793e-05
+    },
+    {
+      "Id": 526138,
+      "source_chunk": 469,
+      "isotope_fields_exactly_matched": 222,
+      "independent_sum": 0.9999458210438262
+    },
+    {
+      "Id": 7753,
+      "source_chunk": 744,
+      "isotope_fields_exactly_matched": 222,
+      "independent_sum": 1.9773690609135437
+    },
+    {
+      "Id": 99999,
+      "source_chunk": 938,
+      "isotope_fields_exactly_matched": 222,
+      "independent_sum": 0.9999758343908822
+    }
+  ],
+  "last_sum_quantiles": {
+    "0.0": 2.4716621854400783e-05,
+    "0.01": 0.9841694422483341,
+    "0.05": 0.9997586263629675,
+    "0.5": 0.9999542206016172,
+    "0.95": 0.9999761177559203,
+    "0.99": 0.999976856773005,
+    "1.0": 1.977369060913544
+  },
+  "last_sums_above_1_plus_1e_4": [
+    {
+      "Id": 7753,
+      "source_chunk": 744,
+      "actual_timestep": 21667,
+      "actual_time_as_written": 2000.0,
+      "selected_isotope_sum": 1.977369060913544
+    }
+  ]
+}

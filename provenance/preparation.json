@@ -1,0 +1,12 @@
+{
+  "record_phase": "pre-publication preparation snapshot, 2026-10-18",
+  "copied_files": 82,
+  "copied_bytes": 1183627,
+  "excluded_files": 3789,
+  "excluded_bytes": 8265889566,
+  "source_files_unchanged": true,
+  "destination": "/scratch/rpraka15/supernova-analysis-reference",
+  "proposed_github_repository": "rishantp22/supernova-analysis-reference",
+  "github_repository_created": false,
+  "uploaded": false
+}

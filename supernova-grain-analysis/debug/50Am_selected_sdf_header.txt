@@ -1,0 +1,48 @@
+# SDF
+parameter byteorder = 0x78563412;
+int npart = 945628;
+int iter = 2000;
+float dt = 5.24288;
+float eps = 0.003;
+float Gnewt = 3.94572e-09;
+float tolerance = 427645;
+float frac_tolerance = 0.05;
+int ndim = 3;
+float tpos = 1575.58;
+float tvel = 1575.58;
+float t_wind = 0;
+float R0 = 2518.08;
+float Omega0 = 0;
+float H0 = 0;
+float Lambda_prime = 0;
+float hubble = 0;
+float redshift = 0;
+float gamma = 1.4;
+float centmass = 0;
+double ke = 2585427.899275181;
+double pe = -131.8422167021745;
+double te = 218418.8876643151;
+struct {
+    double x, y, z;		/* position of body */
+    float mass;			/* mass of body */
+    float vx, vy, vz;		/* velocity of body */
+    float u;			/* internal energy */
+    float h;			/* smoothing length */
+    float rho;			/* density */
+    float drho_dt;              /* time derivative of rho */
+    float udot;			/* time derivative of u */
+    float ax, ay, az;		/* acceleration */
+    float lax, lay, laz;	/* acceleration at tpos-dt */
+    float phi;			/* potential */
+    float idt;			/* timestep */
+    unsigned int nbrs;          /* number of neighbors */
+    unsigned int ident;		/* unique identifier */
+    unsigned int windid;        /* wind id */
+    float temp;                 /* temperature */
+    float Y_el;                  /* for alignment */
+    float f1,f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f14,f15,f16,f17,f18,f19,f20,f21,f22; 
+    int p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22; 
+    int m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20,m21,m22; 
+}[945628];
+#
+# SDF-EOH                    

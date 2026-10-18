@@ -1,0 +1,11 @@
+test_both_endians_packed_unsigned_and_readonly (test_readers.ReaderTests.test_both_endians_packed_unsigned_and_readonly) ... ok
+test_duplicate_or_nonfinite_abundance_rejected (test_readers.ReaderTests.test_duplicate_or_nonfinite_abundance_rejected) ... ok
+test_glued_time_labels_and_duplicate_block_species (test_readers.ReaderTests.test_glued_time_labels_and_duplicate_block_species) ... ok
+test_invalid_time_headers_and_extent_rejected (test_readers.ReaderTests.test_invalid_time_headers_and_extent_rejected) ... ok
+test_missing_sparse_species_is_not_zero_or_outside_extent (test_readers.ReaderTests.test_missing_sparse_species_is_not_zero_or_outside_extent) ... ok
+test_truncated_payload_and_disagreeing_count_rejected (test_readers.ReaderTests.test_truncated_payload_and_disagreeing_count_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.005s
+
+OK

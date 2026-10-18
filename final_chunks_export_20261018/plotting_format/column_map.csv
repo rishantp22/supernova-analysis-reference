@@ -1,0 +1,299 @@
+requested_name,output_name,units,source,definition
+Id,id,ID,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+x,x,cm,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+y,y,cm,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+z,z,cm,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+vx,vx,cm/s,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+vy,vy,cm/s,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+vz,vz,cm/s,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+ax,ax,cm/s^2,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+ay,ay,cm/s^2,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+az,az,cm/s^2,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+mass,mass,g,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+h,h,cm,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+Density,density,g/cm^3,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+Peak temp,peak temp,K,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+Peak density,peak density,g/cm^3,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+Y_{e},Y_{e},dimensionless; progenitor electron fraction as in reference table,/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out,Copied verbatim by matching id from the reference plotting table
+X_{n},X_{n},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+H,X_{H},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+1H,X_{1H},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+2H,X_{2H},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+He,X_{He},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+3He,X_{3He},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+4He,X_{4He},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Li,X_{Li},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+6Li,X_{6Li},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+7Li,X_{7Li},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Be,X_{Be},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+7Be,X_{7Be},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+9Be,X_{9Be},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+10Be,X_{10Be},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+B,X_{B},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+10B,X_{10B},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+11B,X_{11B},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+C,X_{C},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+12C,X_{12C},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+13C,X_{13C},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+14C,X_{14C},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+N,X_{N},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+14N,X_{14N},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+15N,X_{15N},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+O,X_{O},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+16O,X_{16O},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+17O,X_{17O},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+18O,X_{18O},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ne,X_{Ne},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+20Ne,X_{20Ne},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+21Ne,X_{21Ne},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+22Ne,X_{22Ne},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Na,X_{Na},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+23Na,X_{23Na},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Mg,X_{Mg},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+24Mg,X_{24Mg},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+25Mg,X_{25Mg},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+26Mg,X_{26Mg},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Al,X_{Al},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+26Al,X_{26Al},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+27Al,X_{27Al},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Si,X_{Si},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+28Si,X_{28Si},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+29Si,X_{29Si},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+30Si,X_{30Si},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+P,X_{P},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+31P,X_{31P},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+S,X_{S},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+32S,X_{32S},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+33S,X_{33S},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+34S,X_{34S},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+36S,X_{36S},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Cl,X_{Cl},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+35Cl,X_{35Cl},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+36Cl,X_{36Cl},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+37Cl,X_{37Cl},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ar,X_{Ar},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+36Ar,X_{36Ar},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+38Ar,X_{38Ar},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+40Ar,X_{40Ar},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+K,X_{K},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+39K,X_{39K},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+40K,X_{40K},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+41K,X_{41K},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ca,X_{Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+40Ca,X_{40Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+41Ca,X_{41Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+42Ca,X_{42Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+43Ca,X_{43Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+44Ca,X_{44Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+46Ca,X_{46Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+48Ca,X_{48Ca},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Sc,X_{Sc},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+45Sc,X_{45Sc},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ti,X_{Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+44Ti,X_{44Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+46Ti,X_{46Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+47Ti,X_{47Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+48Ti,X_{48Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+49Ti,X_{49Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+50Ti,X_{50Ti},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+V,X_{V},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+50V,X_{50V},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+51V,X_{51V},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Cr,X_{Cr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+50Cr,X_{50Cr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+52Cr,X_{52Cr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+53Cr,X_{53Cr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+54Cr,X_{54Cr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Mn,X_{Mn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+53Mn,X_{53Mn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+55Mn,X_{55Mn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Fe,X_{Fe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+54Fe,X_{54Fe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+56Fe,X_{56Fe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+57Fe,X_{57Fe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+58Fe,X_{58Fe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+60Fe,X_{60Fe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Co,X_{Co},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+56Co,X_{56Co},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+57Co,X_{57Co},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+59Co,X_{59Co},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ni,X_{Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+56Ni,X_{56Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+57Ni,X_{57Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+58Ni,X_{58Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+60Ni,X_{60Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+61Ni,X_{61Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+62Ni,X_{62Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+64Ni,X_{64Ni},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Cu,X_{Cu},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+63Cu,X_{63Cu},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+65Cu,X_{65Cu},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Zn,X_{Zn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+64Zn,X_{64Zn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+66Zn,X_{66Zn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+67Zn,X_{67Zn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+68Zn,X_{68Zn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+70Zn,X_{70Zn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ge,X_{Ge},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+Se,X_{Se},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+74Se,X_{74Se},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Kr,X_{Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+78Kr,X_{78Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+80Kr,X_{80Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+82Kr,X_{82Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+83Kr,X_{83Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+84Kr,X_{84Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+86Kr,X_{86Kr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Sr,X_{Sr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+84Sr,X_{84Sr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+86Sr,X_{86Sr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+87Sr,X_{87Sr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+88Sr,X_{88Sr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Y,X_{Y},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+89Y,X_{89Y},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Zr,X_{Zr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+90Zr,X_{90Zr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+91Zr,X_{91Zr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+92Zr,X_{92Zr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+94Zr,X_{94Zr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+96Zr,X_{96Zr},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Nb,X_{Nb},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+92Nb,X_{92Nb},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Mo,X_{Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+92Mo,X_{92Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+94Mo,X_{94Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+95Mo,X_{95Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+96Mo,X_{96Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+97Mo,X_{97Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+98Mo,X_{98Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+100Mo,X_{100Mo},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ru,X_{Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+96Ru,X_{96Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+98Ru,X_{98Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+99Ru,X_{99Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+100Ru,X_{100Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+101Ru,X_{101Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+102Ru,X_{102Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+104Ru,X_{104Ru},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Pd,X_{Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+102Pd,X_{102Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+104Pd,X_{104Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+105Pd,X_{105Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+106Pd,X_{106Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+107Pd,X_{107Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+108Pd,X_{108Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+110Pd,X_{110Pd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ag,X_{Ag},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+107Ag,X_{107Ag},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Cd,X_{Cd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+106Cd,X_{106Cd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+108Cd,X_{108Cd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+In,X_{In},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+113In,X_{113In},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Sn,X_{Sn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+112Sn,X_{112Sn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+114Sn,X_{114Sn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+115Sn,X_{115Sn},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Te,X_{Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+120Te,X_{120Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+122Te,X_{122Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+124Te,X_{124Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+126Te,X_{126Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+128Te,X_{128Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+130Te,X_{130Te},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+I,X_{I},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+129I,X_{129I},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Xe,X_{Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+124Xe,X_{124Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+126Xe,X_{126Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+128Xe,X_{128Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+129Xe,X_{129Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+130Xe,X_{130Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+131Xe,X_{131Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+132Xe,X_{132Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+134Xe,X_{134Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+136Xe,X_{136Xe},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ba,X_{Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+130Ba,X_{130Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+132Ba,X_{132Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+134Ba,X_{134Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+135Ba,X_{135Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+136Ba,X_{136Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+137Ba,X_{137Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+138Ba,X_{138Ba},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+La,X_{La},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+138La,X_{138La},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+139La,X_{139La},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Nd,X_{Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+142Nd,X_{142Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+143Nd,X_{143Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+144Nd,X_{144Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+145Nd,X_{145Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+146Nd,X_{146Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+148Nd,X_{148Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+150Nd,X_{150Nd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Sm,X_{Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+144Sm,X_{144Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+147Sm,X_{147Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+148Sm,X_{148Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+149Sm,X_{149Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+150Sm,X_{150Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+152Sm,X_{152Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+154Sm,X_{154Sm},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Eu,X_{Eu},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+151Eu,X_{151Eu},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+153Eu,X_{153Eu},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Gd,X_{Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+152Gd,X_{152Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+154Gd,X_{154Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+155Gd,X_{155Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+156Gd,X_{156Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+157Gd,X_{157Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+158Gd,X_{158Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+160Gd,X_{160Gd},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Dy,X_{Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+156Dy,X_{156Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+158Dy,X_{158Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+160Dy,X_{160Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+161Dy,X_{161Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+162Dy,X_{162Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+163Dy,X_{163Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+164Dy,X_{164Dy},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Er,X_{Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+162Er,X_{162Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+164Er,X_{164Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+166Er,X_{166Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+167Er,X_{167Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+168Er,X_{168Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+170Er,X_{170Er},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Hf,X_{Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+174Hf,X_{174Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+176Hf,X_{176Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+177Hf,X_{177Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+178Hf,X_{178Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+179Hf,X_{179Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+180Hf,X_{180Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+182Hf,X_{182Hf},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Ta,X_{Ta},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+180Ta,X_{180Ta},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+W,X_{W},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+180W,X_{180W},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+182W,X_{182W},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+183W,X_{183W},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+184W,X_{184W},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+186W,X_{186W},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Os,X_{Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+184Os,X_{184Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+186Os,X_{186Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+187Os,X_{187Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+188Os,X_{188Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+189Os,X_{189Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+190Os,X_{190Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+192Os,X_{192Os},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+Pt,X_{Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unavailable in the supplied chunks; NA retained
+190Pt,X_{190Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+192Pt,X_{192Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+194Pt,X_{194Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+195Pt,X_{195Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+196Pt,X_{196Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction
+198Pt,X_{198Pt},dimensionless mass fraction,/scratch/rpraka15/final_chunks.out,Unchanged last-category chunk isotope mass fraction

@@ -1,0 +1,14 @@
+[
+  {
+    "test": "shuffled_keys",
+    "result": "PASS"
+  },
+  {
+    "test": "duplicate_key",
+    "result": "PASS"
+  },
+  {
+    "test": "missing_key",
+    "result": "PASS"
+  }
+]

@@ -1,0 +1,35 @@
+Credibility checks for final_chunks.out
+
+Output: 937,229 distinct IDs, 298 columns, last category.
+All 938 pairs join exactly by ID, category and isotope. No duplicates.
+Every exported ID has AM physical fields and all 61 saved hydro snapshots.
+All 624,194,514 B rows across the three categories match AM mass * C_sum within 2e-5 relative tolerance.
+The positive B/code-mass/X ratios are within approximately 5e-6 of one.
+
+UNITS
+Raw B values are in native mass units. The local SNSPH convention is 1 code mass = 1e-6 solar masses.
+Evidence: sn_utils.py:58 defines this convention; the original part2 script multiplies mass * C_sum;
+the original part3 aggregation script:251 applies the factor 1e-6 afterwards.
+AM SDF headers omit massCF, so this conversion is supported by local source code, not an explicit header.
+
+SUMS (DO NOT ADD THE THREE EPOCHS TOGETHER)
+closest_to_100: B sum converted = 8.94292938137 solar masses; per-ID selected-isotope sums min/max = 2.47166218544e-05 / 1.0000002535.
+closest_to_1000: B sum converted = 8.95312209107 solar masses; per-ID selected-isotope sums min/max = 2.47166218544e-05 / 1.00000025455.
+last: B sum converted = 8.95334116432 solar masses; per-ID selected-isotope sums min/max = 2.47166218544e-05 / 1.97736906091.
+
+For last, 876,308/937,229 IDs are within 1e-4 of one.
+60,920 are below 0.9999 and 1 is above 1.0001.
+The high outlier is ID 7753 in chunk 744: sum = 1.977369060913544.
+This was independently re-summed directly from the original chunk and preserved unchanged in the export.
+The selected isotope sums are not uniformly one. No values were renormalized.
+The same 937,229 particles have total mass 8.95710063005 solar masses.
+The difference from their last B sum is 0.00375946572655 solar masses.
+The hydro snapshot contains 8,399 additional IDs absent from the chunks;
+the full snapshot particle mass is 9.03857128579 solar masses.
+These are population/species accounting sums, not independent proof of the total unbound/ejected mass.
+
+Elemental totals and free-neutron fraction are NA because the provided chunks cannot recover them.
+Physical fields retain native units. Peak fields are sampled maxima over the 61 AM hydro snapshots.
+Original source zeros remain zeros, including zeros inserted by the historical generator for missing species.
+All original files and the published export were left unchanged during these checks.
+See README.txt, mass_fraction_validation.json, normalization_by_id.csv and final_verification.json.

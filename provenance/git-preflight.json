@@ -1,0 +1,38 @@
+{
+  "record_phase": "pre-publication Git preflight snapshot, 2026-10-18",
+  "inspected_sources": [
+    {
+      "path": "/scratch/rpraka15/supernova-grain-analysis",
+      "git_repository": false,
+      "excluded_files_tracked": false
+    },
+    {
+      "path": "/scratch/rpraka15/final_chunks_export_20261018",
+      "git_repository": false,
+      "excluded_files_tracked": false
+    },
+    {
+      "path": "/home/rpraka15/supernova-grain-analysis",
+      "git_repository": true,
+      "branch": "main",
+      "head": "c20ca56",
+      "remotes": [],
+      "ignored_files_already_tracked": []
+    }
+  ],
+  "fresh_local_repository": "/scratch/rpraka15/supernova-analysis-reference",
+  "branch": "main",
+  "remotes": [],
+  "ignored_files_already_tracked": [],
+  "new_github_destination_proposed": "rishantp22/supernova-analysis-reference",
+  "destination_status": "proposed new private repository; not created or configured",
+  "existing_ccsn_repository_pushed": false,
+  "uploaded": false,
+  "local_commit_created": false,
+  "tests": {
+    "comparator": 4,
+    "readers": 6,
+    "all_passed": true
+  },
+  "ignore_probes_passed": true
+}

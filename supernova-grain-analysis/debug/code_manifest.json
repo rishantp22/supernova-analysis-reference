@@ -1,0 +1,14 @@
+{
+  "scripts/inventory.py": "9b8a8544206d8b6127b0c31713fae002fc544758b5fee00e59efd1be6ab4ad75",
+  "scripts/build_report.py": "ef48df4afd22eebc69f2c013c29ef15ba2bd934ecb2dded161a4b2045a33eb9d",
+  "scripts/unit_crosscheck.py": "3ccddd3da7a7a45f9ef472224a1ed51b61cf9b0718aa0e5401f143a568f5f99c",
+  "scripts/audit.py": "5a2394f5475e56387b433cf9130f54142264b8f52a2fd5d1da3c6b203a78e896",
+  "scripts/readers.py": "73c365617b9f2db56cf04d6b5bef38922ed6417abd141fbe9b9c51b8bc9f9f83",
+  "docs/analysis-guide.md": "815c6e23e686b5af8b8214c167bb5e99d1a4ab3919331047d933ebd46aa6ea22",
+  "docs/prism-formats.md": "3c2817e298be665acc49ae28abedfcbcdad9970230e11d67c3a19cb640ca63f8",
+  "docs/provenance.md": "fba50579d575853c5131f177fc8484caae9a935a56d7356e89158985a3261c7d",
+  "docs/audit-results.md": "a11992dbf2bdee8b232176ff95b016c3aec252c816ee9ac24a522f57dd2e3a10",
+  "docs/coverage.md": "da891bb2417f56ecf39e3d46bec20fe1078568ff16f465d2dd5c12014390b383",
+  "tests/test_readers.py": "b9c0060f171da98d2188387da8dddb28188dfe16205ff9375802440e9c934827",
+  "requested_fields_input": "d1f03707475eda774e3665d2fc82eedf12ad8373f04af16e71e4a08f540fca18"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0002.tar.gz",
+    "first_id": "191136",
+    "members_seen": 9,
+    "files_read": [
+      "control.json",
+      "x.txt",
+      "xz.txt",
+      "xtime.txt",
+      "y.txt"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0003.tar.gz",
+    "first_id": "282034",
+    "members_seen": 12,
+    "files_read": [
+      "y.txt",
+      "x.txt",
+      "xtime.txt",
+      "xz.txt"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0004.tar.gz",
+    "first_id": "372924",
+    "members_seen": 9,
+    "files_read": [
+      "xz.txt",
+      "control.json",
+      "xtime.txt",
+      "y.txt",
+      "x.txt"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0005.tar.gz",
+    "first_id": "463819",
+    "members_seen": 10,
+    "files_read": [
+      "control.json",
+      "y.txt",
+      "xz.txt",
+      "xtime.txt",
+      "x.txt"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0006.tar.gz",
+    "first_id": "554686",
+    "members_seen": 12,
+    "files_read": [
+      "y.txt",
+      "x.txt",
+      "xtime.txt",
+      "xz.txt",
+      "control.json"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz",
+    "first_id": "645539",
+    "members_seen": 12,
+    "files_read": [
+      "xz.txt",
+      "control.json",
+      "xtime.txt",
+      "y.txt",
+      "x.txt"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  },
+  {
+    "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz",
+    "first_id": "917342",
+    "members_seen": 12,
+    "files_read": [
+      "xz.txt",
+      "control.json",
+      "xtime.txt",
+      "y.txt",
+      "x.txt"
+    ],
+    "status": "prefix_only_not_full_integrity_check"
+  }
+]

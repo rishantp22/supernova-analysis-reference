@@ -1,0 +1,128 @@
+{
+  "peak temp": [
+    {
+      "id": 1167,
+      "final_chunks": 3827135744.0,
+      "plotting": 3827140000.0,
+      "converted_final_chunks": 3827135744.0,
+      "absolute_difference": 4256.0,
+      "symmetric_relative_difference": 1.1120575677921372e-06
+    },
+    {
+      "id": 1180,
+      "final_chunks": 2958059520.0,
+      "plotting": 2958060000.0,
+      "converted_final_chunks": 2958059520.0,
+      "absolute_difference": 480.0,
+      "symmetric_relative_difference": 1.6226851382324902e-07
+    },
+    {
+      "id": 1910,
+      "final_chunks": 4735434240.0,
+      "plotting": 4735430000.0,
+      "converted_final_chunks": 4735434240.0,
+      "absolute_difference": 4240.0,
+      "symmetric_relative_difference": 8.953772315503636e-07
+    },
+    {
+      "id": 1975,
+      "final_chunks": 7251566592.0,
+      "plotting": 7251570000.0,
+      "converted_final_chunks": 7251566592.0,
+      "absolute_difference": 3408.0,
+      "symmetric_relative_difference": 4.6996719331124157e-07
+    },
+    {
+      "id": 2099,
+      "final_chunks": 6442978816.0,
+      "plotting": 6442980000.0,
+      "converted_final_chunks": 6442978816.0,
+      "absolute_difference": 1184.0,
+      "symmetric_relative_difference": 1.8376589714697237e-07
+    }
+  ],
+  "peak density": [
+    {
+      "id": 1167,
+      "final_chunks": 285523214300.0,
+      "plotting": 1687961.9125,
+      "converted_final_chunks": 1687963.1794007185,
+      "absolute_difference": 1.2669007184449583,
+      "symmetric_relative_difference": 7.505499728345668e-07
+    },
+    {
+      "id": 1180,
+      "final_chunks": 129840054300.0,
+      "plotting": 767591.3139,
+      "converted_final_chunks": 767591.6349117324,
+      "absolute_difference": 0.32101173244882375,
+      "symmetric_relative_difference": 4.182063975797988e-07
+    },
+    {
+      "id": 1910,
+      "final_chunks": 568623824900.0,
+      "plotting": 3095839.30806,
+      "converted_final_chunks": 3361604.3505055257,
+      "absolute_difference": 265765.0424455255,
+      "symmetric_relative_difference": 0.07905898932025096
+    },
+    {
+      "id": 1975,
+      "final_chunks": 2440792637000.0,
+      "plotting": 14429522.5127,
+      "converted_final_chunks": 14429538.102213724,
+      "absolute_difference": 15.589513722807169,
+      "symmetric_relative_difference": 1.08038896410797e-06
+    },
+    {
+      "id": 2099,
+      "final_chunks": 1383224836000.0,
+      "plotting": 8177354.10669,
+      "converted_final_chunks": 8177382.696271354,
+      "absolute_difference": 28.589581354521215,
+      "symmetric_relative_difference": 3.496177495466517e-06
+    }
+  ],
+  "Y_{e}": [
+    {
+      "id": 1167,
+      "final_chunks": 0.590934,
+      "plotting": 0.49997,
+      "converted_final_chunks": 0.590934,
+      "absolute_difference": 0.09096399999999993,
+      "symmetric_relative_difference": 0.15393258807244115
+    },
+    {
+      "id": 1180,
+      "final_chunks": 0.499974,
+      "plotting": 0.499973,
+      "converted_final_chunks": 0.499974,
+      "absolute_difference": 9.999999999732445e-07,
+      "symmetric_relative_difference": 2.0001040053547676e-06
+    },
+    {
+      "id": 1910,
+      "final_chunks": 0.499974,
+      "plotting": 0.499969,
+      "converted_final_chunks": 0.499974,
+      "absolute_difference": 4.999999999977245e-06,
+      "symmetric_relative_difference": 1.0000520026995894e-05
+    },
+    {
+      "id": 1975,
+      "final_chunks": 0.500101,
+      "plotting": 0.501739,
+      "converted_final_chunks": 0.500101,
+      "absolute_difference": 0.0016380000000000283,
+      "symmetric_relative_difference": 0.0032646455627328716
+    },
+    {
+      "id": 2099,
+      "final_chunks": 0.499935,
+      "plotting": 0.507465,
+      "converted_final_chunks": 0.499935,
+      "absolute_difference": 0.007530000000000037,
+      "symmetric_relative_difference": 0.014838461765836138
+    }
+  ]
+}

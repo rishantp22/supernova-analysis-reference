@@ -1,0 +1,5 @@
+model,path,npart,unique_ids,duplicate_ids,id_min,id_max,sample_size,mass_nonpositive_sample,rho_nonpositive_sample,sample_sum_hydro_X_min,sample_sum_hydro_X_max,sample_Ye_min,sample_Ye_max,sample_Ye_zero_count,sample_Ye_from_X_min,sample_Ye_from_X_max,sample_invalid_species_records,nonfinite_physical_sample,nuclear_slots
+50Am,/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.2000,945628,945628,0,0,945633,20000,0,0,0.9999924703910149,1.0296348493147183,0.0,0.823417067527771,2217,0.4960996361680444,0.8323551336649454,0,0,22
+jet3b,/data/pyoung3/supernova_data/jet3b/jet3b/run3g_50Am_jet3b_sph.8000,945628,945628,0,0,945633,20000,0,0,0.9999815789136237,1.0290935933617316,0.0,0.0,20000,0.4771273747651249,0.8323537720312937,0,0,22
+cco2,/data/pyoung3/gsvance/supernova_data/cco2/cco2/r3g_1M_cco2_sph.19900,931564,931564,0,23,945633,20000,0,0,0.9999924733967305,1.000004787182604,0.0,0.8254826068878174,4005,0.4999594471601782,0.8323575372278837,0,0,20
+vconv,/data/pyoung3/gsvance/supernova_data/vconv/run3g_50_1milvc2_sph.4200,945342,945342,0,0,945633,20000,0,0,0.9999904172976524,1.0000096460992822,0.0,0.0,20000,0.48667668691163724,0.8323575372278837,0,0,20

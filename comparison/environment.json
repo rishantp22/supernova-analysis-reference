@@ -1,0 +1,9 @@
+{
+  "python": "3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 16:50:00) [GCC 14.3.0]",
+  "executable": "/home/rpraka15/.conda/envs/ccsn/bin/python",
+  "platform": "Linux-4.18.0-553.172.1.el8_10.x86_64-x86_64-with-glibc2.28",
+  "numpy": "2.4.4",
+  "pandas": "3.0.3",
+  "matplotlib": "3.10.9",
+  "sort": "sort (GNU coreutils) 8.30"
+}

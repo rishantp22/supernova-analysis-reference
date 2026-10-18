@@ -1,0 +1,423 @@
+{
+  "timestamp_utc": "2026-09-26T01:11:14.667533+00:00",
+  "scope": "Direct entry names only; numeric names are candidate particle IDs, not verified directories or completed runs.",
+  "models": {
+    "jet3b": {
+      "source_path": "/data/pyoung3/groupdata/svierlin/jet3b_data/jet3b_outputs",
+      "numeric_entry_count": 4250,
+      "minimum_id": "103",
+      "maximum_id": "103849",
+      "nonnumeric_entry_count": 0,
+      "nonnumeric_names": [],
+      "sample_ids": [
+        "103",
+        "10169",
+        "10354",
+        "100154",
+        "100339",
+        "100524",
+        "100708",
+        "100893",
+        "101078",
+        "101263",
+        "101447",
+        "101632",
+        "101817",
+        "102002",
+        "102186",
+        "102371",
+        "102556",
+        "102741",
+        "102925",
+        "103110",
+        "103295",
+        "103480",
+        "103664",
+        "103849"
+      ],
+      "census_complete": true
+    },
+    "cco2": {
+      "source_path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs",
+      "numeric_entry_count": 137061,
+      "minimum_id": "14",
+      "maximum_id": "235799",
+      "nonnumeric_entry_count": 0,
+      "nonnumeric_names": [],
+      "sample_ids": [
+        "14",
+        "15386",
+        "22522",
+        "104901",
+        "110862",
+        "116821",
+        "122780",
+        "128739",
+        "134698",
+        "140657",
+        "146617",
+        "152576",
+        "158536",
+        "164495",
+        "170455",
+        "176414",
+        "182373",
+        "188333",
+        "206003",
+        "211962",
+        "217922",
+        "223881",
+        "229840",
+        "235799"
+      ],
+      "census_complete": true
+    },
+    "vconv": {
+      "source_path": "/data/pyoung3/groupdata/svierlin/vconv_data/vconv_outputs",
+      "numeric_entry_count": 167217,
+      "minimum_id": "14",
+      "maximum_id": "254753",
+      "nonnumeric_entry_count": 0,
+      "nonnumeric_names": [],
+      "sample_ids": [
+        "14",
+        "16484",
+        "24108",
+        "105904",
+        "113174",
+        "120444",
+        "127715",
+        "134985",
+        "142255",
+        "149526",
+        "156797",
+        "164067",
+        "171338",
+        "178608",
+        "185880",
+        "193151",
+        "200421",
+        "207691",
+        "214962",
+        "222232",
+        "229502",
+        "240210",
+        "247481",
+        "254753"
+      ],
+      "census_complete": true
+    }
+  },
+  "archives": [
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz",
+      "bytes": 524214599680,
+      "size_modulo_512": 0,
+      "mtime_utc": "2026-05-14T11:01:01.776200+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0002.tar.gz",
+      "bytes": 42117506338,
+      "size_modulo_512": 290,
+      "mtime_utc": "2026-05-12T08:15:18.230926+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0003.tar.gz",
+      "bytes": 52309238056,
+      "size_modulo_512": 296,
+      "mtime_utc": "2026-05-12T09:04:15.141474+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0004.tar.gz",
+      "bytes": 43485178212,
+      "size_modulo_512": 356,
+      "mtime_utc": "2026-05-12T11:33:41.097459+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0005.tar.gz",
+      "bytes": 70030558542,
+      "size_modulo_512": 334,
+      "mtime_utc": "2026-05-12T12:27:16.576532+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0006.tar.gz",
+      "bytes": 93575322081,
+      "size_modulo_512": 481,
+      "mtime_utc": "2026-05-12T12:57:44.620031+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz",
+      "bytes": 221649527181,
+      "size_modulo_512": 397,
+      "mtime_utc": "2026-05-13T23:39:05.357630+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0008.tar.gz",
+      "bytes": 376129716224,
+      "size_modulo_512": 0,
+      "mtime_utc": "2026-05-14T11:00:42.957699+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0009.tar.gz",
+      "bytes": 385585250304,
+      "size_modulo_512": 0,
+      "mtime_utc": "2026-05-14T11:00:42.939483+00:00",
+      "integrity_verified": false
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz",
+      "bytes": 358367941293,
+      "size_modulo_512": 173,
+      "mtime_utc": "2026-05-13T22:49:51.402442+00:00",
+      "integrity_verified": false
+    }
+  ],
+  "errors": [],
+  "archive_total_bytes": 2167464837911,
+  "log_sampling": {
+    "scope": "First 96 sorted direct entries per log folder; first and last 4096 bytes per file.",
+    "findings": [
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679133.err",
+        "bytes": 114,
+        "fully_read": true,
+        "matching_lines": [
+          "[2026-05-12T12:54:17.063] error: *** JOB 52679133 ON sc085 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679133.out",
+        "bytes": 320,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679134.err",
+        "bytes": 114,
+        "fully_read": true,
+        "matching_lines": [
+          "[2026-05-12T12:54:17.050] error: *** JOB 52679134 ON sc060 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679134.out",
+        "bytes": 314,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679135.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679135.out",
+        "bytes": 545,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Tue May 12 01:15:18 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679136.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679136.out",
+        "bytes": 545,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Tue May 12 02:04:15 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679137.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679137.out",
+        "bytes": 545,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Tue May 12 04:33:41 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679138.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679138.out",
+        "bytes": 545,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Tue May 12 05:27:16 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679139.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679139.out",
+        "bytes": 545,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Tue May 12 05:57:44 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679140.err",
+        "bytes": 114,
+        "fully_read": true,
+        "matching_lines": [
+          "[2026-05-12T12:54:17.071] error: *** JOB 52679140 ON sc082 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679140.out",
+        "bytes": 319,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679141.err",
+        "bytes": 114,
+        "fully_read": true,
+        "matching_lines": [
+          "[2026-05-12T12:54:17.072] error: *** JOB 52679141 ON sc065 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679141.out",
+        "bytes": 319,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679142.err",
+        "bytes": 114,
+        "fully_read": true,
+        "matching_lines": [
+          "[2026-05-12T12:54:17.043] error: *** JOB 52679142 ON sc065 CANCELLED AT 2026-05-12T12:54:17 DUE TO TIME LIMIT ***"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52679142.out",
+        "bytes": 319,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754098.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754098.out",
+        "bytes": 547,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Wed May 13 15:49:51 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754099.err",
+        "bytes": 213,
+        "fully_read": true,
+        "matching_lines": [
+          "gzip: stdout: No space left on device",
+          "tar: Error is not recoverable: exiting now"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754099.out",
+        "bytes": 314,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754100.err",
+        "bytes": 0,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754100.out",
+        "bytes": 546,
+        "fully_read": true,
+        "matching_lines": [
+          "  Finished   : Wed May 13 16:39:05 MST 2026"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754101.err",
+        "bytes": 213,
+        "fully_read": true,
+        "matching_lines": [
+          "gzip: stdout: No space left on device",
+          "tar: Error is not recoverable: exiting now"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754101.out",
+        "bytes": 319,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754102.err",
+        "bytes": 213,
+        "fully_read": true,
+        "matching_lines": [
+          "gzip: stdout: No space left on device",
+          "tar: Error is not recoverable: exiting now"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/logs/tar_batches_52754102.out",
+        "bytes": 319,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/50Am_data/slurm_log/slurm.62563401.err",
+        "bytes": 286,
+        "fully_read": true,
+        "matching_lines": [
+          "tar: Exiting with failure status due to previous errors"
+        ]
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/50Am_data/slurm_log/slurm.62563401.out",
+        "bytes": 163,
+        "fully_read": true,
+        "matching_lines": []
+      },
+      {
+        "path": "/data/pyoung3/groupdata/svierlin/50Am_data/output/progress.log",
+        "bytes": 75,
+        "fully_read": true,
+        "matching_lines": []
+      }
+    ]
+  }
+}
