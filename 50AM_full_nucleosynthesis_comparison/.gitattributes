@@ -1,0 +1,3 @@
+# Preserve figure bytes and prevent binary images/PDFs from text diff checks.
+*.png binary
+*.pdf binary

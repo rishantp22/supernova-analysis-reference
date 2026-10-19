@@ -13,7 +13,11 @@ __pycache__/
 *.gz
 *.zip
 *.tar
-figures/
+!figures/
+!figures/**/
+!figures/**/*.png
+!figures/**/*.pdf
+figures/.mplconfig/
 logs/
 provenance/source_snapshots/
 provenance/raw_archive_prefixes/

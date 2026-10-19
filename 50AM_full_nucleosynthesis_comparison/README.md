@@ -1,6 +1,6 @@
 # Reproducible 50AM nucleosynthesis comparison
 
-> GitHub contains code, reports and small tables. See [publication scope](PUBLICATION.md) for the complete export, omitted databases and reproduction requirements.
+> GitHub contains code, reports, small tables and all generated PNG/PDF figures. See [publication scope](PUBLICATION.md) for the complete export, omitted databases and reproduction requirements.
 
 Read [the scientific report](reports/50AM_nucleosynthesis_comparison_report.md) and [key findings](reports/KEY_FINDINGS.md) before using any abundance or yield. These are audits of existing calculations, not newly calculated nucleosynthesis. Both plotting files have unresolved reliability problems.
 

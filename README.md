@@ -18,7 +18,7 @@ comparison performed on 18 October 2026. It is separate from
 | `comparison/` | Streaming comparator, correctness tests, Slurm script, software versions and measured comparison |
 | `slurm/` | Portable comparison-job template and original historical copy-job script |
 | `schema/` | The requested 298-column schema |
-| [`50AM_full_nucleosynthesis_comparison/`](50AM_full_nucleosynthesis_comparison/) | Completed all-particle, all-isotope audit: code, reports, statistics and provenance |
+| [`50AM_full_nucleosynthesis_comparison/`](50AM_full_nucleosynthesis_comparison/) | Completed all-particle, all-isotope audit: code, reports, all figures, statistics and provenance |
 | `provenance/` | Source hashes, preparation metadata and the complete excluded-file inventory |
 
 The source scripts and small reports are exact copies. Notebook code cells are
@@ -74,7 +74,7 @@ not executed during this preparation.
 ## Data and publication boundaries
 
 Large exports, chunk datasets, per-chunk intermediates, numerical caches,
-full particle catalogs, embedded HTML, plots, archives, and credentials are
+full particle catalogs, embedded HTML, plotting caches, archives, and credentials are
 excluded. `provenance/excluded_files.csv` lists the inspected excluded files and
 their sizes. `provenance/source_manifest.csv` maps each copied artifact to its
 original path and source/prepared SHA-256. These records identify data dependencies;
@@ -94,4 +94,4 @@ native abundance epochs are retained in the source documentation.
 
 ## Completed full-population audit
 
-The new [50AM audit](50AM_full_nucleosynthesis_comparison/README.md) compares 937,227 matched valid particle IDs, audits 1,876 chunk files, and records the complete available species inventory. Start with its [key findings](50AM_full_nucleosynthesis_comparison/reports/KEY_FINDINGS.md). Large databases and figures remain in the separately prepared complete export; the [publication manifest](50AM_full_nucleosynthesis_comparison/PUBLICATION_MANIFEST.csv) and [exclusion list](50AM_full_nucleosynthesis_comparison/EXCLUDED_FILES.csv) document the exact boundary.
+The new [50AM audit](50AM_full_nucleosynthesis_comparison/README.md) compares 937,227 matched valid particle IDs, audits 1,876 chunk files, and records the complete available species inventory. Start with its [key findings](50AM_full_nucleosynthesis_comparison/reports/KEY_FINDINGS.md). All 113 PNG/PDF figure pairs are included. Large databases remain in the separately prepared complete export; the [publication manifest](50AM_full_nucleosynthesis_comparison/PUBLICATION_MANIFEST.csv) and [exclusion list](50AM_full_nucleosynthesis_comparison/EXCLUDED_FILES.csv) document the exact boundary.
