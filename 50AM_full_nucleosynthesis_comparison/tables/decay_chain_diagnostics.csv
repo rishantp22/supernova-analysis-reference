@@ -1,0 +1,7 @@
+chain,old_available,old_missing,new_available,new_missing,valid_closed_chain_pairs,inconsistent_with_isolated_decay_1e5,chain_delta_min,chain_delta_p01,chain_delta_p05,chain_delta_p25,chain_delta_p50,chain_delta_p75,chain_delta_p95,chain_delta_p99,chain_delta_max
+26Al -> 26Mg,26Al;26Mg,,26Al;26Mg,,937227,935935,-0.0048424250520959,-0.0035775171279874,-0.00331911084946,-0.00106250842132,0.0004369872971999,0.000890097802,0.000985472639,0.00114353023,0.0035193200006818
+41Ca -> 41K,41Ca;41K,,41Ca;41K,,937227,937226,-1.5846488983000003e-05,-7.020637898840445e-06,-2.087650000000002e-08,6.722939999999999e-07,1.765229e-06,2.351395e-06,2.402003e-06,7.952205609e-05,0.0004237353892
+44Ti -> 44Sc -> 44Ca,44Ti;44Ca,44Sc,44Ti;44Ca,44Sc,0,0,,,,,,,,,
+53Mn -> 53Cr,53Cr,53Mn,53Mn;53Cr,,0,0,,,,,,,,,
+56Ni -> 56Co -> 56Fe,56Ni;56Fe,56Co,56Ni;56Co;56Fe,,0,0,,,,,,,,,
+57Ni -> 57Co -> 57Fe,57Fe,57Ni;57Co,57Ni;57Co;57Fe,,0,0,,,,,,,,,

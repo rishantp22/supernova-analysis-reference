@@ -1,0 +1,2713 @@
+{
+  "source": {
+    "path": "/scratch/rpraka15/50Am_plotting_all_isotopes.out",
+    "bytes": 1766352794,
+    "mtime_ns": 1792356839000000000,
+    "ctime_ns": 1792356874000000000,
+    "inode": 1393406036087399977
+  },
+  "sha256": "a5ad5ce7dc7a4beb8e75292fa0a4c64c56d71dde4bc16c8cedc223d554a55f24",
+  "rows": 937228,
+  "raw_columns": [
+    "id",
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz",
+    "ax",
+    "ay",
+    "az",
+    "mass",
+    "h",
+    "density",
+    "peak temp",
+    "peak density",
+    "Y_{e}",
+    "X_{n}",
+    "X_{H}",
+    "X_{1H}",
+    "X_{2H}",
+    "X_{He}",
+    "X_{3He}",
+    "X_{4He}",
+    "X_{Li}",
+    "X_{6Li}",
+    "X_{7Li}",
+    "X_{Be}",
+    "X_{7Be}",
+    "X_{9Be}",
+    "X_{10Be}",
+    "X_{B}",
+    "X_{10B}",
+    "X_{11B}",
+    "X_{C}",
+    "X_{12C}",
+    "X_{13C}",
+    "X_{14C}",
+    "X_{N}",
+    "X_{14N}",
+    "X_{15N}",
+    "X_{O}",
+    "X_{16O}",
+    "X_{17O}",
+    "X_{18O}",
+    "X_{Ne}",
+    "X_{20Ne}",
+    "X_{21Ne}",
+    "X_{22Ne}",
+    "X_{Na}",
+    "X_{23Na}",
+    "X_{Mg}",
+    "X_{24Mg}",
+    "X_{25Mg}",
+    "X_{26Mg}",
+    "X_{Al}",
+    "X_{26Al}",
+    "X_{27Al}",
+    "X_{Si}",
+    "X_{28Si}",
+    "X_{29Si}",
+    "X_{30Si}",
+    "X_{P}",
+    "X_{31P}",
+    "X_{S}",
+    "X_{32S}",
+    "X_{33S}",
+    "X_{34S}",
+    "X_{36S}",
+    "X_{Cl}",
+    "X_{35Cl}",
+    "X_{36Cl}",
+    "X_{37Cl}",
+    "X_{Ar}",
+    "X_{36Ar}",
+    "X_{38Ar}",
+    "X_{40Ar}",
+    "X_{K}",
+    "X_{39K}",
+    "X_{40K}",
+    "X_{41K}",
+    "X_{Ca}",
+    "X_{40Ca}",
+    "X_{41Ca}",
+    "X_{42Ca}",
+    "X_{43Ca}",
+    "X_{44Ca}",
+    "X_{46Ca}",
+    "X_{48Ca}",
+    "X_{Sc}",
+    "X_{45Sc}",
+    "X_{Ti}",
+    "X_{44Ti}",
+    "X_{46Ti}",
+    "X_{47Ti}",
+    "X_{48Ti}",
+    "X_{49Ti}",
+    "X_{50Ti}",
+    "X_{V}",
+    "X_{50V}",
+    "X_{51V}",
+    "X_{Cr}",
+    "X_{50Cr}",
+    "X_{52Cr}",
+    "X_{53Cr}",
+    "X_{54Cr}",
+    "X_{Mn}",
+    "X_{53Mn}",
+    "X_{55Mn}",
+    "X_{Fe}",
+    "X_{54Fe}",
+    "X_{56Fe}",
+    "X_{57Fe}",
+    "X_{58Fe}",
+    "X_{60Fe}",
+    "X_{Co}",
+    "X_{56Co}",
+    "X_{57Co}",
+    "X_{59Co}",
+    "X_{Ni}",
+    "X_{56Ni}",
+    "X_{57Ni}",
+    "X_{58Ni}",
+    "X_{60Ni}",
+    "X_{61Ni}",
+    "X_{62Ni}",
+    "X_{64Ni}",
+    "X_{Cu}",
+    "X_{63Cu}",
+    "X_{65Cu}",
+    "X_{Zn}",
+    "X_{64Zn}",
+    "X_{66Zn}",
+    "X_{67Zn}",
+    "X_{68Zn}",
+    "X_{70Zn}",
+    "X_{Ge}",
+    "X_{Se}",
+    "X_{74Se}",
+    "X_{Kr}",
+    "X_{78Kr}",
+    "X_{80Kr}",
+    "X_{82Kr}",
+    "X_{83Kr}",
+    "X_{84Kr}",
+    "X_{86Kr}",
+    "X_{Sr}",
+    "X_{84Sr}",
+    "X_{86Sr}",
+    "X_{87Sr}",
+    "X_{88Sr}",
+    "X_{Y}",
+    "X_{89Y}",
+    "X_{Zr}",
+    "X_{90Zr}",
+    "X_{91Zr}",
+    "X_{92Zr}",
+    "X_{94Zr}",
+    "X_{96Zr}",
+    "X_{Nb}",
+    "X_{92Nb}",
+    "X_{Mo}",
+    "X_{92Mo}",
+    "X_{94Mo}",
+    "X_{95Mo}",
+    "X_{96Mo}",
+    "X_{97Mo}",
+    "X_{98Mo}",
+    "X_{100Mo}",
+    "X_{Ru}",
+    "X_{96Ru}",
+    "X_{98Ru}",
+    "X_{99Ru}",
+    "X_{100Ru}",
+    "X_{101Ru}",
+    "X_{102Ru}",
+    "X_{104Ru}",
+    "X_{Pd}",
+    "X_{102Pd}",
+    "X_{104Pd}",
+    "X_{105Pd}",
+    "X_{106Pd}",
+    "X_{107Pd}",
+    "X_{108Pd}",
+    "X_{110Pd}",
+    "X_{Ag}",
+    "X_{107Ag}",
+    "X_{Cd}",
+    "X_{106Cd}",
+    "X_{108Cd}",
+    "X_{In}",
+    "X_{113In}",
+    "X_{Sn}",
+    "X_{112Sn}",
+    "X_{114Sn}",
+    "X_{115Sn}",
+    "X_{Te}",
+    "X_{120Te}",
+    "X_{122Te}",
+    "X_{124Te}",
+    "X_{126Te}",
+    "X_{128Te}",
+    "X_{130Te}",
+    "X_{I}",
+    "X_{129I}",
+    "X_{Xe}",
+    "X_{124Xe}",
+    "X_{126Xe}",
+    "X_{128Xe}",
+    "X_{129Xe}",
+    "X_{130Xe}",
+    "X_{131Xe}",
+    "X_{132Xe}",
+    "X_{134Xe}",
+    "X_{136Xe}",
+    "X_{Ba}",
+    "X_{130Ba}",
+    "X_{132Ba}",
+    "X_{134Ba}",
+    "X_{135Ba}",
+    "X_{136Ba}",
+    "X_{137Ba}",
+    "X_{138Ba}",
+    "X_{La}",
+    "X_{138La}",
+    "X_{139La}",
+    "X_{Nd}",
+    "X_{142Nd}",
+    "X_{143Nd}",
+    "X_{144Nd}",
+    "X_{145Nd}",
+    "X_{146Nd}",
+    "X_{148Nd}",
+    "X_{150Nd}",
+    "X_{Sm}",
+    "X_{144Sm}",
+    "X_{147Sm}",
+    "X_{148Sm}",
+    "X_{149Sm}",
+    "X_{150Sm}",
+    "X_{152Sm}",
+    "X_{154Sm}",
+    "X_{Eu}",
+    "X_{151Eu}",
+    "X_{153Eu}",
+    "X_{Gd}",
+    "X_{152Gd}",
+    "X_{154Gd}",
+    "X_{155Gd}",
+    "X_{156Gd}",
+    "X_{157Gd}",
+    "X_{158Gd}",
+    "X_{160Gd}",
+    "X_{Dy}",
+    "X_{156Dy}",
+    "X_{158Dy}",
+    "X_{160Dy}",
+    "X_{161Dy}",
+    "X_{162Dy}",
+    "X_{163Dy}",
+    "X_{164Dy}",
+    "X_{Er}",
+    "X_{162Er}",
+    "X_{164Er}",
+    "X_{166Er}",
+    "X_{167Er}",
+    "X_{168Er}",
+    "X_{170Er}",
+    "X_{Hf}",
+    "X_{174Hf}",
+    "X_{176Hf}",
+    "X_{177Hf}",
+    "X_{178Hf}",
+    "X_{179Hf}",
+    "X_{180Hf}",
+    "X_{182Hf}",
+    "X_{Ta}",
+    "X_{180Ta}",
+    "X_{W}",
+    "X_{180W}",
+    "X_{182W}",
+    "X_{183W}",
+    "X_{184W}",
+    "X_{186W}",
+    "X_{Os}",
+    "X_{184Os}",
+    "X_{186Os}",
+    "X_{187Os}",
+    "X_{188Os}",
+    "X_{189Os}",
+    "X_{190Os}",
+    "X_{192Os}",
+    "X_{Pt}",
+    "X_{190Pt}",
+    "X_{192Pt}",
+    "X_{194Pt}",
+    "X_{195Pt}",
+    "X_{196Pt}",
+    "X_{198Pt}"
+  ],
+  "columns": [
+    "id",
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz",
+    "ax",
+    "ay",
+    "az",
+    "mass",
+    "h",
+    "density",
+    "peak temp",
+    "peak density",
+    "Y_{e}",
+    "n",
+    "H",
+    "1H",
+    "2H",
+    "He",
+    "3He",
+    "4He",
+    "Li",
+    "6Li",
+    "7Li",
+    "Be",
+    "7Be",
+    "9Be",
+    "10Be",
+    "B",
+    "10B",
+    "11B",
+    "C",
+    "12C",
+    "13C",
+    "14C",
+    "N",
+    "14N",
+    "15N",
+    "O",
+    "16O",
+    "17O",
+    "18O",
+    "Ne",
+    "20Ne",
+    "21Ne",
+    "22Ne",
+    "Na",
+    "23Na",
+    "Mg",
+    "24Mg",
+    "25Mg",
+    "26Mg",
+    "Al",
+    "26Al",
+    "27Al",
+    "Si",
+    "28Si",
+    "29Si",
+    "30Si",
+    "P",
+    "31P",
+    "S",
+    "32S",
+    "33S",
+    "34S",
+    "36S",
+    "Cl",
+    "35Cl",
+    "36Cl",
+    "37Cl",
+    "Ar",
+    "36Ar",
+    "38Ar",
+    "40Ar",
+    "K",
+    "39K",
+    "40K",
+    "41K",
+    "Ca",
+    "40Ca",
+    "41Ca",
+    "42Ca",
+    "43Ca",
+    "44Ca",
+    "46Ca",
+    "48Ca",
+    "Sc",
+    "45Sc",
+    "Ti",
+    "44Ti",
+    "46Ti",
+    "47Ti",
+    "48Ti",
+    "49Ti",
+    "50Ti",
+    "V",
+    "50V",
+    "51V",
+    "Cr",
+    "50Cr",
+    "52Cr",
+    "53Cr",
+    "54Cr",
+    "Mn",
+    "53Mn",
+    "55Mn",
+    "Fe",
+    "54Fe",
+    "56Fe",
+    "57Fe",
+    "58Fe",
+    "60Fe",
+    "Co",
+    "56Co",
+    "57Co",
+    "59Co",
+    "Ni",
+    "56Ni",
+    "57Ni",
+    "58Ni",
+    "60Ni",
+    "61Ni",
+    "62Ni",
+    "64Ni",
+    "Cu",
+    "63Cu",
+    "65Cu",
+    "Zn",
+    "64Zn",
+    "66Zn",
+    "67Zn",
+    "68Zn",
+    "70Zn",
+    "Ge",
+    "Se",
+    "74Se",
+    "Kr",
+    "78Kr",
+    "80Kr",
+    "82Kr",
+    "83Kr",
+    "84Kr",
+    "86Kr",
+    "Sr",
+    "84Sr",
+    "86Sr",
+    "87Sr",
+    "88Sr",
+    "Y",
+    "89Y",
+    "Zr",
+    "90Zr",
+    "91Zr",
+    "92Zr",
+    "94Zr",
+    "96Zr",
+    "Nb",
+    "92Nb",
+    "Mo",
+    "92Mo",
+    "94Mo",
+    "95Mo",
+    "96Mo",
+    "97Mo",
+    "98Mo",
+    "100Mo",
+    "Ru",
+    "96Ru",
+    "98Ru",
+    "99Ru",
+    "100Ru",
+    "101Ru",
+    "102Ru",
+    "104Ru",
+    "Pd",
+    "102Pd",
+    "104Pd",
+    "105Pd",
+    "106Pd",
+    "107Pd",
+    "108Pd",
+    "110Pd",
+    "Ag",
+    "107Ag",
+    "Cd",
+    "106Cd",
+    "108Cd",
+    "In",
+    "113In",
+    "Sn",
+    "112Sn",
+    "114Sn",
+    "115Sn",
+    "Te",
+    "120Te",
+    "122Te",
+    "124Te",
+    "126Te",
+    "128Te",
+    "130Te",
+    "I",
+    "129I",
+    "Xe",
+    "124Xe",
+    "126Xe",
+    "128Xe",
+    "129Xe",
+    "130Xe",
+    "131Xe",
+    "132Xe",
+    "134Xe",
+    "136Xe",
+    "Ba",
+    "130Ba",
+    "132Ba",
+    "134Ba",
+    "135Ba",
+    "136Ba",
+    "137Ba",
+    "138Ba",
+    "La",
+    "138La",
+    "139La",
+    "Nd",
+    "142Nd",
+    "143Nd",
+    "144Nd",
+    "145Nd",
+    "146Nd",
+    "148Nd",
+    "150Nd",
+    "Sm",
+    "144Sm",
+    "147Sm",
+    "148Sm",
+    "149Sm",
+    "150Sm",
+    "152Sm",
+    "154Sm",
+    "Eu",
+    "151Eu",
+    "153Eu",
+    "Gd",
+    "152Gd",
+    "154Gd",
+    "155Gd",
+    "156Gd",
+    "157Gd",
+    "158Gd",
+    "160Gd",
+    "Dy",
+    "156Dy",
+    "158Dy",
+    "160Dy",
+    "161Dy",
+    "162Dy",
+    "163Dy",
+    "164Dy",
+    "Er",
+    "162Er",
+    "164Er",
+    "166Er",
+    "167Er",
+    "168Er",
+    "170Er",
+    "Hf",
+    "174Hf",
+    "176Hf",
+    "177Hf",
+    "178Hf",
+    "179Hf",
+    "180Hf",
+    "182Hf",
+    "Ta",
+    "180Ta",
+    "W",
+    "180W",
+    "182W",
+    "183W",
+    "184W",
+    "186W",
+    "Os",
+    "184Os",
+    "186Os",
+    "187Os",
+    "188Os",
+    "189Os",
+    "190Os",
+    "192Os",
+    "Pt",
+    "190Pt",
+    "192Pt",
+    "194Pt",
+    "195Pt",
+    "196Pt",
+    "198Pt"
+  ],
+  "unique_valid_ids": 937227,
+  "duplicate_ids": 0,
+  "invalid_ids": 1,
+  "id_inversions": 0,
+  "blank_lines": [],
+  "wrong_width_lines": [],
+  "column_counts": {
+    "id": {
+      "NA": 0,
+      "invalid": 1,
+      "negative": 0,
+      "zero": 0,
+      "positive": 937227
+    },
+    "x": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468763,
+      "zero": 0,
+      "positive": 468465
+    },
+    "y": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468259,
+      "zero": 0,
+      "positive": 468969
+    },
+    "z": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468525,
+      "zero": 0,
+      "positive": 468703
+    },
+    "vx": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468939,
+      "zero": 0,
+      "positive": 468289
+    },
+    "vy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468033,
+      "zero": 0,
+      "positive": 469195
+    },
+    "vz": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468658,
+      "zero": 0,
+      "positive": 468570
+    },
+    "ax": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468949,
+      "zero": 0,
+      "positive": 468279
+    },
+    "ay": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 468465,
+      "zero": 0,
+      "positive": 468763
+    },
+    "az": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 469187,
+      "zero": 0,
+      "positive": 468041
+    },
+    "mass": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 937228
+    },
+    "h": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 937228
+    },
+    "density": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 937228
+    },
+    "peak temp": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 937228
+    },
+    "peak density": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 937228
+    },
+    "Y_{e}": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 495014,
+      "positive": 442214
+    },
+    "n": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "H": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "1H": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 289641,
+      "positive": 647587
+    },
+    "2H": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 936974,
+      "positive": 254
+    },
+    "He": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "3He": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 936974,
+      "positive": 254
+    },
+    "4He": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 71580,
+      "positive": 865648
+    },
+    "Li": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "6Li": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937044,
+      "positive": 184
+    },
+    "7Li": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Be": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "7Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937055,
+      "positive": 173
+    },
+    "9Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937210,
+      "positive": 18
+    },
+    "10Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "B": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "10B": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937144,
+      "positive": 84
+    },
+    "11B": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 935858,
+      "positive": 1370
+    },
+    "C": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "12C": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 5363,
+      "positive": 931865
+    },
+    "13C": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 49495,
+      "positive": 887733
+    },
+    "14C": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 889493,
+      "positive": 47735
+    },
+    "N": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "14N": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 33289,
+      "positive": 903939
+    },
+    "15N": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 22336,
+      "positive": 914892
+    },
+    "O": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "16O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 1300,
+      "positive": 935928
+    },
+    "17O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 42673,
+      "positive": 894555
+    },
+    "18O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 46946,
+      "positive": 890282
+    },
+    "Ne": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "20Ne": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9167,
+      "positive": 928061
+    },
+    "21Ne": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 34214,
+      "positive": 903014
+    },
+    "22Ne": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 33599,
+      "positive": 903629
+    },
+    "Na": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "23Na": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 13196,
+      "positive": 924032
+    },
+    "Mg": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "24Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 659,
+      "positive": 936569
+    },
+    "25Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 14207,
+      "positive": 923021
+    },
+    "26Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 21848,
+      "positive": 915380
+    },
+    "Al": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "26Al": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 14268,
+      "positive": 922960
+    },
+    "27Al": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9802,
+      "positive": 927426
+    },
+    "Si": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "28Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 1,
+      "positive": 937227
+    },
+    "29Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 1,
+      "positive": 937227
+    },
+    "30Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 1,
+      "positive": 937227
+    },
+    "P": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "31P": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "S": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "32S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "33S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "34S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "36S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 22000,
+      "positive": 915228
+    },
+    "Cl": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "35Cl": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "36Cl": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 13105,
+      "positive": 924123
+    },
+    "37Cl": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "Ar": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "36Ar": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "38Ar": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "40Ar": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 22076,
+      "positive": 915152
+    },
+    "K": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "39K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4,
+      "positive": 937224
+    },
+    "40K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 13772,
+      "positive": 923456
+    },
+    "41K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 13341,
+      "positive": 923887
+    },
+    "Ca": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "40Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 5,
+      "positive": 937223
+    },
+    "41Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 5,
+      "positive": 937223
+    },
+    "42Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 5,
+      "positive": 937223
+    },
+    "43Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 5,
+      "positive": 937223
+    },
+    "44Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 2112,
+      "positive": 935116
+    },
+    "46Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 32260,
+      "positive": 904968
+    },
+    "48Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 48123,
+      "positive": 889105
+    },
+    "Sc": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "45Sc": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 5,
+      "positive": 937223
+    },
+    "Ti": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "44Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 52,
+      "positive": 937176
+    },
+    "46Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 6,
+      "positive": 937222
+    },
+    "47Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 6,
+      "positive": 937222
+    },
+    "48Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 6,
+      "positive": 937222
+    },
+    "49Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 6,
+      "positive": 937222
+    },
+    "50Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 22075,
+      "positive": 915153
+    },
+    "V": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "50V": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 4348,
+      "positive": 932880
+    },
+    "51V": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 6,
+      "positive": 937222
+    },
+    "Cr": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "50Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "52Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "53Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "54Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 2712,
+      "positive": 934516
+    },
+    "Mn": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "53Mn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 16,
+      "positive": 937212
+    },
+    "55Mn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "Fe": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "54Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "56Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "57Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 8,
+      "positive": 937220
+    },
+    "58Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 14,
+      "positive": 937214
+    },
+    "60Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 36995,
+      "positive": 900233
+    },
+    "Co": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "56Co": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 55,
+      "positive": 937173
+    },
+    "57Co": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 15,
+      "positive": 937213
+    },
+    "59Co": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9,
+      "positive": 937219
+    },
+    "Ni": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "56Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 469136,
+      "positive": 468092
+    },
+    "57Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 202,
+      "positive": 937026
+    },
+    "58Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9,
+      "positive": 937219
+    },
+    "60Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9,
+      "positive": 937219
+    },
+    "61Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9,
+      "positive": 937219
+    },
+    "62Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 9,
+      "positive": 937219
+    },
+    "64Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 29214,
+      "positive": 908014
+    },
+    "Cu": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "63Cu": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 10,
+      "positive": 937218
+    },
+    "65Cu": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 28647,
+      "positive": 908581
+    },
+    "Zn": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "64Zn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 10,
+      "positive": 937218
+    },
+    "66Zn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 19131,
+      "positive": 918097
+    },
+    "67Zn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 29381,
+      "positive": 907847
+    },
+    "68Zn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 28100,
+      "positive": 909128
+    },
+    "70Zn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 36748,
+      "positive": 900480
+    },
+    "Ge": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "Se": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "74Se": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 894905,
+      "positive": 42323
+    },
+    "Kr": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "78Kr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 910370,
+      "positive": 26858
+    },
+    "80Kr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 909049,
+      "positive": 28179
+    },
+    "82Kr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 915564,
+      "positive": 21664
+    },
+    "83Kr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 921556,
+      "positive": 15672
+    },
+    "84Kr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 923179,
+      "positive": 14049
+    },
+    "86Kr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937215,
+      "positive": 13
+    },
+    "Sr": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "84Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 923031,
+      "positive": 14197
+    },
+    "86Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 927353,
+      "positive": 9875
+    },
+    "87Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937227,
+      "positive": 1
+    },
+    "88Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937214,
+      "positive": 14
+    },
+    "Y": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "89Y": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937219,
+      "positive": 9
+    },
+    "Zr": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "90Zr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937209,
+      "positive": 19
+    },
+    "91Zr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "92Zr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "94Zr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "96Zr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Nb": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "92Nb": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Mo": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "92Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937227,
+      "positive": 1
+    },
+    "94Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "95Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "96Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "97Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "98Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "100Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Ru": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "96Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "98Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "99Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "100Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "101Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "102Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "104Ru": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Pd": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "102Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "104Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "105Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "106Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "107Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "108Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "110Pd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Ag": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "107Ag": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Cd": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "106Cd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "108Cd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "In": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "113In": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Sn": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "112Sn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "114Sn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "115Sn": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Te": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "120Te": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "122Te": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "124Te": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "126Te": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "128Te": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "130Te": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "I": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "129I": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Xe": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "124Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "126Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "128Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "129Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "130Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "131Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "132Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "134Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "136Xe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Ba": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "130Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "132Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "134Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "135Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "136Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "137Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "138Ba": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "La": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "138La": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "139La": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Nd": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "142Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "143Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "144Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "145Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "146Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "148Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "150Nd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Sm": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "144Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "147Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "148Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "149Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "150Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "152Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "154Sm": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Eu": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "151Eu": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "153Eu": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Gd": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "152Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "154Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "155Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "156Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "157Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "158Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "160Gd": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Dy": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "156Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "158Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "160Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "161Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "162Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "163Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "164Dy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Er": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "162Er": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "164Er": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "166Er": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "167Er": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "168Er": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "170Er": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Hf": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "174Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "176Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "177Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "178Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "179Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "180Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "182Hf": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Ta": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "180Ta": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "W": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "180W": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "182W": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "183W": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "184W": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "186W": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Os": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "184Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "186Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "187Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "188Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "189Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "190Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "192Os": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "Pt": {
+      "NA": 937228,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 0
+    },
+    "190Pt": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "192Pt": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "194Pt": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "195Pt": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "196Pt": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    },
+    "198Pt": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 937228,
+      "positive": 0
+    }
+  },
+  "invalid_cells": [
+    {
+      "row_index": 0,
+      "line": 2,
+      "column": "id",
+      "token": "y193"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ids": 943900,
+  "input_species": 177,
+  "native_species": 20,
+  "particles_any_shared_isotope_difference": 943900,
+  "seed_minus_native_composition_Ye": {
+    "min": -0.3329970268293033,
+    "p01": -0.33284052085307636,
+    "p05": -0.3328397226306423,
+    "p25": -0.3328076170552101,
+    "p50": -0.3326131128449803,
+    "p75": -0.0005024289439857776,
+    "p95": -0.00046146810025082807,
+    "p99": -0.00045725437767574206,
+    "max": -0.00044424721843316917
+  },
+  "composition_Ye_difference_gt_1e5": 943900,
+  "seed_vs_native_approximation_caveat": "Native SNSPH has an approximate 20-species inventory. Small species differences need not be errors; large H/He-to-O inventory differences require seed provenance and cannot be explained by exporting more species."
+}

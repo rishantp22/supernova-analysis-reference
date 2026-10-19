@@ -1,0 +1,17 @@
+{
+  "reported_Ye_zero": 495014,
+  "reported_Ye_negative": 0,
+  "reported_Ye_over_one": 0,
+  "eoc_minus_archived_normalized_seed_Ye": {
+    "min": -0.017429936459567197,
+    "p01": -0.005967211112493312,
+    "p05": -0.00012076117908726979,
+    "p25": 1.171846952807698e-08,
+    "p50": 1.2896617090918383e-07,
+    "p75": 5.219672375433859e-07,
+    "p95": 8.400361533045242e-07,
+    "p99": 9.61130704357771e-07,
+    "max": 4.356052320186876e-06
+  },
+  "initial_vs_final_epoch_caveat": "Archived seeds can precede restarts; this is an archive comparison, not proof of per-run input identity"
+}

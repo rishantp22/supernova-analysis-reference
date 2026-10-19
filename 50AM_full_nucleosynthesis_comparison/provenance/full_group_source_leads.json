@@ -1,0 +1,5509 @@
+{
+  "source_files_examined": 3243,
+  "leads": [
+    {
+      "path": "/scratch/svierlin/prism-v02/job_array_driver_HTC.sh",
+      "sha256": "0a3fa5fe101405679ff18882b2a370c97a8948d60c62a6802d575e9a5739584a",
+      "matches": [
+        {
+          "line": 20,
+          "text": "COND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/job_array_driver.sh",
+      "sha256": "ebd0f4ccf170a945e2c10a6e069604a0ff8359119a3515967fb0bc769f5037b1",
+      "matches": [
+        {
+          "line": 27,
+          "text": "COND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/EOC_compile.sh",
+      "sha256": "d25899b4dca3de8544dd2872a4b7a85f6103484bf4de20a1c50582fcde2612d2",
+      "matches": [
+        {
+          "line": 15,
+          "text": "# uses 50Am_abund to make isotope list"
+        },
+        {
+          "line": 20,
+          "text": "ABUND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/job_array_driver_v02.sh",
+      "sha256": "66e96cb858548b830e44a2ce70725f930308168015f03ef0942efb999938b4d8",
+      "matches": [
+        {
+          "line": 32,
+          "text": "COND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/rewrite_manifest12.sh",
+      "sha256": "4e0daaa3b18aabceb034324b5aed3c9b8827cb00a601fbdc7dd466dea6d62246",
+      "matches": [
+        {
+          "line": 16,
+          "text": "BASE=\"/scratch/svierlin/prism-v02/input/conditions/50Am_output\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/job_array_driver_cco2.sh",
+      "sha256": "8d9430c4ac0e9d41b94f47d42379d223dc0c6c9ad73cf08bb1bafae4ace4288a",
+      "matches": [
+        {
+          "line": 27,
+          "text": "COND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund/\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/move_abund_Z.sh",
+      "sha256": "ca233f693337628874032ddbc20f6c37df9b97a729040bef85938c6d47c247e4",
+      "matches": [
+        {
+          "line": 6,
+          "text": "SRC_ABUND=\"$BASE/50Am_abund12_changed\""
+        },
+        {
+          "line": 7,
+          "text": "SRC_OUTPUT=\"$BASE/50Am_output12_changed\""
+        },
+        {
+          "line": 8,
+          "text": "DST_ABUND=\"$BASE/input/conditions/50Am_abund\""
+        },
+        {
+          "line": 9,
+          "text": "DST_OUTPUT=\"$BASE/input/conditions/50Am_output\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/del_abund_Z.sh",
+      "sha256": "98855c1cae101e7d1288a5a94d3d4f75a65618be8cb718938a151e4b853ecf34",
+      "matches": [
+        {
+          "line": 6,
+          "text": "ABUND_DIR=\"$BASE/input/conditions/50Am_abund\""
+        },
+        {
+          "line": 7,
+          "text": "OUTPUT_DIR=\"$BASE/input/conditions/50Am_output\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/find_abund_z.sh",
+      "sha256": "2b840db7d9b84b39136123c9dc960878ec30443c734bb727bccdee35f9277164",
+      "matches": [
+        {
+          "line": 4,
+          "text": "ABUND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/missing_ids.sh",
+      "sha256": "5faf1d71630f6e6ecf8080ac38b3990ee7f65e0308ab30a2db0c58dcc8429690",
+      "matches": [
+        {
+          "line": 17,
+          "text": "    awk '{print \"/scratch/svierlin/prism-v02/input/conditions/50Am_output/\" $1 \"_trajectory.txt\"}' \\"
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/job_array_driver_vconv.sh",
+      "sha256": "5f6eb98a1a8babb323b6dc991cf65fd45708319f8cdc038efb865f523aa701af",
+      "matches": [
+        {
+          "line": 27,
+          "text": "COND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund/\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/del_files.sh",
+      "sha256": "a5f49210a64256e35b13da75da485836266c9e8df4339e3e8e930d5e7935675e",
+      "matches": [
+        {
+          "line": 16,
+          "text": "ABUND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        },
+        {
+          "line": 17,
+          "text": "TRAJ_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_output\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/move_abund_traj.sh",
+      "sha256": "f1e3743e1fa1301767dd58f7e18fceaf68ee6cba3b8ef28f7ece74b050bdd176",
+      "matches": [
+        {
+          "line": 17,
+          "text": "OUT_SRC=\"$COND/50Am_output\""
+        },
+        {
+          "line": 18,
+          "text": "ABUND_SRC=\"$COND/50Am_abund\""
+        },
+        {
+          "line": 20,
+          "text": "OUT_DEST=\"$BASE/50Am_output12\""
+        },
+        {
+          "line": 21,
+          "text": "ABUND_DEST=\"$BASE/50Am_abund12\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/make_last_abund.sh",
+      "sha256": "40b316cf17e5b57d9fb6b5d0a7e385664d2fe73beded05a46bb1d4c6cde8b260",
+      "matches": [
+        {
+          "line": 11,
+          "text": "# goes into xtime.txt and chooses last datablock. it makes a new abundance file and puts it into 50Am_abund12_changed"
+        },
+        {
+          "line": 17,
+          "text": "DEST=\"$BASE/50Am_abund12_changed\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/move_manifest12_files.sh",
+      "sha256": "9219fe19cb655bd88207b435dc694e9cf6c56ddf561ec2e0b05616bf53f5daf1",
+      "matches": [
+        {
+          "line": 17,
+          "text": "ABUND_SRC=\"/scratch/svierlin/prism-v02/50Am_abund12_changed\""
+        },
+        {
+          "line": 18,
+          "text": "TRAJ_SRC=\"/scratch/svierlin/prism-v02/50Am_output12_changed\""
+        },
+        {
+          "line": 21,
+          "text": "ABUND_DEST=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        },
+        {
+          "line": 22,
+          "text": "TRAJ_DEST=\"/scratch/svierlin/prism-v02/input/conditions/50Am_output\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/job_array_driver_jet3b.sh",
+      "sha256": "70124480cd57ae35702f6d2fe1b66aab648022c31e1f6f1d8909461c9f55c57e",
+      "matches": [
+        {
+          "line": 27,
+          "text": "COND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund/\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/clean_traj.sh",
+      "sha256": "d9d3c1dcc79a2e073c1fd00bbbaf844f3bd08f8f1a68fae063c20ddf1cb1785b",
+      "matches": [
+        {
+          "line": 3,
+          "text": "DIR=\"/scratch/svierlin/prism-v02/50Am_output12_changed\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/make_last_traj.sh",
+      "sha256": "c36b9780acfbc45ab63d284eb36dcae837f97c9cc90ea69b39426729b073d74b",
+      "matches": [
+        {
+          "line": 14,
+          "text": "# ascending time order are removed. these new files are saved to 50Am_output12_changed"
+        },
+        {
+          "line": 20,
+          "text": "TRAJ_SRC=\"$BASE/50Am_output12\""
+        },
+        {
+          "line": 21,
+          "text": "TRAJ_DEST=\"$BASE/50Am_output12_changed\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/replace_50Am_abund.sh",
+      "sha256": "541f66899148869cf75eaf1c7120a6f27f51b6389c423fdd10ba6061b82da45d",
+      "matches": [
+        {
+          "line": 14,
+          "text": "SOURCE_DIR=\"/scratch/svierlin/prism-v02/50Am_abund12\""
+        },
+        {
+          "line": 15,
+          "text": "TARGET_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/create_control.sh",
+      "sha256": "5d2d2a197dc13d25b67410f042281ed820e351239a1f36a453e363afee83f984",
+      "matches": [
+        {
+          "line": 27,
+          "text": "for traj in \"$COND_DIR\"/50Am_output/*_trajectory.txt; do"
+        },
+        {
+          "line": 31,
+          "text": "  DYNAMIC_ABUND=\"$COND_DIR/50Am_abund/${id}_abund.txt\""
+        }
+      ]
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/EOC_compile_incremental.sh",
+      "sha256": "2943261bdce34aa9f4179a582d9a6d6b5974c1e28655d1830622f4e33da61084",
+      "matches": [
+        {
+          "line": 13,
+          "text": "# uses 50Am_abund to make isotope list"
+        },
+        {
+          "line": 18,
+          "text": "ABUND_DIR=\"/scratch/svierlin/prism-v02/input/conditions/50Am_abund\""
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0128.sh",
+      "sha256": "52648314adf0b0c56aa868fe601e4d4a1cfae6fe3c19d8f47d0b1585aff527a9",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0128_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0128_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0128"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0128.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0128"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0064.sh",
+      "sha256": "d9580872655e5306e95a8f7a35170f20b0fd4690ba9a8dcebb147810ea24d8e4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0064_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0064_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0064"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0064.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0064"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0195.sh",
+      "sha256": "842b620ef844bf8da422518cc7ef1f770c078d80292ebe72996f323cf9e5c9d3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0195_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0195_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0195"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0195.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0195"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0118.sh",
+      "sha256": "cc713ba66a0e111c892dc8e3cd6943d7ab5272390156259297a141f975fab1d2",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0118_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0118_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0118"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0118.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0118"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0112.sh",
+      "sha256": "eb24debb1baca47ebe4c601dfe2565d8e27c729f71cb5ef3f2c428704c7016e1",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0112_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0112_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0112"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0112.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0112"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0015.sh",
+      "sha256": "c150d2568c62313994b9cb7b715f8e2406128af752246650219210ad50b26f49",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0015_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0015_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0015"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0015.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0015"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0160.sh",
+      "sha256": "0234e549106ca3d57174ab6dd525a1ff879936e3fd11335998d6768aa381aca1",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0160_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0160_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0160"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0160.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0160"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0171.sh",
+      "sha256": "02dc8dcc26b2428a92d4ebf2172de89f9bd76e206bb80038529bdd45415c3a41",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0171_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0171_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0171"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0171.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0171"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0022.sh",
+      "sha256": "421ff00de0e2338fd960e2ec1a635fcf66f127ab460dc67138261d87005f7ce4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0022_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0022_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0022"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0022.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0022"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0173.sh",
+      "sha256": "f0aec344719cf546671ddece189b9c2d0259718f5b4bfb3e592528dc1ad94e50",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0173_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0173_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0173"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0173.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0173"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0045.sh",
+      "sha256": "ef437bbcc29757660e6effa749d2ecb997dd428c75696cda4a899abb1cba96eb",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0045_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0045_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0045"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0045.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0045"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0021.sh",
+      "sha256": "e283738638a6d65ec3b4b2a5a26a676dd9feb86f9b3d8d11a7715c7919ad3c78",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0021_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0021_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0021"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0021.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0021"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0058.sh",
+      "sha256": "4215de33eac1ba4d0cdccc79180d9102d4d11727ef4d3798a5e3f648bd4f8fa3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0058_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0058_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0058"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0058.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0058"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0104.sh",
+      "sha256": "43848203dcb3cc98d2914698eb7b2ab17f9ac20e42a123557983a4b8f1af1c59",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0104_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0104_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0104"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0104.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0104"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0067.sh",
+      "sha256": "b4abd1aee9b07c28d9e659033538feb72c90923d1ceff3384f1d13010e7dc3d1",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0067_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0067_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0067"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0067.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0067"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0179.sh",
+      "sha256": "12026e47f152050c360aaeef69c7e3086975d8b96843ed9f8f640baffc80f20f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0179_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0179_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0179"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0179.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0179"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0148.sh",
+      "sha256": "7841f426161e0fe585d56172b90895e2ce81bfad58c71b916825d1e78b726cd5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0148_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0148_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0148"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0148.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0148"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0110.sh",
+      "sha256": "6cfeb5ab291744312388911ba711152e28faa254644af01826f72250cf55228a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0110_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0110_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0110"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0110.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0110"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0063.sh",
+      "sha256": "6a9471c6586c2d95874cc7cd76311f70a2a84bd3bccb256bbf8465861728cb36",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0063_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0063_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0063"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0063.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0063"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0047.sh",
+      "sha256": "dcf1562c22da50ca37dc92f5f875b5684a95ed9ec7a08dd2e14caf6bd116fd7d",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0047_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0047_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0047"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0047.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0047"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0033.sh",
+      "sha256": "f50890ce57979309af004ae97eaad1881b39ac1b37714343c7a58631696d733e",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0033_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0033_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0033"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0033.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0033"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0192.sh",
+      "sha256": "095ccceb632160a1b0f34c63d8031707de526f3aeb9b6a545b3030471877d38c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0192_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0192_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0192"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0192.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0192"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0009.sh",
+      "sha256": "1518100d1b8817054b1dc9c82b6b15b52163a39eb77f57279e0a67b3c855a9d5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0009_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0009_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0009"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0009.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0009"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0149.sh",
+      "sha256": "a2c72c4a4db7356385f2398b6d6fdf8eceb710ccb211a474c79713c10c091446",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0149_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0149_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0149"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0149.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0149"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0029.sh",
+      "sha256": "8d4603abe227efa2bd85642b654dd4219e99c22d96636a9a05fecb79c422942c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0029_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0029_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0029"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0029.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0029"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0102.sh",
+      "sha256": "dc54073015372a057429c209e8f0bbf0cbb8310a27944f67a8b010b1badfed5b",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0102_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0102_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0102"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0102.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0102"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0078.sh",
+      "sha256": "3a8f429e4d29747edda267a995583abcbb978c6c31922e31ba959e9f3d513ae1",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0078_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0078_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0078"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0078.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0078"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0114.sh",
+      "sha256": "ffaefdfce2a73ea6bad579a73aa1d7c9202e8ddd0b2d7f95fab00aa01fe37e0f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0114_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0114_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0114"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0114.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0114"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0159.sh",
+      "sha256": "dfe949e38c5be7046e37921353c725a570c0e7dfe9c34b570ad906086c7bcbca",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0159_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0159_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0159"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0159.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0159"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0042.sh",
+      "sha256": "b59511f9ab1cd037dd1457face5b9cf4df3582c73c16f184a8556dec65a035c2",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0042_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0042_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0042"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0042.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0042"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0089.sh",
+      "sha256": "a6dbcd0d6e8557459669b88f3e21e1b9fc0eae15b860626db5c47c444e95a0e8",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0089_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0089_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0089"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0089.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0089"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0056.sh",
+      "sha256": "93ac747c4bbd8447fc7700d228546379c5a52a0b8378a193627445cfda55b9d9",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0056_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0056_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0056"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0056.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0056"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0108.sh",
+      "sha256": "a1fb07bb4e1793f936cf01d8a1c30d63c82c96f4daca8b848776c974dd2df304",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0108_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0108_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0108"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0108.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0108"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0170.sh",
+      "sha256": "c58f5d5f3418ba83cc97c6cabc5e057bad31d3621a3b255c4e16e0ca4628ed08",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0170_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0170_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0170"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0170.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0170"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0079.sh",
+      "sha256": "b051375b58ddd2463b9ff02e2c9e4fccede44449df1c277c24e50d27bd139ac7",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0079_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0079_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0079"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0079.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0079"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0198.sh",
+      "sha256": "bca05ed91128211085a383383bcde4da7d8a6676121aafdc8ca51da370294067",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0198_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0198_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0198"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0198.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0198"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0143.sh",
+      "sha256": "ddf551b7ba5a4db0cf54cf1deba41388cc335b07fdc3f8bcaa3ab163a5168d3d",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0143_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0143_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0143"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0143.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0143"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0010.sh",
+      "sha256": "3abe276f6365ddafb5fbffa6873371c8832bba7fb86dad490f319cd9617ecf8f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0010_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0010_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0010"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0010.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0010"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0069.sh",
+      "sha256": "d1adfae722d8c914e1055804dc9e6106bd2c734efd9a419f59d6f41739532f34",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0069_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0069_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0069"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0069.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0069"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0065.sh",
+      "sha256": "98d6043e844de8ea5c189985592df7323cac23b37277c81eadda15da0066cd73",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0065_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0065_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0065"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0065.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0065"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0051.sh",
+      "sha256": "58932714c70b3f0c42e1d36d0fc599818a672de53d6f6b0d1ec1d0a8489a1dbf",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0051_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0051_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0051"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0051.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0051"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0136.sh",
+      "sha256": "760e19636fd2300a8706612747c28b8b3ce13bac7fed60399b9d846142e041bc",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0136_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0136_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0136"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0136.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0136"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0037.sh",
+      "sha256": "de907d0bc40c4b88e6480a7a77d98a146374c4ae092a5631096f33686c41d573",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0037_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0037_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0037"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0037.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0037"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0017.sh",
+      "sha256": "14a3c9e7197079be15fbb8ad0e79da40ed7f1937aa2e40100901a0fed5a71669",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0017_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0017_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0017"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0017.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0017"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0066.sh",
+      "sha256": "4dc70c507e91b36208496ecc83e777e329205e9fa656e7cdb2f698314e7f4da4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0066_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0066_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0066"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0066.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0066"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0129.sh",
+      "sha256": "1957b6c6474b5a986f54a44dd05b935ce238b0254679e3099cddb810b178bbd1",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0129_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0129_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0129"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0129.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0129"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0157.sh",
+      "sha256": "caac512208327d2c75f60aba077e4c01f87f0685994e86a36abc466e7e95cf35",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0157_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0157_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0157"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0157.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0157"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0005.sh",
+      "sha256": "a6bf608b32d3c541a8b795907f60091f9bdab9e009f80d6ec498ad46133f7287",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0005_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0005_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0005"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0005.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0005"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0052.sh",
+      "sha256": "61355b84523d1435a69e9ad7f5ce3c21cffa0b0e40cddf224cbdbe745ad8517d",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0052_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0052_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0052"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0052.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0052"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0006.sh",
+      "sha256": "431a36fc524ffcd464f45b2c131c1b6f1c645e5bc06fed3833181c8aa8a9c4ea",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0006_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0006_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0006"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0006.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0006"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0073.sh",
+      "sha256": "70a2f95f204471016d8f6b3aad6963ff56faec4967ecc5cb50644b0366b1d4e9",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0073_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0073_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0073"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0073.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0073"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0153.sh",
+      "sha256": "1e2d8baea880d505f362f72ab1c5a55fc9cc5256190fe97438e5221d48a7637f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0153_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0153_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0153"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0153.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0153"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0188.sh",
+      "sha256": "9b1da890dc0863ffc372d31f6c35cbcc308fe18c872e8afe4398f84770f87a1b",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0188_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0188_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0188"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0188.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0188"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0139.sh",
+      "sha256": "e8a66ba65b781e50fe210da123b97b9f26cbd855269217a8aa1832a7969f6c3a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0139_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0139_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0139"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0139.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0139"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0131.sh",
+      "sha256": "d2385ffb9af9812690d03c645fab7f038db932f241fa87fbfdcefd8d2a4fb63a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0131_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0131_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0131"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0131.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0131"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0111.sh",
+      "sha256": "679647738b06d453da4712966fe58d99ca70c5b05f2cf8384db92619bc2ab7b2",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0111_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0111_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0111"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0111.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0111"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0093.sh",
+      "sha256": "8c721fe500244391c56b7ebaea16bc712b62f0f4f73313143ec5cc9058613101",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0093_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0093_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0093"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0093.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0093"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0109.sh",
+      "sha256": "9a6248fe5967671fd15e7bce5a23214ccb4cb5a250bb71f2e49b4b1b6b70b9de",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0109_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0109_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0109"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0109.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0109"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0023.sh",
+      "sha256": "6de5ed88851af935daf2700af996633d9e16324fb1b21b730f503094eabb7bd7",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0023_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0023_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0023"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0023.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0023"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0082.sh",
+      "sha256": "6ce5219667ac4bb52493475680fad9f8e145b7f7447e0cbbd27f50f5f9abdf90",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0082_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0082_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0082"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0082.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0082"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0050.sh",
+      "sha256": "e254e35afd70aeb1cebb25e32f54069350eeb6b44ed3a144aceaa0073db7e566",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0050_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0050_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0050"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0050.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0050"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0154.sh",
+      "sha256": "73e63b83edef21bbd1da4c62620cc5b19c518a47710cbb597682b5056066688f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0154_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0154_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0154"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0154.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0154"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0103.sh",
+      "sha256": "2a08dfafafa488b96efdcb7d4e127e8b118211fc5b9d24fbb71cd05711041e70",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0103_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0103_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0103"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0103.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0103"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0071.sh",
+      "sha256": "c3299cc954763cbcf6d96450ed7d15f0279d357ca5b3d8d8450dccfa5eaf1214",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0071_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0071_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0071"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0071.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0071"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0085.sh",
+      "sha256": "89e0ef30954f99716a63e540848c7748163b9db930f0a29b9251cdabb25e7220",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0085_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0085_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0085"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0085.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0085"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0189.sh",
+      "sha256": "3317e58c5b078fa34681ef9e792ccbb34a06c9dd0c6efad361ae25055305054d",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0189_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0189_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0189"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0189.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0189"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0120.sh",
+      "sha256": "e7d76df28f4a9f9e7d4fa73f0c96844835f165d90b9bb04bd96a21380bda0d7a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0120_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0120_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0120"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0120.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0120"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0184.sh",
+      "sha256": "7e672f037adda42c0de7f108df9ad5bd73ec8ac7acbe95e510f8be09e96fff76",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0184_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0184_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0184"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0184.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0184"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0165.sh",
+      "sha256": "578eabdb8125f54640c60ee1f1d5ab375aa85acbb88d66d721875d06742a77c9",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0165_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0165_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0165"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0165.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0165"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0187.sh",
+      "sha256": "299b89e61270316b7c2c4ab62c8ef20fe24299672a11be846a6b95bcdb8beabc",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0187_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0187_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0187"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0187.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0187"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0134.sh",
+      "sha256": "890d35ec46445f936500846a5d7bac44050bfbf98265995c19259c6e4f6285b4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0134_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0134_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0134"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0134.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0134"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0132.sh",
+      "sha256": "7ab20f22cc0b66b260da8c8b4cea40b73f229f913931b595d0186de30a1257d3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0132_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0132_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0132"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0132.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0132"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0012.sh",
+      "sha256": "adc5ff55412c6ffb60247798f2a02d8206dfebe1612ae48d1c97b7a451c684f3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0012_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0012_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0012"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0012.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0012"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0117.sh",
+      "sha256": "6250b025e51200ddaf247c171287e09e15f4fa43caba36008b29674939ca6459",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0117_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0117_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0117"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0117.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0117"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0177.sh",
+      "sha256": "0f187208336083f60404f790092fed4853e5bf0b0e0b6288c130aaf1064eb5a7",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0177_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0177_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0177"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0177.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0177"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0167.sh",
+      "sha256": "3de16678f7877109587cecf04c7a2ecb807315ec4052b5d69014bbe88b7f9c39",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0167_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0167_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0167"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0167.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0167"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0186.sh",
+      "sha256": "dbbbd1f3a8e62a59c98d28bafd6fd79f8356a22458139b87a23d5c6cc2e0ae29",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0186_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0186_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0186"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0186.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0186"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0162.sh",
+      "sha256": "cb773fe098068fbfe700c39e1ea6b2543bd0f9f9532e5e76bdc28e5e462b1267",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0162_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0162_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0162"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0162.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0162"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0113.sh",
+      "sha256": "365325f8e9030bdc06454617131b350d236a996d2be22a05bc6bc1dde2cb7872",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0113_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0113_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0113"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0113.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0113"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0062.sh",
+      "sha256": "ef179a9937256a65a7ee05752f87e8d16e784aa9d409b7eb2ec492a5dd769dfa",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0062_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0062_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0062"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0062.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0062"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0018.sh",
+      "sha256": "36e0bfcf69f47a2e7c536d51d860772ed8e66c4d80bd436945d737896531efad",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0018_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0018_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0018"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0018.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0018"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0164.sh",
+      "sha256": "12da54df138f0b8807a0aa6a61c1e58a039270fe0a463d030294fb51e5186e78",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0164_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0164_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0164"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0164.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0164"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0087.sh",
+      "sha256": "476c5f6f82bbb77b54429d76637e69b037f1c0d9ccdf1daaa18d041415c075e3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0087_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0087_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0087"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0087.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0087"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0122.sh",
+      "sha256": "6b48c6b22406d5abb85c83c6392e886e45645851fed5b95d70eb75e9ab85f10c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0122_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0122_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0122"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0122.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0122"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0100.sh",
+      "sha256": "1137b32ad11c7040a27d24dffe7c21a36ca25fb0add312241510f915131cff13",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0100_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0100_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0100"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0100.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0100"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0020.sh",
+      "sha256": "9f0b8d740d68ba17cd186a7ba13dcab8c8f00e72965fe96bd2230f0d9f0ed02b",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0020_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0020_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0020"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0020.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0020"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0031.sh",
+      "sha256": "553140703d1142f136b229634b0e52bce3a8c11550544dd742bb5a1d28859d02",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0031_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0031_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0031"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0031.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0031"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0121.sh",
+      "sha256": "5a3e75bfebcc01ef797ff4a7cbbe1a82f90a4b0b277069ec8c4c78f58fa31555",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0121_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0121_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0121"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0121.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0121"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0174.sh",
+      "sha256": "1f28d2f99467f435fb911b31f25656b95c63fec81d56a0eb76673ed41d2ae40c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0174_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0174_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0174"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0174.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0174"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0043.sh",
+      "sha256": "629c22438c10da455be3b0b3d8c45cd3f5f40be45b5c1de702ec8dd3646e41ca",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0043_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0043_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0043"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0043.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0043"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0060.sh",
+      "sha256": "549df4c18eb7b81f36bfa7956d93e57f55318db566ba5c92842a05b8803cf1f5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0060_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0060_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0060"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0060.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0060"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0080.sh",
+      "sha256": "f0c4171a1a121c28b62e8300352d0c254ffd75fffa6637ff9d386ecb1359b22c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0080_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0080_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0080"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0080.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0080"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0036.sh",
+      "sha256": "aebd53b97630f73146c124f9570e1f3473f249fedc7a74810d90425ebf7904de",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0036_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0036_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0036"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0036.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0036"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0144.sh",
+      "sha256": "0635797b085eae14236d7fd43baff77e6b431b33b1915288698cf9378e55ff4c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0144_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0144_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0144"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0144.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0144"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0088.sh",
+      "sha256": "a95f06a8a4846373a54162f7ddbe9ae05c9b8046de8fb3e204a6c298c51804e2",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0088_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0088_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0088"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0088.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0088"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0176.sh",
+      "sha256": "416d6a4c16aeb1fa84ac2cfaa12c151d0d2e566749497d901071c3895d5557e7",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0176_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0176_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0176"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0176.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0176"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0098.sh",
+      "sha256": "951eca8bcbe9aabaa84d2dba35e6c3a0cb4757cccce1d6d67f9167c7736cc65f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0098_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0098_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0098"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0098.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0098"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0030.sh",
+      "sha256": "d104085fd37c018e9852073a582b4efd8fe93cbe6bdf409bc3011d688beefa24",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0030_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0030_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0030"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0030.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0030"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0074.sh",
+      "sha256": "49d07c285b7fd0d55b26ce27add3cde698ac29177fcec3e498867ab0492997d9",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0074_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0074_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0074"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0074.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0074"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0190.sh",
+      "sha256": "f382e72fc84d6bd5591701b9c7122d6402021073efd238bd1fa5744e3b53c0b6",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0190_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0190_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0190"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0190.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0190"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0028.sh",
+      "sha256": "ce91f1e2a212409a35d5a746e2f26c355aa2e21962863bf845657501ca2d70b4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0028_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0028_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0028"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0028.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0028"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0024.sh",
+      "sha256": "0417904565d7513477259215358607a56e35bf7471f829b2b81ec611b8ffd7c4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0024_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0024_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0024"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0024.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0024"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0001.sh",
+      "sha256": "b11cd4a59f7815f4d3e93e4360b31332f4fa5457a5c57641a11d86519eec3c4a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0001_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0001_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0001"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0001.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0001"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0158.sh",
+      "sha256": "e535019d39568e107c3c95591f6c529058732e6ad172ed03c46a4ce1a24414a6",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0158_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0158_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0158"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0158.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0158"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0124.sh",
+      "sha256": "1982f39393fc31a5b232fdaa8dc961dd26bb81c2fc356e4470b7286642558b5d",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0124_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0124_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0124"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0124.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0124"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0155.sh",
+      "sha256": "631294180c755a76273263003047bf46813e252e1ca52e790f90070434238769",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0155_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0155_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0155"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0155.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0155"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0034.sh",
+      "sha256": "45e1ca2d4124ed0fb46b5539345ad1f6bfafb682b8886ab2221ff05f92d542bd",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0034_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0034_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0034"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0034.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0034"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0125.sh",
+      "sha256": "bca0964fe2771207942cd6e221d7f50e8cbb43099f3ae37ecd02fbb8b7b89a53",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0125_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0125_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0125"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0125.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0125"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0107.sh",
+      "sha256": "7b20701a721fc297671543cf8cf98880e73d7992b519adbed45f1c81c09332b6",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0107_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0107_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0107"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0107.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0107"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0011.sh",
+      "sha256": "ac66c4232c8c6e61f4261db298cc5bccd1264ff1c4c0c2404fc76ee51456b012",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0011_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0011_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0011"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0011.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0011"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0152.sh",
+      "sha256": "affd9d3ab3dd13859d6959315cc7e61910071fdda8620d99ced4d2b47f247686",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0152_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0152_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0152"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0152.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0152"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0140.sh",
+      "sha256": "5e4e366d9aa0a518e4ea5a9f40a3c8e6d20a5b321c524259540ebc8c3981518c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0140_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0140_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0140"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0140.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0140"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0147.sh",
+      "sha256": "f04284c73a48cf6045db3a55ea3e2223e576907acfa349bec44e2b62c799d8f3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0147_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0147_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0147"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0147.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0147"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0156.sh",
+      "sha256": "7fa993b2500724484048cf02349252013d50b22dda6463054e6314ee338770b8",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0156_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0156_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0156"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0156.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0156"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0054.sh",
+      "sha256": "2fcc2a8f5b4c488766b61d4efd69a3f2249c824af6b8a40049970315c097e7d8",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0054_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0054_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0054"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0054.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0054"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0072.sh",
+      "sha256": "e7cfc75a36c9c22d819d2264cb1e9f0fbecaeae03b94b21ff68065167f519641",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0072_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0072_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0072"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0072.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0072"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0039.sh",
+      "sha256": "cd2dd87353d647b616264e7cd45971040db930d5a597575102c837f5fcf47988",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0039_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0039_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0039"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0039.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0039"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0163.sh",
+      "sha256": "ec4565c4838eebe26b9dfbc3cd2f78a17c361d0f776f9b541414251490fdfc04",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0163_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0163_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0163"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0163.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0163"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0095.sh",
+      "sha256": "30be3edd5ea9757c3ce5b679f3b00bb1312127fb7e5201d50b500a4355ee21b5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0095_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0095_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0095"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0095.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0095"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0161.sh",
+      "sha256": "9947e77eb778d113c17efe9932eea7b28b2a4198deeb28814d6dd863502a05fb",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0161_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0161_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0161"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0161.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0161"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0014.sh",
+      "sha256": "7d4458568e090bfe1b0a4fc3f82291263cc909952a5d00a4e9871a18e2dfc8a3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0014_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0014_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0014"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0014.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0014"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0084.sh",
+      "sha256": "06a01da9e3fc845ea2e77e5e2819640522bc6797e1ec0778c22a8358356f84ad",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0084_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0084_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0084"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0084.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0084"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0185.sh",
+      "sha256": "573b9ba5576c18ec3dfbf47590d3c27cf379871837452d72dea166009d98fef3",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0185_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0185_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0185"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0185.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0185"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0027.sh",
+      "sha256": "03e280879562c2daef593fe1c546f6859171dc7ee56b156764b4eae271c82bab",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0027_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0027_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0027"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0027.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0027"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0182.sh",
+      "sha256": "1152c1bd88ed34dd537ec99fcd8cbaf222e4f5e460b7da683d385cafa71f4785",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0182_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0182_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0182"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0182.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0182"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0091.sh",
+      "sha256": "7488b2c975d168bec3eb2eb147456a6c1a4f4c0f1b46fa7838de087bf66b61ca",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0091_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0091_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0091"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0091.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0091"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0119.sh",
+      "sha256": "339ef56a6de3df5caeb253e877de063b253fbb52bfd1859198be9c7b07aa6afd",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0119_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0119_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0119"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0119.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0119"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0086.sh",
+      "sha256": "89662dc2c1a484f9ba729c68dc27aee24182a36187ea8ededd20c09cf52324c6",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0086_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0086_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0086"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0086.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0086"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0166.sh",
+      "sha256": "531413bc8867d94a6aeda10d1c14a9e5c72cb3614e4f67158c573907c1c8c5d4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0166_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0166_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0166"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0166.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0166"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0008.sh",
+      "sha256": "998e238fb69df1579e12acfbcc338fbe1143329792649ed41131ee3da65b9552",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0008_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0008_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0008"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0008.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0008"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0035.sh",
+      "sha256": "23f6f8b4df17baaa73e4ec1a3df4255be1dc60ec972cbed0011d7cf38a7ed88e",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0035_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0035_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0035"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0035.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0035"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0183.sh",
+      "sha256": "2dd27d34edaf6f89417e625e3eb0b11200c0259f27802035e8f68257c2755e62",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0183_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0183_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0183"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0183.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0183"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0004.sh",
+      "sha256": "9b66109402e2e9f292eafe9c1c39639eae534aeee3cf7801b6d1e758084df434",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0004_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0004_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0004"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0004.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0004"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0169.sh",
+      "sha256": "f216eecd97f23c645585f7ff28d4b833a8be8ca2b4ae84334d0f235889602856",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0169_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0169_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0169"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0169.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0169"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0077.sh",
+      "sha256": "7a0002e4f6ec451a475cbd905234ac9417f2adfe9bc4affa4198e78c4bb2a864",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0077_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0077_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0077"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0077.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0077"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0083.sh",
+      "sha256": "8ae89d03d88ef4e34f6ea013b5602a187f12f9fbbf37cc6cf33e8ea1b4ba105c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0083_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0083_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0083"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0083.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0083"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0041.sh",
+      "sha256": "dad6cd94ca64c7139311f3ca51b2ca05977321b3a0dea5a6c8027cfaf1808648",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0041_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0041_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0041"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0041.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0041"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0141.sh",
+      "sha256": "3c5b70c31173283d12915f480c6259037951379ba1e734d59d67d65a660836a4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0141_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0141_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0141"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0141.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0141"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0116.sh",
+      "sha256": "3479bacba59a11162dc4db06c8de4cea6b338771a22db0a8a5be68054d1a1ed8",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0116_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0116_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0116"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0116.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0116"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0199.sh",
+      "sha256": "b560af86e95b826e165c6fabf91d75edf32e5def930fe0ae01cfd8f02fb01d00",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0199_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0199_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0199"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0199.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0199"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0046.sh",
+      "sha256": "901899db51a850ac09dc518676d1acee71c0a4c4be2842969985f7187f40573b",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0046_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0046_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0046"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0046.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0046"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0044.sh",
+      "sha256": "4724535ba92065c7094c6ae4fe46a973e45ab3592c1cf8c222d9490a028c117e",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0044_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0044_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0044"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0044.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0044"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0000.sh",
+      "sha256": "1b2478b77d08643903c81bb37db76d4ad825847025031b2e63bbb72caf3c8cb1",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0000_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0000_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0000"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0000.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0000"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0145.sh",
+      "sha256": "1ba99e76eeaca597cd43382234665f7fc730798820286da31a97bf6f2d2d3ee2",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0145_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0145_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0145"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0145.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0145"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0175.sh",
+      "sha256": "282c5b7d30eada90bd788e34247d182a53b73862401606336468ecdb42558ebf",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0175_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0175_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0175"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0175.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0175"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0048.sh",
+      "sha256": "d398725273c79f37e5c26caae8f8e060817066e4513ea360555c53701c7af3e4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0048_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0048_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0048"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0048.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0048"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0135.sh",
+      "sha256": "792eeb80f5388daf2ee5c6bed5a7d4a90c76d8425bb5d60ea6c1858760a3283a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0135_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0135_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0135"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0135.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0135"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0096.sh",
+      "sha256": "819480eafe8f8e6de32511f2c6936840c0c3d12838fce20525f220a297cf512c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0096_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0096_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0096"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0096.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0096"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0097.sh",
+      "sha256": "160d0ed39b82c7d07b1ef9d972453c85adf24fcaef9f2ab32bfd4dc86f88c9f5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0097_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0097_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0097"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0097.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0097"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0168.sh",
+      "sha256": "ce172bec809d58d952df245e3a0a24ebfe87c79b2f0d4ca4eb3d94e0c058843a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0168_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0168_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0168"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0168.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0168"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0081.sh",
+      "sha256": "7bca0766273154808c774a091bb72d4afc522d8ec34da9871d917000ab9581a2",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0081_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0081_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0081"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0081.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0081"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0146.sh",
+      "sha256": "3a628e62dd36e1754d47e9ebe497fe1c2b99daa0e979907347ed79af4138bb0c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0146_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0146_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0146"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0146.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0146"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0090.sh",
+      "sha256": "ad35c1cecb9193e83677934e491588719267bec885f2b1287fc5256a8e302d5b",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0090_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0090_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0090"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0090.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0090"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0172.sh",
+      "sha256": "87c3f6fbef42b3b898881f670220bb499d686878c4d983dd2ce72c4c9b1f872c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0172_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0172_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0172"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0172.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0172"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0194.sh",
+      "sha256": "e2cce20138c3b8c48474e9afd7dbd19327aee395d4b3d3ddcad78ca42d40421e",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0194_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0194_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0194"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0194.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0194"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0007.sh",
+      "sha256": "16c41f913bf63d1aa6003426f80b6244aa9a72497568a267917749df02eff9e8",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0007_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0007_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0007"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0007.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0007"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0013.sh",
+      "sha256": "953f789f0568545e44ec592fd00921f9ca0e913669d1160ee50da7003c6a24eb",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0013_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0013_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0013"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0013.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0013"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0019.sh",
+      "sha256": "36ed5b56294c359181182c39ad4f82f056ba79462d564453907b655618d4b288",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0019_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0019_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0019"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0019.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0019"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0040.sh",
+      "sha256": "38ac0c5340b1b309a6b6767efc903d0d719083bf434e1a662d865f9f7d9fbec5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0040_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0040_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0040"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0040.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0040"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0055.sh",
+      "sha256": "9a19bc29f767ba329f276de30217f82d238fe02dce07e00270e0c71c6a1b9735",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0055_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0055_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0055"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0055.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0055"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0092.sh",
+      "sha256": "f0eb8c7557149d49aaa26394bf2ae40090c082be9f41a053ee9b8aba2848575e",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0092_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0092_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0092"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0092.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0092"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0115.sh",
+      "sha256": "148d46aba049a5f339afc742e1ede117a81ab1814f0999008c1fc70403b22809",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0115_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0115_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0115"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0115.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0115"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0142.sh",
+      "sha256": "e0fa121f253d54af48aebbe813894ba00b7513c853b7ee422a961b524d0aaa33",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0142_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0142_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0142"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0142.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0142"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0133.sh",
+      "sha256": "47efb13eaa8a7be179594054831cf38d243b1f4660b46a1aadb613d1dd34e079",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0133_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0133_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0133"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0133.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0133"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0002.sh",
+      "sha256": "c43625e953b3740c832216fb9d148a6a3c8e4539e2253adf261999fd50128463",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0002_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0002_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0002"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0002.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0002"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0003.sh",
+      "sha256": "43d0e548fe568f2b8155738dd9dd735f01351077eb27b39f812a646b9097a724",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0003_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0003_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0003"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0003.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0003"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0076.sh",
+      "sha256": "ffcb98b669af3109ae7bdce668119713c5fd9cb993500bc3496a2d56cc39be64",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0076_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0076_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0076"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0076.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0076"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0178.sh",
+      "sha256": "551c1c110d80df225a34bd822a04a134b25e3e95ceaeeee5701440604e953227",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0178_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0178_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0178"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0178.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0178"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0191.sh",
+      "sha256": "65e7aaf1ee2c30493ca871470d2be0c54701866922c526ef04f5e5b33d1651b0",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0191_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0191_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0191"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0191.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0191"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0193.sh",
+      "sha256": "56f492e000d93f5d5e707c03f1d2c0bfde544a6f400a1aa36cb45f0ee613bc98",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0193_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0193_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0193"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0193.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0193"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0130.sh",
+      "sha256": "ee94556520b8b305e02801c6de57e66be41883c4e7ca7cc07797f1c94b839ae5",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0130_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0130_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0130"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0130.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0130"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0032.sh",
+      "sha256": "b32b02a22a09fbea54ed67c743013fefccc1bce29956e81d91d5490b82945a8f",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0032_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0032_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0032"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0032.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0032"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0151.sh",
+      "sha256": "4f7420216617a76ad436157b0a3b228152020933a5cf6601d259b46574553246",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0151_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0151_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0151"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0151.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0151"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0059.sh",
+      "sha256": "e07c43abf6ad9bad620e243ac49d3869522e702826c405bc647a958a3c355bc8",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0059_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0059_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0059"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0059.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0059"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0138.sh",
+      "sha256": "3194f941e2fcb7b2d9da4fb55ed942263988c72d82567e697cd382198cd21788",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0138_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0138_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0138"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0138.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0138"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0127.sh",
+      "sha256": "bb6b9519d733d53e38facebfc14bd759cbaa409b184c034f46c31ef0aa6fdab4",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0127_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0127_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0127"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0127.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0127"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0049.sh",
+      "sha256": "8cc9facf5c5f4d8b92acbb2e657f31e10f1e69981baedd6c8511a7701a92c91c",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0049_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0049_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0049"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0049.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0049"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0025.sh",
+      "sha256": "b2bd40ab74a5ea6451c65148a69eb902e596a3a72016b741fc070cbd4e541d2d",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0025_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0025_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0025"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0025.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0025"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0068.sh",
+      "sha256": "322dfcd05a8f4da52d1f5201022020ea8cb05b7a33d95ef869e2d32e7a304edc",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0068_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0068_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0068"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0068.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0068"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0196.sh",
+      "sha256": "15aafe0b6795e8de45475f072fd4219b62f089fa7637e09167f8bd93c0f91f31",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0196_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0196_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0196"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0196.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0196"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0126.sh",
+      "sha256": "eea29a9d4baa22329ada1cac7a00c664e4a953e6bb79e0ea8a0676e49af6df69",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0126_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0126_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0126"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0126.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0126"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0181.sh",
+      "sha256": "e5867a92f18817f51201ccc9a4770f67a966ecdeb4ca07bce2d6a9d54cfb8fb7",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0181_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0181_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0181"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0181.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0181"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0197.sh",
+      "sha256": "cbbcbec74145d8f892795ef608a08594b5e2509ae56b3926f56f41b8abb5ec72",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0197_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0197_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0197"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0197.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0197"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0016.sh",
+      "sha256": "b803ef371ad1806a8f07d651649fd33956b0888800048aabfd9b75626b90125a",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0016_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0016_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0016"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0016.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0016"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0137.sh",
+      "sha256": "7d7fc0ee0f4d10be328d50c50c4bda1da35e5ee32deba117d42d5a49675e9ae0",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0137_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0137_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0137"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0137.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0137"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0106.sh",
+      "sha256": "ea951d24a505038f0021f509e475cd113949b8a8129550084dc349ebb52a3602",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0106_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0106_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0106"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0106.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0106"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0075.sh",
+      "sha256": "0b6b294060bc9c072f8ee8acf6fea6f0f47bf04d23a6c91b2812dbe1b69e4f42",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0075_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0075_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0075"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0075.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0075"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0101.sh",
+      "sha256": "8a07cf2cdb451b43c449ae92b7c18d6995ebcdd35b693b61fbead1d32128a8fb",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0101_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0101_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0101"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0101.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0101"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0053.sh",
+      "sha256": "854b7762113b815a4d089dcc7992bc84446a6df760f28aa4f9e34154cdec9cbd",
+      "matches": [
+        {
+          "line": 5,
+          "text": "#SBATCH -o /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0053_%j.out"
+        },
+        {
+          "line": 6,
+          "text": "#SBATCH -e /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0053_%j.err"
+        },
+        {
+          "line": 10,
+          "text": "touch /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0053"
+        },
+        {
+          "line": 16,
+          "text": "python /home/gsvance/prismtools/prism_team_teammate.py /home/gsvance/supernova_data/50AmP/50AmP_prism/teammate_0053.json"
+        },
+        {
+          "line": 18,
+          "text": "rm /home/gsvance/supernova_data/50AmP/50AmP_prism/runflag_0053"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burnpatrick/src/fnuclear.f",
+      "sha256": "a07f3e86eae8143920225ea9e5fcee1f8aa75e7089735186e76d00f849d307b5",
+      "matches": [
+        {
+          "line": 239,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 251,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 438,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 450,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 467,
+          "text": "            looperror = 1337"
+        },
+        {
+          "line": 619,
+          "text": "               looperror = 1337"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burnpatrick/src/worker.f",
+      "sha256": "6cbb6ab259c6377192585c2d0d1be4b30792b354328f7f3c69767ec40c53d60b",
+      "matches": [
+        {
+          "line": 457,
+          "text": "      if (looperror .eq. 1337) then"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burnpatrick/src.8deck/fnuclear.f",
+      "sha256": "a07f3e86eae8143920225ea9e5fcee1f8aa75e7089735186e76d00f849d307b5",
+      "matches": [
+        {
+          "line": 239,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 251,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 438,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 450,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 467,
+          "text": "            looperror = 1337"
+        },
+        {
+          "line": 619,
+          "text": "               looperror = 1337"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burnpatrick/src.8deck/worker.f",
+      "sha256": "6cbb6ab259c6377192585c2d0d1be4b30792b354328f7f3c69767ec40c53d60b",
+      "matches": [
+        {
+          "line": 457,
+          "text": "      if (looperror .eq. 1337) then"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burn/src/worker.lonestar.f",
+      "sha256": "6cbb6ab259c6377192585c2d0d1be4b30792b354328f7f3c69767ec40c53d60b",
+      "matches": [
+        {
+          "line": 457,
+          "text": "      if (looperror .eq. 1337) then"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burn/src/fnuclear.f",
+      "sha256": "20b0512735ce030b9c5c1af1d3713c378df1d0742ef730e72605c814cef7fc61",
+      "matches": [
+        {
+          "line": 239,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 251,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 438,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 450,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 467,
+          "text": "            looperror = 1337"
+        },
+        {
+          "line": 619,
+          "text": "               looperror = 1337"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burn/src/fnuclear.lonestar.f",
+      "sha256": "d7b76a1b776ea045881c3684065adf579788a552eaac663b6bc081c6661d1df9",
+      "matches": [
+        {
+          "line": 239,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 251,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 438,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 450,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 467,
+          "text": "            looperror = 1337"
+        },
+        {
+          "line": 619,
+          "text": "               looperror = 1337"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burn/src/worker.f",
+      "sha256": "6db1a102033a1690de896461a4368ff70de69fc900417e39944fd4ab1ff090e3",
+      "matches": [
+        {
+          "line": 457,
+          "text": "      if (looperror .eq. 1337) then"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burn/burn/src/fnuclear.f",
+      "sha256": "d7b76a1b776ea045881c3684065adf579788a552eaac663b6bc081c6661d1df9",
+      "matches": [
+        {
+          "line": 239,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 251,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 438,
+          "text": "                     looperror = 1337"
+        },
+        {
+          "line": 450,
+          "text": "                  looperror = 1337"
+        },
+        {
+          "line": 467,
+          "text": "            looperror = 1337"
+        },
+        {
+          "line": 619,
+          "text": "               looperror = 1337"
+        }
+      ]
+    },
+    {
+      "path": "/data/pyoung3/burn/burn/src/worker.f",
+      "sha256": "6cbb6ab259c6377192585c2d0d1be4b30792b354328f7f3c69767ec40c53d60b",
+      "matches": [
+        {
+          "line": 457,
+          "text": "      if (looperror .eq. 1337) then"
+        }
+      ]
+    }
+  ],
+  "direct_representative_outputs": [
+    {
+      "path": "/scratch/svierlin/prism-v02/jet3b_outputs/11000/control.json",
+      "bytes": 11520
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/jet3b_outputs/11000/x.txt",
+      "bytes": 6958
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/jet3b_outputs/11000/xtime.txt",
+      "bytes": 5598446
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/jet3b_outputs/7753/control.json",
+      "bytes": 11518
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/jet3b_outputs/7753/xtime.txt",
+      "bytes": 5477166
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/jet3b_outputs/7753/x.txt",
+      "bytes": 6909
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/11000/control.json",
+      "bytes": 11522
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/11000/x.txt",
+      "bytes": 7154
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/cco2_data/cco2_outputs/11000/xtime.txt",
+      "bytes": 398454
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/vconv_data/vconv_outputs/11000/control.json",
+      "bytes": 11519
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/vconv_data/vconv_outputs/11000/x.txt",
+      "bytes": 10094
+    },
+    {
+      "path": "/data/pyoung3/groupdata/svierlin/vconv_data/vconv_outputs/11000/xtime.txt",
+      "bytes": 5405736
+    }
+  ],
+  "symlinks": [
+    {
+      "path": "/scratch/svierlin/prism-v02/control_template.json",
+      "target": "input/control.json"
+    },
+    {
+      "path": "/scratch/svierlin/prism-v02/gsvance/data_mining/.#SDF-reader.c",
+      "target": "pyoung3@sc066.3837050:1742920968"
+    },
+    {
+      "path": "/data/pyoung3/gsvance/data_mining/.#sn_utils.py",
+      "target": "pyoung3@sc047.2529040:1779228863"
+    },
+    {
+      "path": "/data/pyoung3/lib/libse.so.0",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/lib/libse.so",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/se/src/.libs/libse.la",
+      "target": "../libse.la"
+    },
+    {
+      "path": "/data/pyoung3/se/src/.libs/libse.so.0",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/se/src/.libs/libse.so",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/se/lib/libse.so.0",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/se/lib/libse.so",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/se/se/src/.libs/libse.la",
+      "target": "../libse.la"
+    },
+    {
+      "path": "/data/pyoung3/se/se/src/.libs/libse.so.0",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/se/se/src/.libs/libse.so",
+      "target": "libse.so.0.0.0"
+    },
+    {
+      "path": "/data/pyoung3/gregsnsph.dir/runsnsph/r3g_50_1e6_15cv_sph.restart",
+      "target": "r3g_50_1e6_15cv_sph.5540"
+    }
+  ]
+}

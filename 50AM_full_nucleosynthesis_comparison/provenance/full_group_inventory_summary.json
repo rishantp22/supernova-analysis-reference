@@ -1,0 +1,22 @@
+{
+  "roots": [
+    "/scratch/svierlin",
+    "/scratch/pyoung3",
+    "/data/pyoung3",
+    "/home/pyoung3"
+  ],
+  "counts": {
+    "file": 19249821,
+    "directory": 1956345,
+    "symlink": 14
+  },
+  "candidate_rows": 3842483,
+  "elapsed_seconds": 4926.845752477646,
+  "errors": [
+    {
+      "path": "/home/pyoung3",
+      "error": "[Errno 13] Permission denied: '/home/pyoung3'"
+    }
+  ],
+  "scope": "Complete recursive directory traversal of accessible entries; symlink targets not followed; no source writes or source content reads"
+}

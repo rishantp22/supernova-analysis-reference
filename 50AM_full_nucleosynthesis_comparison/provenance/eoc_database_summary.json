@@ -1,0 +1,20 @@
+{
+  "rows": 938732,
+  "species": 264,
+  "legacy_raw_common_ids": 270706,
+  "legacy_raw_common_species": 262,
+  "new_plot_common_ids": 937033,
+  "composition_minus_reported_Ye": {
+    "min": -0.25688298040380414,
+    "p01": -0.25269555330091353,
+    "p05": -0.09141628560342913,
+    "p25": -0.0004996441285882725,
+    "p50": 0.499516021170034,
+    "p75": 0.4995168503605456,
+    "p95": 0.49951773648523856,
+    "p99": 0.49951802089655695,
+    "max": 0.4995180552872344
+  },
+  "composition_vs_reported_abs_gt_1e5": 937033,
+  "missingness": "eoc_row_present distinguishes absent isotope rows from explicit NaN; neither is zero"
+}

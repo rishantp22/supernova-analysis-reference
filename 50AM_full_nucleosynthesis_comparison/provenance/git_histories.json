@@ -1,0 +1,86 @@
+[
+  {
+    "path": "/scratch/rpraka15/ccsn-presolar-oxide-analysis",
+    "branch": "reference/scratch-2026-10-18",
+    "head": "4c893ade0a2a64f68eb1488908badd27d0925c2b",
+    "recent": "4c893ad Use detailed thermodynamic views in manuscript figures\nc7c290e Add reproducible three-model appendix figure selection\n0b1239b Restore burning-regime shading and add complete tracer comparisons\n3eb7bd8 Add reproducible CCSN grain analysis and publication figure pipeline",
+    "remotes": "origin\thttps://github.com/rishantp22/ccsn-presolar-oxide-analysis.git (fetch)\norigin\thttps://github.com/rishantp22/ccsn-presolar-oxide-analysis.git (push)"
+  },
+  {
+    "path": "/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir",
+    "branch": "RELEASE",
+    "head": "729d4d37c64bb4c2a925cc773554ff2607410b60",
+    "recent": "729d4d3 Commit 7/1 with Carola's patch\n904d249 Clean commit on sol\ne5bac34 adding Makefile for Saguaro\n6375629 don't ignore the Makefile for saguaro\n2a5fe24 ignoring binaries built for ARCH=saguaro",
+    "remotes": "origin\t/home/cellinge/snsph_bare.git/ (fetch)\norigin\t/home/cellinge/snsph_bare.git/ (push)"
+  },
+  {
+    "path": "/scratch/rpraka15/output_data/extracted/gregsnsph.dir",
+    "branch": "RELEASE",
+    "head": "729d4d37c64bb4c2a925cc773554ff2607410b60",
+    "recent": "729d4d3 Commit 7/1 with Carola's patch\n904d249 Clean commit on sol\ne5bac34 adding Makefile for Saguaro\n6375629 don't ignore the Makefile for saguaro\n2a5fe24 ignoring binaries built for ARCH=saguaro",
+    "remotes": "origin\t/home/cellinge/snsph_bare.git/ (fetch)\norigin\t/home/cellinge/snsph_bare.git/ (push)"
+  },
+  {
+    "path": "/scratch/rpraka15/supernova-analysis-reference",
+    "branch": "main",
+    "head": "b5bbd5474ff43c898c34d424caa916e440757e27",
+    "recent": "b5bbd54 Preserve supernova analysis code and validation records",
+    "remotes": "origin\thttps://github.com/rishantp22/supernova-analysis-reference.git (fetch)\norigin\thttps://github.com/rishantp22/supernova-analysis-reference.git (push)"
+  },
+  {
+    "path": "/home/rpraka15/supernova-grain-analysis",
+    "branch": "main",
+    "head": "c20ca56450d3a68ac6129e559f43e81d82d070b5",
+    "recent": "c20ca56 Audit supernova particle data, provenance, coverage and requested fields",
+    "remotes": ""
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/gsvance/data_mining",
+    "branch": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).",
+    "head": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).",
+    "recent": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).",
+    "remotes": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)."
+  },
+  {
+    "path": "/data/pyoung3/gsvance/data_mining",
+    "branch": "fatal: detected dubious ownership in repository at '/data/pyoung3/gsvance/data_mining'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/gsvance/data_mining",
+    "head": "fatal: detected dubious ownership in repository at '/data/pyoung3/gsvance/data_mining'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/gsvance/data_mining",
+    "recent": "fatal: detected dubious ownership in repository at '/data/pyoung3/gsvance/data_mining'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/gsvance/data_mining",
+    "remotes": "fatal: detected dubious ownership in repository at '/data/pyoung3/gsvance/data_mining'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/gsvance/data_mining"
+  },
+  {
+    "path": "/data/pyoung3/burn",
+    "branch": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn",
+    "head": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn",
+    "recent": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn",
+    "remotes": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn"
+  },
+  {
+    "path": "/data/pyoung3/burn/burn",
+    "branch": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn/burn",
+    "head": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn/burn",
+    "recent": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn/burn",
+    "remotes": "fatal: detected dubious ownership in repository at '/data/pyoung3/burn/burn'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/burn/burn"
+  },
+  {
+    "path": "/data/pyoung3/nucleosetup.dir/parabund/abund",
+    "branch": "fatal: detected dubious ownership in repository at '/data/pyoung3/nucleosetup.dir/parabund/abund'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/nucleosetup.dir/parabund/abund",
+    "head": "fatal: detected dubious ownership in repository at '/data/pyoung3/nucleosetup.dir/parabund/abund'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/nucleosetup.dir/parabund/abund",
+    "recent": "fatal: detected dubious ownership in repository at '/data/pyoung3/nucleosetup.dir/parabund/abund'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/nucleosetup.dir/parabund/abund",
+    "remotes": "fatal: detected dubious ownership in repository at '/data/pyoung3/nucleosetup.dir/parabund/abund'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/nucleosetup.dir/parabund/abund"
+  },
+  {
+    "path": "/data/pyoung3/se_analysis",
+    "branch": "fatal: detected dubious ownership in repository at '/data/pyoung3/se_analysis'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/se_analysis",
+    "head": "fatal: detected dubious ownership in repository at '/data/pyoung3/se_analysis'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/se_analysis",
+    "recent": "fatal: detected dubious ownership in repository at '/data/pyoung3/se_analysis'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/se_analysis",
+    "remotes": "fatal: detected dubious ownership in repository at '/data/pyoung3/se_analysis'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/se_analysis"
+  },
+  {
+    "path": "/data/pyoung3/snsphtools",
+    "branch": "fatal: detected dubious ownership in repository at '/data/pyoung3/snsphtools'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/snsphtools",
+    "head": "fatal: detected dubious ownership in repository at '/data/pyoung3/snsphtools'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/snsphtools",
+    "recent": "fatal: detected dubious ownership in repository at '/data/pyoung3/snsphtools'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/snsphtools",
+    "remotes": "fatal: detected dubious ownership in repository at '/data/pyoung3/snsphtools'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /data/pyoung3/snsphtools"
+  }
+]

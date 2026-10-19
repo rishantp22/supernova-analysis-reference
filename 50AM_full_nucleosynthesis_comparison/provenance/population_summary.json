@@ -1,0 +1,23 @@
+{
+  "shared_unique_valid_ids": 937227,
+  "old_only_ids": 8401,
+  "new_only_ids": 0,
+  "old_unique_valid_ids": 945628,
+  "new_unique_valid_ids": 937227,
+  "shared_particle_mass_old_msun": 8.957082016620001,
+  "shared_particle_mass_new_msun": 8.957082016620001,
+  "shared_isotopes": 64,
+  "new_isotopes": 223,
+  "old_isotopes": 65,
+  "tolerance": {
+    "physical": {
+      "rtol": 1e-09,
+      "atol": 0
+    },
+    "composition": {
+      "rtol": 1e-05,
+      "atol": 0
+    }
+  },
+  "maxrss_kib": 3387736
+}

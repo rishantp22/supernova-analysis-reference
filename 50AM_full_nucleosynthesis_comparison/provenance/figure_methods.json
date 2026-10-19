@@ -1,0 +1,9 @@
+{
+  "population": "all valid unique matched IDs; all eligible positive pairs in logarithmic plots",
+  "density_bins": 90,
+  "log_floor": null,
+  "zero_missing_policy": "Not plotted in log coordinates; counts remain in statistics",
+  "png_dpi": 240,
+  "pdf": "vector pcolormesh and text",
+  "physical_fields": "Copied legacy progenitor Ye and density at early-snapshot peak temperature; not independent validation of PRISM trajectories"
+}

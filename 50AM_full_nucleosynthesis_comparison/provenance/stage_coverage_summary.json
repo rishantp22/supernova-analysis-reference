@@ -1,0 +1,13 @@
+{
+  "union_ids": 945628,
+  "counts": {
+    "old_plot": 945628,
+    "new_plot": 937227,
+    "chunks": 937229,
+    "legacy_raw": 277510,
+    "new_eoc": 938732,
+    "archived_seed": 943900,
+    "archived_trajectory": 943900
+  },
+  "malformed_new_ID": "y193 remains unassigned; no silent ID repair"
+}

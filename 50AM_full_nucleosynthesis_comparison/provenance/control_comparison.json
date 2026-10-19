@@ -1,0 +1,209 @@
+[
+  {
+    "id": 100000,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 2000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/100000_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/100000_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 191136,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/191136_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/191136_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 372924,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/372924_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/372924_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 463819,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/463819_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/463819_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 554686,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/554686_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/554686_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 645539,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/645539_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/645539_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 736293,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/736293_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/736293_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 826819,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/826819_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/826819_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  },
+  {
+    "id": 917342,
+    "nuclear_configuration_sha256": "d5ebd6cc255457ba0720eddb83f8ff4c319156e279711fe0fd6f34e66df95600",
+    "active_datasets": 31,
+    "stop": {
+      "time": 166000.0,
+      "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+    },
+    "conditions": {
+      "trajectory": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/917342_trajectory.txt",
+        "comment": "Trajectory input file"
+      },
+      "initial_composition": {
+        "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/917342_abund.txt",
+        "comment": "Initial Composition input file"
+      }
+    },
+    "extent": {
+      "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+      "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+    }
+  }
+]

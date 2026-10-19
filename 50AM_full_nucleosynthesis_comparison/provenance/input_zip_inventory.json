@@ -1,0 +1,2846 @@
+[
+  {
+    "source": {
+      "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output.zip",
+      "bytes": 730473868,
+      "mtime_ns": 1758651900000000000,
+      "ctime_ns": 1790384680000000000,
+      "inode": 177661037035286330
+    },
+    "members": 943903,
+    "uncompressed_bytes": 2272569007,
+    "particle_files": 943900,
+    "requested_missing": [
+      0
+    ],
+    "status": "selected_members_CRC_verified",
+    "copied": [
+      {
+        "id": 193,
+        "member": "50Am_output/193_trajectory.txt",
+        "sha256": "8f79965740c7dffd07ce779a9051aa7caa6fdfe53e58d5ff6b76d68452573436",
+        "saved": "provenance/tracer_inputs/50Am_output/193_trajectory.txt"
+      },
+      {
+        "id": 2922,
+        "member": "50Am_output/2922_trajectory.txt",
+        "sha256": "113fe355029319fdba20002ffb8d7133057f2a41c44bca192d5e6692e3448bf6",
+        "saved": "provenance/tracer_inputs/50Am_output/2922_trajectory.txt"
+      },
+      {
+        "id": 2997,
+        "member": "50Am_output/2997_trajectory.txt",
+        "sha256": "dab7dafd23e687108576b9a31435e3af06ceaaa729262037b511dc1cc11b7d93",
+        "saved": "provenance/tracer_inputs/50Am_output/2997_trajectory.txt"
+      },
+      {
+        "id": 5410,
+        "member": "50Am_output/5410_trajectory.txt",
+        "sha256": "63388430831ee552fd18eb211c34c132e14122daabead00e939b81e2f70954e5",
+        "saved": "provenance/tracer_inputs/50Am_output/5410_trajectory.txt"
+      },
+      {
+        "id": 5613,
+        "member": "50Am_output/5613_trajectory.txt",
+        "sha256": "d59125586b1bda1033969d1a2748999f6fb2674c27628e7ee945a7df8e93be27",
+        "saved": "provenance/tracer_inputs/50Am_output/5613_trajectory.txt"
+      },
+      {
+        "id": 7753,
+        "member": "50Am_output/7753_trajectory.txt",
+        "sha256": "25679e403cdbde360d476edbfa5df55335e33cbc33c42aebc5eb309cf9c73a59",
+        "saved": "provenance/tracer_inputs/50Am_output/7753_trajectory.txt"
+      },
+      {
+        "id": 8425,
+        "member": "50Am_output/8425_trajectory.txt",
+        "sha256": "1e8e089c144671635ec44ecbfcd771b79ed468b91087bd69d7f6bc0c30b02972",
+        "saved": "provenance/tracer_inputs/50Am_output/8425_trajectory.txt"
+      },
+      {
+        "id": 8474,
+        "member": "50Am_output/8474_trajectory.txt",
+        "sha256": "2a7869ebfd9780f8af9dda12f60eb99f3c5292884a881a28f1ec092d4cfbc9a9",
+        "saved": "provenance/tracer_inputs/50Am_output/8474_trajectory.txt"
+      },
+      {
+        "id": 10027,
+        "member": "50Am_output/10027_trajectory.txt",
+        "sha256": "c8d020d812712a9e0598e4a1dec0c8431ce110080711a8a6c37e66b8e45ac386",
+        "saved": "provenance/tracer_inputs/50Am_output/10027_trajectory.txt"
+      },
+      {
+        "id": 10059,
+        "member": "50Am_output/10059_trajectory.txt",
+        "sha256": "5a3c1af96425c425619bdfa55fe737fdb4018daf74926d8471b7e0e2ed3bb657",
+        "saved": "provenance/tracer_inputs/50Am_output/10059_trajectory.txt"
+      },
+      {
+        "id": 10065,
+        "member": "50Am_output/10065_trajectory.txt",
+        "sha256": "5ed01bdd8a2bde0d46297ca084e2531c866d3cb8848405a781ff7d842c84961f",
+        "saved": "provenance/tracer_inputs/50Am_output/10065_trajectory.txt"
+      },
+      {
+        "id": 10077,
+        "member": "50Am_output/10077_trajectory.txt",
+        "sha256": "13923506ad78561870b016506ad84338bba01b20d5e88d2bfdf1ebc8b0dfe7f9",
+        "saved": "provenance/tracer_inputs/50Am_output/10077_trajectory.txt"
+      },
+      {
+        "id": 10084,
+        "member": "50Am_output/10084_trajectory.txt",
+        "sha256": "26e8f67efa2ac5acf91e94caf6ace68b74c4c796a97a9448bde29b4376c4edca",
+        "saved": "provenance/tracer_inputs/50Am_output/10084_trajectory.txt"
+      },
+      {
+        "id": 10096,
+        "member": "50Am_output/10096_trajectory.txt",
+        "sha256": "6fe7e7043b76fe45e13f720a5bd57da03682c42b9b84e18102e9a3dfb7a786df",
+        "saved": "provenance/tracer_inputs/50Am_output/10096_trajectory.txt"
+      },
+      {
+        "id": 10123,
+        "member": "50Am_output/10123_trajectory.txt",
+        "sha256": "289a6b8540af7bf56ad88b95798f71d62e752096d20b020aa2cd6264192c28c3",
+        "saved": "provenance/tracer_inputs/50Am_output/10123_trajectory.txt"
+      },
+      {
+        "id": 10127,
+        "member": "50Am_output/10127_trajectory.txt",
+        "sha256": "7f70796e1a62fe1db31cbe0c8a9ecd85c5d82e76eeec388df61f6b18683795d5",
+        "saved": "provenance/tracer_inputs/50Am_output/10127_trajectory.txt"
+      },
+      {
+        "id": 10141,
+        "member": "50Am_output/10141_trajectory.txt",
+        "sha256": "78a31e2177016da2dee0a6ba4d418c89c08d35f8c4fd127954fc5a19aa53d758",
+        "saved": "provenance/tracer_inputs/50Am_output/10141_trajectory.txt"
+      },
+      {
+        "id": 10151,
+        "member": "50Am_output/10151_trajectory.txt",
+        "sha256": "a3f6d58ae826ce921bb661795ae988107e2ee1d03bbd7955bcc33c888c1ae9d1",
+        "saved": "provenance/tracer_inputs/50Am_output/10151_trajectory.txt"
+      },
+      {
+        "id": 10160,
+        "member": "50Am_output/10160_trajectory.txt",
+        "sha256": "8219ca16f88ac21f5657770cb03df07f5970f6b2e7bcdbd1200d5771d067a505",
+        "saved": "provenance/tracer_inputs/50Am_output/10160_trajectory.txt"
+      },
+      {
+        "id": 10171,
+        "member": "50Am_output/10171_trajectory.txt",
+        "sha256": "74aba3fe94c2e780d3306fa82c2e0ec038095311ac54fc4a42e928528b7f86a9",
+        "saved": "provenance/tracer_inputs/50Am_output/10171_trajectory.txt"
+      },
+      {
+        "id": 10240,
+        "member": "50Am_output/10240_trajectory.txt",
+        "sha256": "6d33397d0724a9d96629a11c13c95bfc96a945dbaf74aff6ec73f94761e875ce",
+        "saved": "provenance/tracer_inputs/50Am_output/10240_trajectory.txt"
+      },
+      {
+        "id": 10529,
+        "member": "50Am_output/10529_trajectory.txt",
+        "sha256": "e7a7fac18e28c96cff86644af25edeca3a25e03c634c919d02ba22796201e66a",
+        "saved": "provenance/tracer_inputs/50Am_output/10529_trajectory.txt"
+      },
+      {
+        "id": 10917,
+        "member": "50Am_output/10917_trajectory.txt",
+        "sha256": "0e619ae159bf0d406ace62b710bbc6c4fbdf0e1c516dcb4258510921bbe8285e",
+        "saved": "provenance/tracer_inputs/50Am_output/10917_trajectory.txt"
+      },
+      {
+        "id": 11140,
+        "member": "50Am_output/11140_trajectory.txt",
+        "sha256": "a2bc16ea188e64bdfb7515bd04efeab9b2c1d9c8dcd1eb8f55e0fc04a9268278",
+        "saved": "provenance/tracer_inputs/50Am_output/11140_trajectory.txt"
+      },
+      {
+        "id": 12078,
+        "member": "50Am_output/12078_trajectory.txt",
+        "sha256": "3f756ad0bbd4d0ae7ebfa0b1e081ac2441f0678a1aa4abe0f99492c00031b800",
+        "saved": "provenance/tracer_inputs/50Am_output/12078_trajectory.txt"
+      },
+      {
+        "id": 14069,
+        "member": "50Am_output/14069_trajectory.txt",
+        "sha256": "451198afda77d86708f390fdeebd79899b11b8fb2d7e48563de1faf421e42913",
+        "saved": "provenance/tracer_inputs/50Am_output/14069_trajectory.txt"
+      },
+      {
+        "id": 14834,
+        "member": "50Am_output/14834_trajectory.txt",
+        "sha256": "f0ee2f768a6d390988be8456a7488b9be7a0475b7a33824312d29ffb7a207822",
+        "saved": "provenance/tracer_inputs/50Am_output/14834_trajectory.txt"
+      },
+      {
+        "id": 16928,
+        "member": "50Am_output/16928_trajectory.txt",
+        "sha256": "cffa4f4ce8cff6a898a1657fd339d6df9c8fcfb753f620c381af4cf51402036e",
+        "saved": "provenance/tracer_inputs/50Am_output/16928_trajectory.txt"
+      },
+      {
+        "id": 18077,
+        "member": "50Am_output/18077_trajectory.txt",
+        "sha256": "688816c1f206f5bc3f26eff8ca0df096a32097c19643df968fb39b4cffafeeb4",
+        "saved": "provenance/tracer_inputs/50Am_output/18077_trajectory.txt"
+      },
+      {
+        "id": 20884,
+        "member": "50Am_output/20884_trajectory.txt",
+        "sha256": "2fc792d75448623020b9ca579421d2c98cca8b081891f978f1ccb57652c9f7b9",
+        "saved": "provenance/tracer_inputs/50Am_output/20884_trajectory.txt"
+      },
+      {
+        "id": 22626,
+        "member": "50Am_output/22626_trajectory.txt",
+        "sha256": "09b9f2a043d9f34a0f654d7e20bafc44c1e2f82816373acbe0093b2d390e00f0",
+        "saved": "provenance/tracer_inputs/50Am_output/22626_trajectory.txt"
+      },
+      {
+        "id": 23645,
+        "member": "50Am_output/23645_trajectory.txt",
+        "sha256": "4a75cd84f416baa57608c380fe2e7db8632cd48c885c49ff9734a53cfcf4b836",
+        "saved": "provenance/tracer_inputs/50Am_output/23645_trajectory.txt"
+      },
+      {
+        "id": 25199,
+        "member": "50Am_output/25199_trajectory.txt",
+        "sha256": "56e6cbed1362d0b63431d27d34a5993f59efef7d26b592a239f28c6849a98efa",
+        "saved": "provenance/tracer_inputs/50Am_output/25199_trajectory.txt"
+      },
+      {
+        "id": 28630,
+        "member": "50Am_output/28630_trajectory.txt",
+        "sha256": "4c4554cf4ac2c9a81b38f8dddbad98115d8b9882257964b5fe7bb2a959403c13",
+        "saved": "provenance/tracer_inputs/50Am_output/28630_trajectory.txt"
+      },
+      {
+        "id": 28936,
+        "member": "50Am_output/28936_trajectory.txt",
+        "sha256": "a49319a4c310ead147655b3189bacdc3e2212e6897fb7a590f63faf0c041c140",
+        "saved": "provenance/tracer_inputs/50Am_output/28936_trajectory.txt"
+      },
+      {
+        "id": 29053,
+        "member": "50Am_output/29053_trajectory.txt",
+        "sha256": "f705feb027b8ccfde067593ee0fdc38a0891c0e17e77550c8048296cf944b82f",
+        "saved": "provenance/tracer_inputs/50Am_output/29053_trajectory.txt"
+      },
+      {
+        "id": 30468,
+        "member": "50Am_output/30468_trajectory.txt",
+        "sha256": "806b7413eaeefc06eb6194eeec687119324fc2c8c3875a109385f109d3fc0760",
+        "saved": "provenance/tracer_inputs/50Am_output/30468_trajectory.txt"
+      },
+      {
+        "id": 30712,
+        "member": "50Am_output/30712_trajectory.txt",
+        "sha256": "233b32f7c38983a2adf467a09ee785463399178588690639bcc29719d2ad240d",
+        "saved": "provenance/tracer_inputs/50Am_output/30712_trajectory.txt"
+      },
+      {
+        "id": 30900,
+        "member": "50Am_output/30900_trajectory.txt",
+        "sha256": "1d5110f73a1d20cf9c1525d2a59bb6a2de405063a4e14be8efaa82de95cee4c1",
+        "saved": "provenance/tracer_inputs/50Am_output/30900_trajectory.txt"
+      },
+      {
+        "id": 30935,
+        "member": "50Am_output/30935_trajectory.txt",
+        "sha256": "3ef77ee74a56a38490af65118d6f9890ba9ef03d9e0c398592a61cb7ee58a38a",
+        "saved": "provenance/tracer_inputs/50Am_output/30935_trajectory.txt"
+      },
+      {
+        "id": 30954,
+        "member": "50Am_output/30954_trajectory.txt",
+        "sha256": "f9056708630a72dbaa51fa02ab82509e0c9a5229bd90355a9389fb55135461f1",
+        "saved": "provenance/tracer_inputs/50Am_output/30954_trajectory.txt"
+      },
+      {
+        "id": 31132,
+        "member": "50Am_output/31132_trajectory.txt",
+        "sha256": "a4bfbe019995e873ae629e82528415208de932abef1b36a896dd43963ed3d85f",
+        "saved": "provenance/tracer_inputs/50Am_output/31132_trajectory.txt"
+      },
+      {
+        "id": 31468,
+        "member": "50Am_output/31468_trajectory.txt",
+        "sha256": "c6b415459bb69c07f2c6aaa93ea0c8a0258dc28d77e3fe2d986f10939cc5a6b4",
+        "saved": "provenance/tracer_inputs/50Am_output/31468_trajectory.txt"
+      },
+      {
+        "id": 32191,
+        "member": "50Am_output/32191_trajectory.txt",
+        "sha256": "e15a736a0dbb969eeb477962ababef7bba47aa863891945e23108f3d84a8921e",
+        "saved": "provenance/tracer_inputs/50Am_output/32191_trajectory.txt"
+      },
+      {
+        "id": 32403,
+        "member": "50Am_output/32403_trajectory.txt",
+        "sha256": "73e5dbf29eca04524bc8770639b2d799bcc9c62b26184ef2b918f844a9c3aad8",
+        "saved": "provenance/tracer_inputs/50Am_output/32403_trajectory.txt"
+      },
+      {
+        "id": 32446,
+        "member": "50Am_output/32446_trajectory.txt",
+        "sha256": "24152dc5e0b383dc79aed075fced1b06298776e12c933d4979b8df428f630982",
+        "saved": "provenance/tracer_inputs/50Am_output/32446_trajectory.txt"
+      },
+      {
+        "id": 32472,
+        "member": "50Am_output/32472_trajectory.txt",
+        "sha256": "d835cb4715d0ca3291183b4a97c52b15492fd301dc320d4a1fe390c3da8a0c29",
+        "saved": "provenance/tracer_inputs/50Am_output/32472_trajectory.txt"
+      },
+      {
+        "id": 32657,
+        "member": "50Am_output/32657_trajectory.txt",
+        "sha256": "554776212058579ea4b2655adaf53567129c16741644ea34850572325ca54400",
+        "saved": "provenance/tracer_inputs/50Am_output/32657_trajectory.txt"
+      },
+      {
+        "id": 32868,
+        "member": "50Am_output/32868_trajectory.txt",
+        "sha256": "287168d51cc804e3c9204f16faa6786965930c7ab744d6ae89b12ad59c76ca1f",
+        "saved": "provenance/tracer_inputs/50Am_output/32868_trajectory.txt"
+      },
+      {
+        "id": 33140,
+        "member": "50Am_output/33140_trajectory.txt",
+        "sha256": "f306e856ff80bbc6f34973047cf58a80e08788e3eed680522cac7a05aeec9b89",
+        "saved": "provenance/tracer_inputs/50Am_output/33140_trajectory.txt"
+      },
+      {
+        "id": 34438,
+        "member": "50Am_output/34438_trajectory.txt",
+        "sha256": "aaace2191120c27f9797aa00972d1fd97c277716dc290b4da02f0cc3c8140100",
+        "saved": "provenance/tracer_inputs/50Am_output/34438_trajectory.txt"
+      },
+      {
+        "id": 34579,
+        "member": "50Am_output/34579_trajectory.txt",
+        "sha256": "c177d579308df59b186b6ae5ae536a5e501886771af7d1cad30d33988e7b2379",
+        "saved": "provenance/tracer_inputs/50Am_output/34579_trajectory.txt"
+      },
+      {
+        "id": 35526,
+        "member": "50Am_output/35526_trajectory.txt",
+        "sha256": "e744885377abd26da97ec8d1d67929a4b5205a272e3125a75b9995687f11f5d5",
+        "saved": "provenance/tracer_inputs/50Am_output/35526_trajectory.txt"
+      },
+      {
+        "id": 37878,
+        "member": "50Am_output/37878_trajectory.txt",
+        "sha256": "e0bd215c6fbe03685c1f1af79e97d9741abb46545b63b780a61de52f7c50d86d",
+        "saved": "provenance/tracer_inputs/50Am_output/37878_trajectory.txt"
+      },
+      {
+        "id": 38913,
+        "member": "50Am_output/38913_trajectory.txt",
+        "sha256": "9a9a75fb7c2979499934ec07f2ac289d1500a925516223d034fa35baefd0692b",
+        "saved": "provenance/tracer_inputs/50Am_output/38913_trajectory.txt"
+      },
+      {
+        "id": 39205,
+        "member": "50Am_output/39205_trajectory.txt",
+        "sha256": "d6df3ad6cc834d91fd66a3c5ca8b86c3b4a3e5d312a5588f0d42e53a813b6c94",
+        "saved": "provenance/tracer_inputs/50Am_output/39205_trajectory.txt"
+      },
+      {
+        "id": 39225,
+        "member": "50Am_output/39225_trajectory.txt",
+        "sha256": "e47ed9e41cb10090caf6680601084d33d4d5e6fd8b62753974942c498973eee3",
+        "saved": "provenance/tracer_inputs/50Am_output/39225_trajectory.txt"
+      },
+      {
+        "id": 40172,
+        "member": "50Am_output/40172_trajectory.txt",
+        "sha256": "6061cac5d0b8f36781632e61ae716948a7141696f487573664f7abe3bbafcc69",
+        "saved": "provenance/tracer_inputs/50Am_output/40172_trajectory.txt"
+      },
+      {
+        "id": 41396,
+        "member": "50Am_output/41396_trajectory.txt",
+        "sha256": "479979dbd276fe8d7788e1a52e171b24c76d3882159e8af04eb5ff0174c5a173",
+        "saved": "provenance/tracer_inputs/50Am_output/41396_trajectory.txt"
+      },
+      {
+        "id": 41475,
+        "member": "50Am_output/41475_trajectory.txt",
+        "sha256": "480bc3e1aac4f1f76a5205208b25b0a65716a342311fbbe455a293fb21362e74",
+        "saved": "provenance/tracer_inputs/50Am_output/41475_trajectory.txt"
+      },
+      {
+        "id": 41704,
+        "member": "50Am_output/41704_trajectory.txt",
+        "sha256": "8a3d99e210e6314fdf78bf28b83864f5a0e91cd8fbc5f146c8e6a3b59ab04c20",
+        "saved": "provenance/tracer_inputs/50Am_output/41704_trajectory.txt"
+      },
+      {
+        "id": 41812,
+        "member": "50Am_output/41812_trajectory.txt",
+        "sha256": "fb6b93cf5e59ff1f46031c31d3d2b3aa669bc89c757533b02128b239767e813c",
+        "saved": "provenance/tracer_inputs/50Am_output/41812_trajectory.txt"
+      },
+      {
+        "id": 41986,
+        "member": "50Am_output/41986_trajectory.txt",
+        "sha256": "603e747dd0037d2f2310abd4f63c80ea1713319eb2744d0ec04951a356447b3d",
+        "saved": "provenance/tracer_inputs/50Am_output/41986_trajectory.txt"
+      },
+      {
+        "id": 42393,
+        "member": "50Am_output/42393_trajectory.txt",
+        "sha256": "a809ec6c71276deb6b0bc5912d33bfe21c9eaef1e5cb4b54413b8ffacca29e9a",
+        "saved": "provenance/tracer_inputs/50Am_output/42393_trajectory.txt"
+      },
+      {
+        "id": 42733,
+        "member": "50Am_output/42733_trajectory.txt",
+        "sha256": "66bd1b5a54e1733fe8a9fd22ad74c036c16f48171b40ffe0e98f4ea7d07508f0",
+        "saved": "provenance/tracer_inputs/50Am_output/42733_trajectory.txt"
+      },
+      {
+        "id": 42751,
+        "member": "50Am_output/42751_trajectory.txt",
+        "sha256": "52f9aee66d193631915497709739d7fde1c9419feb0be2fb01dcfe60e513022e",
+        "saved": "provenance/tracer_inputs/50Am_output/42751_trajectory.txt"
+      },
+      {
+        "id": 43143,
+        "member": "50Am_output/43143_trajectory.txt",
+        "sha256": "6e74144ed35b7a6704ad3cbb48ecd2fac384888eabfec4322fec8134ed6f9355",
+        "saved": "provenance/tracer_inputs/50Am_output/43143_trajectory.txt"
+      },
+      {
+        "id": 43160,
+        "member": "50Am_output/43160_trajectory.txt",
+        "sha256": "aa828a30183981f1e284c6e63f6a0e35b85a762676bf91ef222c657427cd6275",
+        "saved": "provenance/tracer_inputs/50Am_output/43160_trajectory.txt"
+      },
+      {
+        "id": 43473,
+        "member": "50Am_output/43473_trajectory.txt",
+        "sha256": "9e299b94f12f8fb9d96747cc92dbe7051e91390fef7f5d695b726060ea0cc88b",
+        "saved": "provenance/tracer_inputs/50Am_output/43473_trajectory.txt"
+      },
+      {
+        "id": 43589,
+        "member": "50Am_output/43589_trajectory.txt",
+        "sha256": "43b3fd33bcd9da4fee8b9fffc373746d7ef63359122dc36d3f44df4ba67ad1f0",
+        "saved": "provenance/tracer_inputs/50Am_output/43589_trajectory.txt"
+      },
+      {
+        "id": 44185,
+        "member": "50Am_output/44185_trajectory.txt",
+        "sha256": "fa433866772c8940e6e04f5c162f4dcd0d429ee44b0e9bf1dd095c60d9385262",
+        "saved": "provenance/tracer_inputs/50Am_output/44185_trajectory.txt"
+      },
+      {
+        "id": 44240,
+        "member": "50Am_output/44240_trajectory.txt",
+        "sha256": "711fb43f97cf9b7bd0fd899525c067a9a4014c283a70280c949c3c8ebffc7ea4",
+        "saved": "provenance/tracer_inputs/50Am_output/44240_trajectory.txt"
+      },
+      {
+        "id": 45265,
+        "member": "50Am_output/45265_trajectory.txt",
+        "sha256": "2274fd1ad1402b1955993ac55061934728931c6aa4cd6c4f69c14108753c4d2a",
+        "saved": "provenance/tracer_inputs/50Am_output/45265_trajectory.txt"
+      },
+      {
+        "id": 45384,
+        "member": "50Am_output/45384_trajectory.txt",
+        "sha256": "7ce898ec57d047a330927b20bac4114a515a1192d86804b6db478fd8b1097dfb",
+        "saved": "provenance/tracer_inputs/50Am_output/45384_trajectory.txt"
+      },
+      {
+        "id": 45519,
+        "member": "50Am_output/45519_trajectory.txt",
+        "sha256": "cae281f6bc21c0039da1b631282114a31f327f6107ba502c06a258dbfbf63c15",
+        "saved": "provenance/tracer_inputs/50Am_output/45519_trajectory.txt"
+      },
+      {
+        "id": 45568,
+        "member": "50Am_output/45568_trajectory.txt",
+        "sha256": "2e5adff7679e5cff175adc5f323c8c37bbae2a18b0efe38e96e33d5eb07d36cd",
+        "saved": "provenance/tracer_inputs/50Am_output/45568_trajectory.txt"
+      },
+      {
+        "id": 45683,
+        "member": "50Am_output/45683_trajectory.txt",
+        "sha256": "5ffd7b091d50b7e16673b82165d0198a4041b557b5c1c64739d7501d144030a2",
+        "saved": "provenance/tracer_inputs/50Am_output/45683_trajectory.txt"
+      },
+      {
+        "id": 45971,
+        "member": "50Am_output/45971_trajectory.txt",
+        "sha256": "3e54e04a51d047b48d2e6c9f5bb30b83828e108dc2d2b7d34196388349b61e8f",
+        "saved": "provenance/tracer_inputs/50Am_output/45971_trajectory.txt"
+      },
+      {
+        "id": 46494,
+        "member": "50Am_output/46494_trajectory.txt",
+        "sha256": "e5ea47fac4e3580b380f00b9cdc60ec740fb40380b74876503c6a72900203c02",
+        "saved": "provenance/tracer_inputs/50Am_output/46494_trajectory.txt"
+      },
+      {
+        "id": 46867,
+        "member": "50Am_output/46867_trajectory.txt",
+        "sha256": "8da09c00edfd6b200f529f862802724d3349f17e0580966d3b238332fbbedf63",
+        "saved": "provenance/tracer_inputs/50Am_output/46867_trajectory.txt"
+      },
+      {
+        "id": 47366,
+        "member": "50Am_output/47366_trajectory.txt",
+        "sha256": "462f272651e3b95ad9d9a9d5e1cd3b7f0c65cb8cecfc032d4242511803c8fba4",
+        "saved": "provenance/tracer_inputs/50Am_output/47366_trajectory.txt"
+      },
+      {
+        "id": 48659,
+        "member": "50Am_output/48659_trajectory.txt",
+        "sha256": "00fe443d7882a13feffa98c42fe3c0d263bac6dfd1e90ad9051281dd5168e15b",
+        "saved": "provenance/tracer_inputs/50Am_output/48659_trajectory.txt"
+      },
+      {
+        "id": 48958,
+        "member": "50Am_output/48958_trajectory.txt",
+        "sha256": "6347385f9c950b7ce80546d355c101c6e6d882e702abd493c039384f6ea494ec",
+        "saved": "provenance/tracer_inputs/50Am_output/48958_trajectory.txt"
+      },
+      {
+        "id": 49491,
+        "member": "50Am_output/49491_trajectory.txt",
+        "sha256": "b7ba83e11583af1576d824deaf1432c4ac49e471888c502681ff87eced727416",
+        "saved": "provenance/tracer_inputs/50Am_output/49491_trajectory.txt"
+      },
+      {
+        "id": 50228,
+        "member": "50Am_output/50228_trajectory.txt",
+        "sha256": "9064c8d4c4d843ccfcb6b69aff7d22b85d6e6b15ee05f5f613e2d0a4c68a2808",
+        "saved": "provenance/tracer_inputs/50Am_output/50228_trajectory.txt"
+      },
+      {
+        "id": 52795,
+        "member": "50Am_output/52795_trajectory.txt",
+        "sha256": "895e0f8e183127f2a2b97ca84c8bf4e7252a894ad8fcec7ee29277732be473d7",
+        "saved": "provenance/tracer_inputs/50Am_output/52795_trajectory.txt"
+      },
+      {
+        "id": 53220,
+        "member": "50Am_output/53220_trajectory.txt",
+        "sha256": "d2269881026e23a45a4290bf717cee386903704d5ec7ed931c213df0b01540c4",
+        "saved": "provenance/tracer_inputs/50Am_output/53220_trajectory.txt"
+      },
+      {
+        "id": 53335,
+        "member": "50Am_output/53335_trajectory.txt",
+        "sha256": "4bbd4f72d107d031f1fa7585cd33c5f9bc8b85ddd17ae77beba78a475c47efc8",
+        "saved": "provenance/tracer_inputs/50Am_output/53335_trajectory.txt"
+      },
+      {
+        "id": 53831,
+        "member": "50Am_output/53831_trajectory.txt",
+        "sha256": "70a652c66c38929a5540c08f5fee00009b8e32eaf8ef3ca8aba8c7f5c75cd63a",
+        "saved": "provenance/tracer_inputs/50Am_output/53831_trajectory.txt"
+      },
+      {
+        "id": 54576,
+        "member": "50Am_output/54576_trajectory.txt",
+        "sha256": "f5bc2fe6f77f189755a9ff3636a8925360d9441a878a8856506c6e226b171763",
+        "saved": "provenance/tracer_inputs/50Am_output/54576_trajectory.txt"
+      },
+      {
+        "id": 55219,
+        "member": "50Am_output/55219_trajectory.txt",
+        "sha256": "ce9ca773fc5f4d9ca8f1d1a8addabda29e81e61c8a47a66181ba644df4e57718",
+        "saved": "provenance/tracer_inputs/50Am_output/55219_trajectory.txt"
+      },
+      {
+        "id": 57458,
+        "member": "50Am_output/57458_trajectory.txt",
+        "sha256": "9b69247bc578c5dc73a453dc07949309ab2fb1a8a353e2a10a05132fa1c85060",
+        "saved": "provenance/tracer_inputs/50Am_output/57458_trajectory.txt"
+      },
+      {
+        "id": 59576,
+        "member": "50Am_output/59576_trajectory.txt",
+        "sha256": "ca72d9a627f40d69ad389ec8a040fa72bf0d767f778401a63e830ea2d990f068",
+        "saved": "provenance/tracer_inputs/50Am_output/59576_trajectory.txt"
+      },
+      {
+        "id": 59907,
+        "member": "50Am_output/59907_trajectory.txt",
+        "sha256": "ad09ba4b464e1a405040c0fc39e58859c6277f9a139be6be9632f122b6e1259f",
+        "saved": "provenance/tracer_inputs/50Am_output/59907_trajectory.txt"
+      },
+      {
+        "id": 61762,
+        "member": "50Am_output/61762_trajectory.txt",
+        "sha256": "ff2eb1ca7cbee19c051f7b36ea017581356fcc7b4f6bf106c9056a192d5944ab",
+        "saved": "provenance/tracer_inputs/50Am_output/61762_trajectory.txt"
+      },
+      {
+        "id": 62793,
+        "member": "50Am_output/62793_trajectory.txt",
+        "sha256": "b2b806c1a6d17ded018a1b4c2afcff649e760b484ad0fade59ad60092adfdb6b",
+        "saved": "provenance/tracer_inputs/50Am_output/62793_trajectory.txt"
+      },
+      {
+        "id": 62861,
+        "member": "50Am_output/62861_trajectory.txt",
+        "sha256": "1425ed7de8e29a368369c11af2661f1f850ad967bcc3d0adf86855b89c36cfbc",
+        "saved": "provenance/tracer_inputs/50Am_output/62861_trajectory.txt"
+      },
+      {
+        "id": 62938,
+        "member": "50Am_output/62938_trajectory.txt",
+        "sha256": "33dcb7aa86fe5675a34ccaa46878ed9ba6438deda334662b01896fbe2716dbc9",
+        "saved": "provenance/tracer_inputs/50Am_output/62938_trajectory.txt"
+      },
+      {
+        "id": 63557,
+        "member": "50Am_output/63557_trajectory.txt",
+        "sha256": "2fa4995bbcd5a9a70ed220b3ddef8aa172179f76bd526961650c54fe06fb41c3",
+        "saved": "provenance/tracer_inputs/50Am_output/63557_trajectory.txt"
+      },
+      {
+        "id": 64759,
+        "member": "50Am_output/64759_trajectory.txt",
+        "sha256": "e68430bc76c89dd88661bed236f613238b1c72967851030388e7ebe628a5a43a",
+        "saved": "provenance/tracer_inputs/50Am_output/64759_trajectory.txt"
+      },
+      {
+        "id": 65721,
+        "member": "50Am_output/65721_trajectory.txt",
+        "sha256": "5cff3ddc51ba1b35990efdb896aa6ba47db17fd3a4d134f03870a85486d45a51",
+        "saved": "provenance/tracer_inputs/50Am_output/65721_trajectory.txt"
+      },
+      {
+        "id": 65734,
+        "member": "50Am_output/65734_trajectory.txt",
+        "sha256": "4ec095f6b3fb4c8366d928f97316fe0a933baa90444b0d18b628b2a557a3f583",
+        "saved": "provenance/tracer_inputs/50Am_output/65734_trajectory.txt"
+      },
+      {
+        "id": 65909,
+        "member": "50Am_output/65909_trajectory.txt",
+        "sha256": "6d98c616bd4a9ac49fcbd88a4353a7ebb700cc9bbaf6c826f560713c47eb602e",
+        "saved": "provenance/tracer_inputs/50Am_output/65909_trajectory.txt"
+      },
+      {
+        "id": 66397,
+        "member": "50Am_output/66397_trajectory.txt",
+        "sha256": "f5fdba40fa67cd9a26fe412590a11799c70bff1d5100e4df4fa41bc2d55ed74a",
+        "saved": "provenance/tracer_inputs/50Am_output/66397_trajectory.txt"
+      },
+      {
+        "id": 68328,
+        "member": "50Am_output/68328_trajectory.txt",
+        "sha256": "399edfcf3691cc098c56c791eb2564c1ab520a97a56e5f6575121fd11e1a7032",
+        "saved": "provenance/tracer_inputs/50Am_output/68328_trajectory.txt"
+      },
+      {
+        "id": 69192,
+        "member": "50Am_output/69192_trajectory.txt",
+        "sha256": "1f2231716392228d67f06dda0c1f89f93adb267fa1c108032734446e595828bd",
+        "saved": "provenance/tracer_inputs/50Am_output/69192_trajectory.txt"
+      },
+      {
+        "id": 71788,
+        "member": "50Am_output/71788_trajectory.txt",
+        "sha256": "cb3115bd70e81c4ab5f781501fdf7a8ca8be1f65696e51b24e83ecb12fb574a4",
+        "saved": "provenance/tracer_inputs/50Am_output/71788_trajectory.txt"
+      },
+      {
+        "id": 72624,
+        "member": "50Am_output/72624_trajectory.txt",
+        "sha256": "b5c4e4ff6c98e740d3c14897cb4e835f73e6ec423016a4a49616350285afb834",
+        "saved": "provenance/tracer_inputs/50Am_output/72624_trajectory.txt"
+      },
+      {
+        "id": 73969,
+        "member": "50Am_output/73969_trajectory.txt",
+        "sha256": "f54e785b6388ce6d597a1ee510fa4363572fbafe7b1ef4075b84925f113260bd",
+        "saved": "provenance/tracer_inputs/50Am_output/73969_trajectory.txt"
+      },
+      {
+        "id": 75042,
+        "member": "50Am_output/75042_trajectory.txt",
+        "sha256": "f7f793f0371be69669478afb445fbfcd964c328d8b3d8b12abb0600e68a8cea5",
+        "saved": "provenance/tracer_inputs/50Am_output/75042_trajectory.txt"
+      },
+      {
+        "id": 100000,
+        "member": "50Am_output/100000_trajectory.txt",
+        "sha256": "f69bae297338d5041931f622fb4045b0a0229d09aef478c3d5f10b038d8a4410",
+        "saved": "provenance/tracer_inputs/50Am_output/100000_trajectory.txt"
+      },
+      {
+        "id": 104085,
+        "member": "50Am_output/104085_trajectory.txt",
+        "sha256": "41871d5921925230f72710fed72f6a27a99fbacd43e392a17ab7287180f04ff9",
+        "saved": "provenance/tracer_inputs/50Am_output/104085_trajectory.txt"
+      },
+      {
+        "id": 105562,
+        "member": "50Am_output/105562_trajectory.txt",
+        "sha256": "f536192d8cbc5cccb54c8fefd70b1301ccdf457beb42f1b41b315d66b453c4b6",
+        "saved": "provenance/tracer_inputs/50Am_output/105562_trajectory.txt"
+      },
+      {
+        "id": 111207,
+        "member": "50Am_output/111207_trajectory.txt",
+        "sha256": "74dc9e461cbb4ba954bf9940a8c90006b96cb4ca67a85bfea4cdc313e0b9f463",
+        "saved": "provenance/tracer_inputs/50Am_output/111207_trajectory.txt"
+      },
+      {
+        "id": 123851,
+        "member": "50Am_output/123851_trajectory.txt",
+        "sha256": "501defae0145be95f9957a429683f359043fa67012a1ccae3992a83a4746378d",
+        "saved": "provenance/tracer_inputs/50Am_output/123851_trajectory.txt"
+      },
+      {
+        "id": 124893,
+        "member": "50Am_output/124893_trajectory.txt",
+        "sha256": "a03daca462ff97137254fcba018145e83a21ef3568a724f41df4845b896eaf81",
+        "saved": "provenance/tracer_inputs/50Am_output/124893_trajectory.txt"
+      },
+      {
+        "id": 132518,
+        "member": "50Am_output/132518_trajectory.txt",
+        "sha256": "fb3b519fc698da11aae0a18dd16af60a29846a69e9e841149885da05252481f1",
+        "saved": "provenance/tracer_inputs/50Am_output/132518_trajectory.txt"
+      },
+      {
+        "id": 148504,
+        "member": "50Am_output/148504_trajectory.txt",
+        "sha256": "07248a78eae377f7b5199639db632ae15c7dbdc34d1820c97cc79b1ac217bef1",
+        "saved": "provenance/tracer_inputs/50Am_output/148504_trajectory.txt"
+      },
+      {
+        "id": 157594,
+        "member": "50Am_output/157594_trajectory.txt",
+        "sha256": "fadf0b23fdcaa5edd3bdce6a2503ce4ebb275016d47e9bed533d2fb85e9ec9ca",
+        "saved": "provenance/tracer_inputs/50Am_output/157594_trajectory.txt"
+      },
+      {
+        "id": 173366,
+        "member": "50Am_output/173366_trajectory.txt",
+        "sha256": "4ad229e27a323c85193a31a2e0b6c6615e9a9f29708e45452718fcb5134b936b",
+        "saved": "provenance/tracer_inputs/50Am_output/173366_trajectory.txt"
+      },
+      {
+        "id": 191136,
+        "member": "50Am_output/191136_trajectory.txt",
+        "sha256": "2083c5f75f894b3dc00cc1608776947bc43ea558ecdec7f37b585a11cc902c56",
+        "saved": "provenance/tracer_inputs/50Am_output/191136_trajectory.txt"
+      },
+      {
+        "id": 203839,
+        "member": "50Am_output/203839_trajectory.txt",
+        "sha256": "09ff37fe28822561c23a074cb2476b5499e0e0d379653a60ee0172c1c4f67424",
+        "saved": "provenance/tracer_inputs/50Am_output/203839_trajectory.txt"
+      },
+      {
+        "id": 210811,
+        "member": "50Am_output/210811_trajectory.txt",
+        "sha256": "a5f2f71d5b4749377cbdaa6062ed26e1f845ee68066366649ccef32b0512789e",
+        "saved": "provenance/tracer_inputs/50Am_output/210811_trajectory.txt"
+      },
+      {
+        "id": 211510,
+        "member": "50Am_output/211510_trajectory.txt",
+        "sha256": "8afad0cbf0affb38a4411f7fa8d4ca01c1866d37622bfdaa0593f755f8d105b5",
+        "saved": "provenance/tracer_inputs/50Am_output/211510_trajectory.txt"
+      },
+      {
+        "id": 272296,
+        "member": "50Am_output/272296_trajectory.txt",
+        "sha256": "24e9bba51e5e0b2d7954cd3588ab342bbd214a406eb00cc90e3eb85db2e22047",
+        "saved": "provenance/tracer_inputs/50Am_output/272296_trajectory.txt"
+      },
+      {
+        "id": 272971,
+        "member": "50Am_output/272971_trajectory.txt",
+        "sha256": "154737623cccaee70dea9e8d17c334a80a3ce9102783f099f7ad3e896c7d515b",
+        "saved": "provenance/tracer_inputs/50Am_output/272971_trajectory.txt"
+      },
+      {
+        "id": 274870,
+        "member": "50Am_output/274870_trajectory.txt",
+        "sha256": "3efe00e694314afbfdf1efca13f7850f561a0b5dbc57b43b472e0f7dd1080987",
+        "saved": "provenance/tracer_inputs/50Am_output/274870_trajectory.txt"
+      },
+      {
+        "id": 274944,
+        "member": "50Am_output/274944_trajectory.txt",
+        "sha256": "c7e689e82d004bcac2a56f99a1282e51556ad0377ce0130417da0baea13e6c85",
+        "saved": "provenance/tracer_inputs/50Am_output/274944_trajectory.txt"
+      },
+      {
+        "id": 275588,
+        "member": "50Am_output/275588_trajectory.txt",
+        "sha256": "f7062ece49d360c848740fd076c34b868ec450ae84a237738fc8eb4fb9004537",
+        "saved": "provenance/tracer_inputs/50Am_output/275588_trajectory.txt"
+      },
+      {
+        "id": 276084,
+        "member": "50Am_output/276084_trajectory.txt",
+        "sha256": "a6b363d4a3d2421d4acb750aa222631b51b73076950c15c6af4cb032ff1fea9c",
+        "saved": "provenance/tracer_inputs/50Am_output/276084_trajectory.txt"
+      },
+      {
+        "id": 277771,
+        "member": "50Am_output/277771_trajectory.txt",
+        "sha256": "281871693da3177214efbae6426891e3b537f4043303e55da16e54ff087a2f0b",
+        "saved": "provenance/tracer_inputs/50Am_output/277771_trajectory.txt"
+      },
+      {
+        "id": 277860,
+        "member": "50Am_output/277860_trajectory.txt",
+        "sha256": "1ae8d44e38d02110488b660efcaca75e31b8f37decff326eb2a4e5f53ad51dc4",
+        "saved": "provenance/tracer_inputs/50Am_output/277860_trajectory.txt"
+      },
+      {
+        "id": 281211,
+        "member": "50Am_output/281211_trajectory.txt",
+        "sha256": "d2bffd72643ae50f9bce1fbdc456099c31c1e8d2e18c60d023fe42dc0af2fb88",
+        "saved": "provenance/tracer_inputs/50Am_output/281211_trajectory.txt"
+      },
+      {
+        "id": 282034,
+        "member": "50Am_output/282034_trajectory.txt",
+        "sha256": "5753b962010c18cebcbf2315e28e201c39f3db21e09c81bba9bb1a94f002ca6a",
+        "saved": "provenance/tracer_inputs/50Am_output/282034_trajectory.txt"
+      },
+      {
+        "id": 282374,
+        "member": "50Am_output/282374_trajectory.txt",
+        "sha256": "aad242176bd385c4add4715244247c32a9983ce62982be50d98b289b752a4d70",
+        "saved": "provenance/tracer_inputs/50Am_output/282374_trajectory.txt"
+      },
+      {
+        "id": 282415,
+        "member": "50Am_output/282415_trajectory.txt",
+        "sha256": "fd9a9bd5324bd181c0b4349c1a927bca97e0afabaf99316c9dc3c889f21751c3",
+        "saved": "provenance/tracer_inputs/50Am_output/282415_trajectory.txt"
+      },
+      {
+        "id": 289519,
+        "member": "50Am_output/289519_trajectory.txt",
+        "sha256": "4a0f692d38274d4e1c1784f6968265de2e78b71d822ffb9ffb6fb970cb6ec125",
+        "saved": "provenance/tracer_inputs/50Am_output/289519_trajectory.txt"
+      },
+      {
+        "id": 320736,
+        "member": "50Am_output/320736_trajectory.txt",
+        "sha256": "383a06acfa3142f9abf4f1416f302dc6829d246b4340bed22f062659e7d30705",
+        "saved": "provenance/tracer_inputs/50Am_output/320736_trajectory.txt"
+      },
+      {
+        "id": 320820,
+        "member": "50Am_output/320820_trajectory.txt",
+        "sha256": "2113ef588020c7de5050e53491a2e6f1f6c36058fb34346046c70f2db68b2fea",
+        "saved": "provenance/tracer_inputs/50Am_output/320820_trajectory.txt"
+      },
+      {
+        "id": 372924,
+        "member": "50Am_output/372924_trajectory.txt",
+        "sha256": "14b27e6e9444aa992a6997454dcecdcfe09029ec32fba3dad281271b028f5b08",
+        "saved": "provenance/tracer_inputs/50Am_output/372924_trajectory.txt"
+      },
+      {
+        "id": 463819,
+        "member": "50Am_output/463819_trajectory.txt",
+        "sha256": "643796d2e44163d4169a8f5df15916152f434899b874e840cd06e4626348b414",
+        "saved": "provenance/tracer_inputs/50Am_output/463819_trajectory.txt"
+      },
+      {
+        "id": 466467,
+        "member": "50Am_output/466467_trajectory.txt",
+        "sha256": "1e1568c439544effb92b1c19f0150f0b804ac93632d082ef6b4e50135a2a6ded",
+        "saved": "provenance/tracer_inputs/50Am_output/466467_trajectory.txt"
+      },
+      {
+        "id": 484103,
+        "member": "50Am_output/484103_trajectory.txt",
+        "sha256": "c4aa7ba4264888450d39f9189407c702615d1b4ea5fce755c0c756c4ad868a4b",
+        "saved": "provenance/tracer_inputs/50Am_output/484103_trajectory.txt"
+      },
+      {
+        "id": 554686,
+        "member": "50Am_output/554686_trajectory.txt",
+        "sha256": "e43fd1318f10de6d80fad6073b945697ab0264b6105c66c1f572e83b1e6ce4d2",
+        "saved": "provenance/tracer_inputs/50Am_output/554686_trajectory.txt"
+      },
+      {
+        "id": 645539,
+        "member": "50Am_output/645539_trajectory.txt",
+        "sha256": "1ea53e753b34325875298aea3ae4a7899f99166a78c4c48d8343f3626c9b3304",
+        "saved": "provenance/tracer_inputs/50Am_output/645539_trajectory.txt"
+      },
+      {
+        "id": 715826,
+        "member": "50Am_output/715826_trajectory.txt",
+        "sha256": "3a891c8875418cef00313325c18c5ccc87669ac22bae1d965764f7c30f94e4d4",
+        "saved": "provenance/tracer_inputs/50Am_output/715826_trajectory.txt"
+      },
+      {
+        "id": 736293,
+        "member": "50Am_output/736293_trajectory.txt",
+        "sha256": "cf5d36e80fbf2e6547d5f05768954a84d2d8b8b6f1e41d06352dd5a5bedd093c",
+        "saved": "provenance/tracer_inputs/50Am_output/736293_trajectory.txt"
+      },
+      {
+        "id": 826819,
+        "member": "50Am_output/826819_trajectory.txt",
+        "sha256": "aac4d72754ceca6d5e41c5e9f3ae1a276960a9f37128be235ea52b4772588935",
+        "saved": "provenance/tracer_inputs/50Am_output/826819_trajectory.txt"
+      },
+      {
+        "id": 896599,
+        "member": "50Am_output/896599_trajectory.txt",
+        "sha256": "add17b3142276ea9ba4e01132bfc8ac16f9819b48c8958ae82120aa9e0c303ba",
+        "saved": "provenance/tracer_inputs/50Am_output/896599_trajectory.txt"
+      },
+      {
+        "id": 914719,
+        "member": "50Am_output/914719_trajectory.txt",
+        "sha256": "77b88f00dea305e6f487c5e42d837801fe7096d5e8c3055e1b1923ce6148686f",
+        "saved": "provenance/tracer_inputs/50Am_output/914719_trajectory.txt"
+      },
+      {
+        "id": 914735,
+        "member": "50Am_output/914735_trajectory.txt",
+        "sha256": "8be573cda3cf04bfcb8e9a96d66c7a497f75f95320a0cc25c9f14d56abceb437",
+        "saved": "provenance/tracer_inputs/50Am_output/914735_trajectory.txt"
+      },
+      {
+        "id": 917342,
+        "member": "50Am_output/917342_trajectory.txt",
+        "sha256": "258d607feb6ba8b8f515db1225516157a1b578d517c0b5eda21b244ea1f92aee",
+        "saved": "provenance/tracer_inputs/50Am_output/917342_trajectory.txt"
+      },
+      {
+        "id": 945631,
+        "member": "50Am_output/945631_trajectory.txt",
+        "sha256": "03de86a4ca7519c9d74d2a719cf5641c6a6d932b0a7d5b8815f886992274b066",
+        "saved": "provenance/tracer_inputs/50Am_output/945631_trajectory.txt"
+      },
+      {
+        "id": 945632,
+        "member": "50Am_output/945632_trajectory.txt",
+        "sha256": "9f6e56f4d547128c9a7de327c876d5df694f69a2063e92b794f9d59a7d4fc918",
+        "saved": "provenance/tracer_inputs/50Am_output/945632_trajectory.txt"
+      },
+      {
+        "id": 945633,
+        "member": "50Am_output/945633_trajectory.txt",
+        "sha256": "1de24e0a8185092e08ed3a5db1c3b2fa0379fd10a2ae8b2bf50931ee9bcd4ea0",
+        "saved": "provenance/tracer_inputs/50Am_output/945633_trajectory.txt"
+      }
+    ]
+  },
+  {
+    "source": {
+      "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output_tempcorr.zip",
+      "bytes": 769357822,
+      "mtime_ns": 1761696862000000000,
+      "ctime_ns": 1790384684000000000,
+      "inode": 6610116420011869657
+    },
+    "members": 943902,
+    "uncompressed_bytes": 2439435391,
+    "particle_files": 943900,
+    "requested_missing": [
+      0
+    ],
+    "status": "selected_members_CRC_verified",
+    "copied": [
+      {
+        "id": 193,
+        "member": "50Am_output_tempcorr/193_trajectory.txt",
+        "sha256": "010d1afd2b8d677beaba222c49578a454ff26c64c8117185fa03e32adb4afa82",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/193_trajectory.txt"
+      },
+      {
+        "id": 2922,
+        "member": "50Am_output_tempcorr/2922_trajectory.txt",
+        "sha256": "2d0a1ff91b55e19228f8a8977f0bac0383c98ff7d1b185bc7d2033a95937ccde",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/2922_trajectory.txt"
+      },
+      {
+        "id": 2997,
+        "member": "50Am_output_tempcorr/2997_trajectory.txt",
+        "sha256": "199743f0e845e6c21a67766f992e55433dd77f5c6da1886f349e5bcfad4b7ebe",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/2997_trajectory.txt"
+      },
+      {
+        "id": 5410,
+        "member": "50Am_output_tempcorr/5410_trajectory.txt",
+        "sha256": "7ab3b1553fb23233a583c72d40e47936cf4b3eb39c59d31a4ce78b36537b8f6c",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/5410_trajectory.txt"
+      },
+      {
+        "id": 5613,
+        "member": "50Am_output_tempcorr/5613_trajectory.txt",
+        "sha256": "693e6f1b95d952319ff53d3c7346c132fa0f21e79deee00be54bdd408bb5e7be",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/5613_trajectory.txt"
+      },
+      {
+        "id": 7753,
+        "member": "50Am_output_tempcorr/7753_trajectory.txt",
+        "sha256": "d80d444b99c029e1561c5e3419e0e9f4e73710d108a97730fe445b8bbc362740",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/7753_trajectory.txt"
+      },
+      {
+        "id": 8425,
+        "member": "50Am_output_tempcorr/8425_trajectory.txt",
+        "sha256": "b6594599c61a835dd4903358b041e28043edee7a77b58c8e83ea84c3d61cea03",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/8425_trajectory.txt"
+      },
+      {
+        "id": 8474,
+        "member": "50Am_output_tempcorr/8474_trajectory.txt",
+        "sha256": "1151071adf3c04b64c4f4f183d460d7fcbf2ca37ff00a1343920a4ffb332ee59",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/8474_trajectory.txt"
+      },
+      {
+        "id": 10027,
+        "member": "50Am_output_tempcorr/10027_trajectory.txt",
+        "sha256": "cf44f2f48f5ebab7f0a239bbddd541f7358edde369f1f275175d0c901b9ec048",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10027_trajectory.txt"
+      },
+      {
+        "id": 10059,
+        "member": "50Am_output_tempcorr/10059_trajectory.txt",
+        "sha256": "05b4605798bb0996e4931c15bfec19111859917a95366bcef034af705f23d5d7",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10059_trajectory.txt"
+      },
+      {
+        "id": 10065,
+        "member": "50Am_output_tempcorr/10065_trajectory.txt",
+        "sha256": "658a3892d7123b1de07a00a2e0ffa3cc37626a461bf420ab7d8576d519aee6ce",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10065_trajectory.txt"
+      },
+      {
+        "id": 10077,
+        "member": "50Am_output_tempcorr/10077_trajectory.txt",
+        "sha256": "5d76dcda4e8aca87a2898dcf335acf628a2de5edffeaef57ba726e4e8b42e3a7",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10077_trajectory.txt"
+      },
+      {
+        "id": 10084,
+        "member": "50Am_output_tempcorr/10084_trajectory.txt",
+        "sha256": "ad787907d8cabfcfa3778b3a5b9746c04b67dc89b8d897354651a254fa593f53",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10084_trajectory.txt"
+      },
+      {
+        "id": 10096,
+        "member": "50Am_output_tempcorr/10096_trajectory.txt",
+        "sha256": "e7b3a25b225f24a3a57f5b47d21b5e3c3b775164671a88389fc701b662535674",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10096_trajectory.txt"
+      },
+      {
+        "id": 10123,
+        "member": "50Am_output_tempcorr/10123_trajectory.txt",
+        "sha256": "02a01fdf2dd9512ee279ac21940de3652816777ab25770d3f6e0a8d5418eba44",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10123_trajectory.txt"
+      },
+      {
+        "id": 10127,
+        "member": "50Am_output_tempcorr/10127_trajectory.txt",
+        "sha256": "c069f860ae38b4544deef0674f058ea361f63b67f764664f3a1d0c74b73dcfd3",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10127_trajectory.txt"
+      },
+      {
+        "id": 10141,
+        "member": "50Am_output_tempcorr/10141_trajectory.txt",
+        "sha256": "5043c7775522094ba9a4157ea336e617cd22088573bdf98cc6e58e16d8edee7b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10141_trajectory.txt"
+      },
+      {
+        "id": 10151,
+        "member": "50Am_output_tempcorr/10151_trajectory.txt",
+        "sha256": "48e80fd0c742d9e8844bca173131a3202b5be04d77bdce2dbaa6bfbeff5ca374",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10151_trajectory.txt"
+      },
+      {
+        "id": 10160,
+        "member": "50Am_output_tempcorr/10160_trajectory.txt",
+        "sha256": "8ef796786479841088ce0d9c5a3663dca7a2b3660ad4bb3e08bb5e50bace8e52",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10160_trajectory.txt"
+      },
+      {
+        "id": 10171,
+        "member": "50Am_output_tempcorr/10171_trajectory.txt",
+        "sha256": "a0b7dc54b066dbfed11699010c6e322994be5a64796c11dbd57057a2ec188f36",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10171_trajectory.txt"
+      },
+      {
+        "id": 10240,
+        "member": "50Am_output_tempcorr/10240_trajectory.txt",
+        "sha256": "195b9fac4daf722381f1646fa5c6954ba7a6d0a61a281bb23143c114c94e24dd",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10240_trajectory.txt"
+      },
+      {
+        "id": 10529,
+        "member": "50Am_output_tempcorr/10529_trajectory.txt",
+        "sha256": "0bf67e703c4ea6aecf982dd9765b50feaf38eb73fda0db1e12f165bb6e39a379",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10529_trajectory.txt"
+      },
+      {
+        "id": 10917,
+        "member": "50Am_output_tempcorr/10917_trajectory.txt",
+        "sha256": "9816934b028611eac60868b1cb928aeb136bbc24e1107382bca0f64c6c69e645",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/10917_trajectory.txt"
+      },
+      {
+        "id": 11140,
+        "member": "50Am_output_tempcorr/11140_trajectory.txt",
+        "sha256": "14f65228fd1f7254b51c928be79763f0ead267ac773b00fe8b1916fc7ea7874b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/11140_trajectory.txt"
+      },
+      {
+        "id": 12078,
+        "member": "50Am_output_tempcorr/12078_trajectory.txt",
+        "sha256": "e218e31fa73552ff5b21058870d54489a58dc4693f9340b7a0b6a4af49edb107",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/12078_trajectory.txt"
+      },
+      {
+        "id": 14069,
+        "member": "50Am_output_tempcorr/14069_trajectory.txt",
+        "sha256": "96996d38292eb2f3e35fa166a06a0c24c92d637ddbc14104e90e6dd3e810a6ba",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/14069_trajectory.txt"
+      },
+      {
+        "id": 14834,
+        "member": "50Am_output_tempcorr/14834_trajectory.txt",
+        "sha256": "3f9326d9c8ebc1098b6a67cdbb2dc0c34743a794f53a5dcf065e6df3ec73ca19",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/14834_trajectory.txt"
+      },
+      {
+        "id": 16928,
+        "member": "50Am_output_tempcorr/16928_trajectory.txt",
+        "sha256": "01ac634de187a9f9634e10c8c1d5cf1ada8a5605ae6b1174ddc591056b475d48",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/16928_trajectory.txt"
+      },
+      {
+        "id": 18077,
+        "member": "50Am_output_tempcorr/18077_trajectory.txt",
+        "sha256": "b2a7ba426f8d5f481fa3b1f69db57428e6add8547252b3bdfa236a3ff5d00945",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/18077_trajectory.txt"
+      },
+      {
+        "id": 20884,
+        "member": "50Am_output_tempcorr/20884_trajectory.txt",
+        "sha256": "eace2ef4106655d3591040d9ae2c8b3b8715b1d7444e3275e8ba7914ab0fbaec",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/20884_trajectory.txt"
+      },
+      {
+        "id": 22626,
+        "member": "50Am_output_tempcorr/22626_trajectory.txt",
+        "sha256": "fb79cd807eb1a9de109b9d3cc3e999a86dba8c4d4c9589cdfe72b0ec0489e4ed",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/22626_trajectory.txt"
+      },
+      {
+        "id": 23645,
+        "member": "50Am_output_tempcorr/23645_trajectory.txt",
+        "sha256": "a9e24cdd95dbb155fed64d3bcf49bf5dfec7e0eeb2e1843aed78babd03549e70",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/23645_trajectory.txt"
+      },
+      {
+        "id": 25199,
+        "member": "50Am_output_tempcorr/25199_trajectory.txt",
+        "sha256": "20a69be4c4235af87d2314417e8602a55b24f74952b5940bfa4a459d97ac6cd1",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/25199_trajectory.txt"
+      },
+      {
+        "id": 28630,
+        "member": "50Am_output_tempcorr/28630_trajectory.txt",
+        "sha256": "a97ae58d2af4af4fec66eb01f91ee934a4a32dbcfc3a58716e238e22cff7894d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/28630_trajectory.txt"
+      },
+      {
+        "id": 28936,
+        "member": "50Am_output_tempcorr/28936_trajectory.txt",
+        "sha256": "825d32fe8cf1303fe55abb7d2adfc4712a602b2a7d2d2a61394acd84e484b054",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/28936_trajectory.txt"
+      },
+      {
+        "id": 29053,
+        "member": "50Am_output_tempcorr/29053_trajectory.txt",
+        "sha256": "a4e9c44f4d5e7cb374adf1398c8a5b3e1163492f81b0a4d62b3bb77aec7f5ce0",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/29053_trajectory.txt"
+      },
+      {
+        "id": 30468,
+        "member": "50Am_output_tempcorr/30468_trajectory.txt",
+        "sha256": "24f61f81678d372d58352daf52eb3a6bff4eb0745e2644e51a67f89582f510db",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/30468_trajectory.txt"
+      },
+      {
+        "id": 30712,
+        "member": "50Am_output_tempcorr/30712_trajectory.txt",
+        "sha256": "5287cf396c4ec8e9550a7b1f1b69ce0e5340d58ac811820e9b1dc02eb0f3b20e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/30712_trajectory.txt"
+      },
+      {
+        "id": 30900,
+        "member": "50Am_output_tempcorr/30900_trajectory.txt",
+        "sha256": "5c54fbc27cd31f1e36073a44d8606e0a544114acbd447b7e6c71e7fb0fd6358a",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/30900_trajectory.txt"
+      },
+      {
+        "id": 30935,
+        "member": "50Am_output_tempcorr/30935_trajectory.txt",
+        "sha256": "292c05a1f9915e0f0c67d60a9030c395bde90d6bd5c02dfb060e9625e78156ff",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/30935_trajectory.txt"
+      },
+      {
+        "id": 30954,
+        "member": "50Am_output_tempcorr/30954_trajectory.txt",
+        "sha256": "9ba7c6fc175f2ac01f31bb3194c4eca8d4939211ed9d491f02b06b1c50f23756",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/30954_trajectory.txt"
+      },
+      {
+        "id": 31132,
+        "member": "50Am_output_tempcorr/31132_trajectory.txt",
+        "sha256": "03d3b92c922da6ee3fff30b6db95a0393b533b6c3b421465a74e7e8de6ab0a87",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/31132_trajectory.txt"
+      },
+      {
+        "id": 31468,
+        "member": "50Am_output_tempcorr/31468_trajectory.txt",
+        "sha256": "3fb26c403fb5e6eb52f6be859bfc223fe5019d606b7dc56b9e1f952780a6639b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/31468_trajectory.txt"
+      },
+      {
+        "id": 32191,
+        "member": "50Am_output_tempcorr/32191_trajectory.txt",
+        "sha256": "7fc0fe7758decfe79f4a4829257f1d97ec8c1594971b7368bb3a8a896536970e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/32191_trajectory.txt"
+      },
+      {
+        "id": 32403,
+        "member": "50Am_output_tempcorr/32403_trajectory.txt",
+        "sha256": "0832c11a27442a514d679045f8b749fbc9fdb6f74b45bd2081a7a0687f21ade8",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/32403_trajectory.txt"
+      },
+      {
+        "id": 32446,
+        "member": "50Am_output_tempcorr/32446_trajectory.txt",
+        "sha256": "1997d12da0f031f1a5d195adf90283df90faacf1fc9c1919ea01560847b04f20",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/32446_trajectory.txt"
+      },
+      {
+        "id": 32472,
+        "member": "50Am_output_tempcorr/32472_trajectory.txt",
+        "sha256": "7f8ef3254c9e2990483ac0b2c722858f58b9dc853bcc40d78754c66714d83886",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/32472_trajectory.txt"
+      },
+      {
+        "id": 32657,
+        "member": "50Am_output_tempcorr/32657_trajectory.txt",
+        "sha256": "e95bfa5327b444b59ce6d41566f54c08a0b068806cb60ffd1c01ec8baebfc816",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/32657_trajectory.txt"
+      },
+      {
+        "id": 32868,
+        "member": "50Am_output_tempcorr/32868_trajectory.txt",
+        "sha256": "021572ea09f854492e58a36abf5fe89fdd4a40a4607554703b7b51dbdaa39fa0",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/32868_trajectory.txt"
+      },
+      {
+        "id": 33140,
+        "member": "50Am_output_tempcorr/33140_trajectory.txt",
+        "sha256": "ccf2de15b30bcb4eeea456e3f20eea5e454ba3f7d2137d71b3b5ac200f656e9b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/33140_trajectory.txt"
+      },
+      {
+        "id": 34438,
+        "member": "50Am_output_tempcorr/34438_trajectory.txt",
+        "sha256": "95760fac361535ef5461adb624a52f54ec7a5db8bb0102dd679f421bc21a4ccf",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/34438_trajectory.txt"
+      },
+      {
+        "id": 34579,
+        "member": "50Am_output_tempcorr/34579_trajectory.txt",
+        "sha256": "c47877a69d4626fe61fbb3e0204683041ae8e0a9e53514e227b2c49bb9e30bb2",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/34579_trajectory.txt"
+      },
+      {
+        "id": 35526,
+        "member": "50Am_output_tempcorr/35526_trajectory.txt",
+        "sha256": "7ff702a9c8a98079530ec47a26123e35ef41b64ff50b33e0d9495512e09ea441",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/35526_trajectory.txt"
+      },
+      {
+        "id": 37878,
+        "member": "50Am_output_tempcorr/37878_trajectory.txt",
+        "sha256": "6ea9010a77267246d32b3a0ada07d005e3dd26ef1a6819e9797739f166c4061c",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/37878_trajectory.txt"
+      },
+      {
+        "id": 38913,
+        "member": "50Am_output_tempcorr/38913_trajectory.txt",
+        "sha256": "5e266e8619a1ac9b5b99779fb478d3d2473093fcebafe3f8bee4591bfee734e9",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/38913_trajectory.txt"
+      },
+      {
+        "id": 39205,
+        "member": "50Am_output_tempcorr/39205_trajectory.txt",
+        "sha256": "8c6396dc13750c79c649cb7b9fec60bfd4441b62595697f61aa977579948b5cb",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/39205_trajectory.txt"
+      },
+      {
+        "id": 39225,
+        "member": "50Am_output_tempcorr/39225_trajectory.txt",
+        "sha256": "1fe195b32b7f34d7acea7232e2f66ba38357395b557f4483cdb708d1ddd4b8e7",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/39225_trajectory.txt"
+      },
+      {
+        "id": 40172,
+        "member": "50Am_output_tempcorr/40172_trajectory.txt",
+        "sha256": "30b02ec6597af4a489aa9345aa73c36a388b0a755c39024f8e94760e4e76bb9b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/40172_trajectory.txt"
+      },
+      {
+        "id": 41396,
+        "member": "50Am_output_tempcorr/41396_trajectory.txt",
+        "sha256": "a977c6c030a45755d71812e3a4c4320a606aa1f60ecd01b50975c4d04a2358df",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/41396_trajectory.txt"
+      },
+      {
+        "id": 41475,
+        "member": "50Am_output_tempcorr/41475_trajectory.txt",
+        "sha256": "5ce6b8c717b04e8e413589091192beff6365ba408a61586f38f36a52505f0c1e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/41475_trajectory.txt"
+      },
+      {
+        "id": 41704,
+        "member": "50Am_output_tempcorr/41704_trajectory.txt",
+        "sha256": "a9b23777db54d92b7c78afb1589b0da3c4c610b8c3b0e1be1624c16d18456f2d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/41704_trajectory.txt"
+      },
+      {
+        "id": 41812,
+        "member": "50Am_output_tempcorr/41812_trajectory.txt",
+        "sha256": "fa899fafd3e13906f8cbd1a1e342d7e1e2a71c6cc450de5db7532d8223b9cc38",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/41812_trajectory.txt"
+      },
+      {
+        "id": 41986,
+        "member": "50Am_output_tempcorr/41986_trajectory.txt",
+        "sha256": "0d4240fcb1ceaacbaa738776b814997d39b277f20e13376f3efc4b58b870871d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/41986_trajectory.txt"
+      },
+      {
+        "id": 42393,
+        "member": "50Am_output_tempcorr/42393_trajectory.txt",
+        "sha256": "530200b2b1a6b9e8fd12e2b49cb7d1cf4dbc28e44e262aafa32e091c5cf5697c",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/42393_trajectory.txt"
+      },
+      {
+        "id": 42733,
+        "member": "50Am_output_tempcorr/42733_trajectory.txt",
+        "sha256": "f9ba7bb7771504561e7865f1469d6c45a8fdad05962815af6f17a1539dd4110b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/42733_trajectory.txt"
+      },
+      {
+        "id": 42751,
+        "member": "50Am_output_tempcorr/42751_trajectory.txt",
+        "sha256": "2c14443d4e3a234ba10c874e27bdc54dcb180a417b126d50f34dda09e823121f",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/42751_trajectory.txt"
+      },
+      {
+        "id": 43143,
+        "member": "50Am_output_tempcorr/43143_trajectory.txt",
+        "sha256": "475e9a0958f9f7637cd97748b36159a13235a52c5e706f4dab3b15f8dcc14fca",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/43143_trajectory.txt"
+      },
+      {
+        "id": 43160,
+        "member": "50Am_output_tempcorr/43160_trajectory.txt",
+        "sha256": "c06a19ed9e639372aa1a731b978ee81db67ce07c5c4b349267aa41c45d1b9c38",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/43160_trajectory.txt"
+      },
+      {
+        "id": 43473,
+        "member": "50Am_output_tempcorr/43473_trajectory.txt",
+        "sha256": "1e369be5028eab69a0c5527c4a7adec0f8a753496b933cf836c0a7bb623f896f",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/43473_trajectory.txt"
+      },
+      {
+        "id": 43589,
+        "member": "50Am_output_tempcorr/43589_trajectory.txt",
+        "sha256": "86d39ed05640ab33c920d23b2c09fa1be75806e06e56a8e54b14c1e8e0800014",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/43589_trajectory.txt"
+      },
+      {
+        "id": 44185,
+        "member": "50Am_output_tempcorr/44185_trajectory.txt",
+        "sha256": "97f65a53cec8d5aebc33652c9bfbde934a7762bd4a38bb175702d35f4138e407",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/44185_trajectory.txt"
+      },
+      {
+        "id": 44240,
+        "member": "50Am_output_tempcorr/44240_trajectory.txt",
+        "sha256": "36dd15fbf7fcdc4a8712b04efac839787a91db8dfcfc191499a2a855a6a1a4e5",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/44240_trajectory.txt"
+      },
+      {
+        "id": 45265,
+        "member": "50Am_output_tempcorr/45265_trajectory.txt",
+        "sha256": "b1568a4642f37f74a59ea4ab764bf34231f1e36aeb4fd3e4aeefc8c21ed4f069",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/45265_trajectory.txt"
+      },
+      {
+        "id": 45384,
+        "member": "50Am_output_tempcorr/45384_trajectory.txt",
+        "sha256": "c6403baf738288bac8dea7cd8247b36a10bb78206fab3035aa7bf05711348e92",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/45384_trajectory.txt"
+      },
+      {
+        "id": 45519,
+        "member": "50Am_output_tempcorr/45519_trajectory.txt",
+        "sha256": "7e3f5196b629a65ddabf329b93526504eb15395bcbef525dedb7a7beadc1d400",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/45519_trajectory.txt"
+      },
+      {
+        "id": 45568,
+        "member": "50Am_output_tempcorr/45568_trajectory.txt",
+        "sha256": "fe5826843626682fa6d64f0398d58d4de15c157836746ee2c66966e18eba470e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/45568_trajectory.txt"
+      },
+      {
+        "id": 45683,
+        "member": "50Am_output_tempcorr/45683_trajectory.txt",
+        "sha256": "5a8657afb9679040e3dd88dafbab5b1c4eeff1c293ebd34d0c45656f5e3489b0",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/45683_trajectory.txt"
+      },
+      {
+        "id": 45971,
+        "member": "50Am_output_tempcorr/45971_trajectory.txt",
+        "sha256": "07a40a3fb726550d661b138cf96efe299bbe9c5e1ede666e68645427dabda649",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/45971_trajectory.txt"
+      },
+      {
+        "id": 46494,
+        "member": "50Am_output_tempcorr/46494_trajectory.txt",
+        "sha256": "6d119741f92fc79a2e26b8f4ac7a16f2221cc63415fb4d75037751fc5e560e92",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/46494_trajectory.txt"
+      },
+      {
+        "id": 46867,
+        "member": "50Am_output_tempcorr/46867_trajectory.txt",
+        "sha256": "7a5e4d4b54b2f49db917e502e222fe67ef16b0e802961e3d0c4dad69714f73fc",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/46867_trajectory.txt"
+      },
+      {
+        "id": 47366,
+        "member": "50Am_output_tempcorr/47366_trajectory.txt",
+        "sha256": "97f20bd73d06c3fc6a28c73b55dc31bed632207bb6aa8d8006c0f4595d369dda",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/47366_trajectory.txt"
+      },
+      {
+        "id": 48659,
+        "member": "50Am_output_tempcorr/48659_trajectory.txt",
+        "sha256": "ccce7c6f675fc133f5c90fda21a661489f367afad7db0bd6a8e706ea43b8c976",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/48659_trajectory.txt"
+      },
+      {
+        "id": 48958,
+        "member": "50Am_output_tempcorr/48958_trajectory.txt",
+        "sha256": "98384f5266429885f419b04457a00571094410c33eb39320d7f98e43700a06ff",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/48958_trajectory.txt"
+      },
+      {
+        "id": 49491,
+        "member": "50Am_output_tempcorr/49491_trajectory.txt",
+        "sha256": "9bc61964929d2ee42a1e38d946aa744a41aa1657b3811c2e9cd4d009bd93dc9c",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/49491_trajectory.txt"
+      },
+      {
+        "id": 50228,
+        "member": "50Am_output_tempcorr/50228_trajectory.txt",
+        "sha256": "344d3587907320b9e7f5911e309afbfa408cd7794a2345a736539e27d1a7b4e5",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/50228_trajectory.txt"
+      },
+      {
+        "id": 52795,
+        "member": "50Am_output_tempcorr/52795_trajectory.txt",
+        "sha256": "3371c71066df1fd4fdddb7699ffdfdf373c5538124f51b7bede7ca46af12d7b2",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/52795_trajectory.txt"
+      },
+      {
+        "id": 53220,
+        "member": "50Am_output_tempcorr/53220_trajectory.txt",
+        "sha256": "2b62395b87b54bf8c42912b0b782cb05277388e3e6643c0a57c1a47aac0f67a3",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/53220_trajectory.txt"
+      },
+      {
+        "id": 53335,
+        "member": "50Am_output_tempcorr/53335_trajectory.txt",
+        "sha256": "f014bc23f81ae5d85393a02cca754d72d0f40bdfaba0320acacdfb0bb523f8df",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/53335_trajectory.txt"
+      },
+      {
+        "id": 53831,
+        "member": "50Am_output_tempcorr/53831_trajectory.txt",
+        "sha256": "c20f3e916fed6d48478edc3f3c960bd1b2088772f0858c610917738d893f4e32",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/53831_trajectory.txt"
+      },
+      {
+        "id": 54576,
+        "member": "50Am_output_tempcorr/54576_trajectory.txt",
+        "sha256": "22b664dcca8407699e24ab17045c60670bdb9bb3c9fa43368ad20ce8d287c034",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/54576_trajectory.txt"
+      },
+      {
+        "id": 55219,
+        "member": "50Am_output_tempcorr/55219_trajectory.txt",
+        "sha256": "744777d5c3a989842f08731f7304c21756408386eb311d059435a2a8979792ca",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/55219_trajectory.txt"
+      },
+      {
+        "id": 57458,
+        "member": "50Am_output_tempcorr/57458_trajectory.txt",
+        "sha256": "e7fb400f700751dc16d550b0f79a2326e147acd81345a9ffc9055ca9837d371a",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/57458_trajectory.txt"
+      },
+      {
+        "id": 59576,
+        "member": "50Am_output_tempcorr/59576_trajectory.txt",
+        "sha256": "fa42ffa632898b276082ca03807ad94e7b4954a8c7fe6be5fbe738d412602baf",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/59576_trajectory.txt"
+      },
+      {
+        "id": 59907,
+        "member": "50Am_output_tempcorr/59907_trajectory.txt",
+        "sha256": "f19fa605bdf8ba365348de7920aa16bc99c26b0eb179f6057a792f5e9daf35df",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/59907_trajectory.txt"
+      },
+      {
+        "id": 61762,
+        "member": "50Am_output_tempcorr/61762_trajectory.txt",
+        "sha256": "0883639e0c0cdf9d353e2a0c458986f6752bfb2bb22c0214d7e0ee8c650dfd04",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/61762_trajectory.txt"
+      },
+      {
+        "id": 62793,
+        "member": "50Am_output_tempcorr/62793_trajectory.txt",
+        "sha256": "cdf7750c997d24537eab223fd7e93756e3b15755e6d28361ed731204361eb51b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/62793_trajectory.txt"
+      },
+      {
+        "id": 62861,
+        "member": "50Am_output_tempcorr/62861_trajectory.txt",
+        "sha256": "1e4dd0a3bd6159aa47639c0d29c0548e76a53c925eb0eb09f9a0005dd3dfce5f",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/62861_trajectory.txt"
+      },
+      {
+        "id": 62938,
+        "member": "50Am_output_tempcorr/62938_trajectory.txt",
+        "sha256": "caa61655adc419f8272f83749deb38fabab1e5c6a25b336fffd9710ff49eca86",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/62938_trajectory.txt"
+      },
+      {
+        "id": 63557,
+        "member": "50Am_output_tempcorr/63557_trajectory.txt",
+        "sha256": "a37c44c59cd052021b3a3fcd7d2fe2a05398945886f6ffd64bb89f97855cc5a7",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/63557_trajectory.txt"
+      },
+      {
+        "id": 64759,
+        "member": "50Am_output_tempcorr/64759_trajectory.txt",
+        "sha256": "792ae062c119d910158ce9b988eadcb8982a8e20fb7a51873cbc988561c3eed1",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/64759_trajectory.txt"
+      },
+      {
+        "id": 65721,
+        "member": "50Am_output_tempcorr/65721_trajectory.txt",
+        "sha256": "6ee698a83297abe08223db34e1fa83d3b833836b4a368635deecb25c86c13e87",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/65721_trajectory.txt"
+      },
+      {
+        "id": 65734,
+        "member": "50Am_output_tempcorr/65734_trajectory.txt",
+        "sha256": "5a19a925ac217d40533f7db203d0ff0539b8f8ea5e0e3c255ae15b990457c03e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/65734_trajectory.txt"
+      },
+      {
+        "id": 65909,
+        "member": "50Am_output_tempcorr/65909_trajectory.txt",
+        "sha256": "b94032d23e965bf7dbdad67e117600acb903becd2ac153fa77f4d9aca5eaa23d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/65909_trajectory.txt"
+      },
+      {
+        "id": 66397,
+        "member": "50Am_output_tempcorr/66397_trajectory.txt",
+        "sha256": "bc8ac36e47bb90ac87012421f9d1f56e4f9ce26ca30f17353d63b4825e8c3b64",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/66397_trajectory.txt"
+      },
+      {
+        "id": 68328,
+        "member": "50Am_output_tempcorr/68328_trajectory.txt",
+        "sha256": "b1405c482a340b5532f060522bbe40596f64d312023ccc49f7755bd361c9fc62",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/68328_trajectory.txt"
+      },
+      {
+        "id": 69192,
+        "member": "50Am_output_tempcorr/69192_trajectory.txt",
+        "sha256": "049692927c2466730a21cd91c5df4e995bdb29afc7186885c2c54fffc2996c19",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/69192_trajectory.txt"
+      },
+      {
+        "id": 71788,
+        "member": "50Am_output_tempcorr/71788_trajectory.txt",
+        "sha256": "eb12a617cab7b51a9a95bb72692dc4f5381ccd7abd79c521b2eb8aef1876b3ed",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/71788_trajectory.txt"
+      },
+      {
+        "id": 72624,
+        "member": "50Am_output_tempcorr/72624_trajectory.txt",
+        "sha256": "f48b116ae2817b3f93e0a455e896e164863872230b8d7df6cabe3e11a6884545",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/72624_trajectory.txt"
+      },
+      {
+        "id": 73969,
+        "member": "50Am_output_tempcorr/73969_trajectory.txt",
+        "sha256": "48417a0cfee3f060df6ae772545ec10b857c82766386f446cad8f01f29ad1dbf",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/73969_trajectory.txt"
+      },
+      {
+        "id": 75042,
+        "member": "50Am_output_tempcorr/75042_trajectory.txt",
+        "sha256": "13e9910bc0e78144bf4e297856faf7d7641f8ab5cf84cc9fb13d1560135cc5b4",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/75042_trajectory.txt"
+      },
+      {
+        "id": 100000,
+        "member": "50Am_output_tempcorr/100000_trajectory.txt",
+        "sha256": "e13913feea89c6515b6473f752b4ba19dfb124a5e12e0fbfc4c6c19e4057fcc7",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/100000_trajectory.txt"
+      },
+      {
+        "id": 104085,
+        "member": "50Am_output_tempcorr/104085_trajectory.txt",
+        "sha256": "8412efc4ffabe816b4c8db917233c83133e054d76bc4d115e50674e154110202",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/104085_trajectory.txt"
+      },
+      {
+        "id": 105562,
+        "member": "50Am_output_tempcorr/105562_trajectory.txt",
+        "sha256": "f8ca571cbe738eb1c8bfa4cc2ece16e4f489fb6272d2d35fc6973d56526e192e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/105562_trajectory.txt"
+      },
+      {
+        "id": 111207,
+        "member": "50Am_output_tempcorr/111207_trajectory.txt",
+        "sha256": "68f8aa93db95d3f0a26add67ba0053f26d430dd4cfd32729875684333d3c54dd",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/111207_trajectory.txt"
+      },
+      {
+        "id": 123851,
+        "member": "50Am_output_tempcorr/123851_trajectory.txt",
+        "sha256": "e2dc94a181b9dababab1a244144a1fd19611f7ab70acc518c1374845a146fbc6",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/123851_trajectory.txt"
+      },
+      {
+        "id": 124893,
+        "member": "50Am_output_tempcorr/124893_trajectory.txt",
+        "sha256": "5d6621db9b02542000733458c62210f875673aaeaa5d011a710885b0f4c35c31",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/124893_trajectory.txt"
+      },
+      {
+        "id": 132518,
+        "member": "50Am_output_tempcorr/132518_trajectory.txt",
+        "sha256": "97243da6b7e1b49c80b422d1c8dc85ce93cd6c7f1bb06696de8d1c0aed6101b7",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/132518_trajectory.txt"
+      },
+      {
+        "id": 148504,
+        "member": "50Am_output_tempcorr/148504_trajectory.txt",
+        "sha256": "f4b4e4fa073f8c4ed7e9b1363ca4127335139372dc46eb3f972f3e22faa38fbf",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/148504_trajectory.txt"
+      },
+      {
+        "id": 157594,
+        "member": "50Am_output_tempcorr/157594_trajectory.txt",
+        "sha256": "d688a22c9897aadf81495c7ce99d57dd81d858f4b72159fab936b922056e11bb",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/157594_trajectory.txt"
+      },
+      {
+        "id": 173366,
+        "member": "50Am_output_tempcorr/173366_trajectory.txt",
+        "sha256": "6ebfab787fcf70fb42478c81426ee84bd958b03fb630aaa877c7b9602d5c1b05",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/173366_trajectory.txt"
+      },
+      {
+        "id": 191136,
+        "member": "50Am_output_tempcorr/191136_trajectory.txt",
+        "sha256": "5fa9e09ee9d009590f1cab0a36e054691d26f7214000b3626658933830089247",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/191136_trajectory.txt"
+      },
+      {
+        "id": 203839,
+        "member": "50Am_output_tempcorr/203839_trajectory.txt",
+        "sha256": "efd66497cb7eda5e36b2af6941f74389c4cac2df643854b311bc91b44a59013b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/203839_trajectory.txt"
+      },
+      {
+        "id": 210811,
+        "member": "50Am_output_tempcorr/210811_trajectory.txt",
+        "sha256": "63a506a943d83baf9397ae515347cd1f06860f63beb32f3734f271fde8e29a7b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/210811_trajectory.txt"
+      },
+      {
+        "id": 211510,
+        "member": "50Am_output_tempcorr/211510_trajectory.txt",
+        "sha256": "f785abd9e664fec50f6ca259d64af873c27ae2271065c5e1eaf2472fb6c25ec9",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/211510_trajectory.txt"
+      },
+      {
+        "id": 272296,
+        "member": "50Am_output_tempcorr/272296_trajectory.txt",
+        "sha256": "d48ca0514d959d815feaccc8dbcdd667ea3f24a605434e65d47b2786f729f577",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/272296_trajectory.txt"
+      },
+      {
+        "id": 272971,
+        "member": "50Am_output_tempcorr/272971_trajectory.txt",
+        "sha256": "04eda52442f819670983e0fda061374399f6cb24a84f543829231cff0c3c24cb",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/272971_trajectory.txt"
+      },
+      {
+        "id": 274870,
+        "member": "50Am_output_tempcorr/274870_trajectory.txt",
+        "sha256": "a24f6e1322241e8905354ab5577e092e8c7d5239f4b8210f4f176addd0c19c9e",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/274870_trajectory.txt"
+      },
+      {
+        "id": 274944,
+        "member": "50Am_output_tempcorr/274944_trajectory.txt",
+        "sha256": "a5662e183a87792b8bbf91449fd480285c6d62ef65cfe0ccd4e115cae09ce65d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/274944_trajectory.txt"
+      },
+      {
+        "id": 275588,
+        "member": "50Am_output_tempcorr/275588_trajectory.txt",
+        "sha256": "9fb4bf70a239dbbd9ebd4bd6c3ba7b5986abd3dbc78b6552e8b7d54a31251835",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/275588_trajectory.txt"
+      },
+      {
+        "id": 276084,
+        "member": "50Am_output_tempcorr/276084_trajectory.txt",
+        "sha256": "f7190100c5f64dcbffb92e0f66224096127352ad2458bb85408e225170767c03",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/276084_trajectory.txt"
+      },
+      {
+        "id": 277771,
+        "member": "50Am_output_tempcorr/277771_trajectory.txt",
+        "sha256": "20a9839dc65df2c661d6c59c7efdd31ea3b2403be8d0b25459e91db4b37092fb",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/277771_trajectory.txt"
+      },
+      {
+        "id": 277860,
+        "member": "50Am_output_tempcorr/277860_trajectory.txt",
+        "sha256": "8920a8e83bb28a726c62c4c3c2d06bb1d868f11759461369bdefe3ca30d0ea39",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/277860_trajectory.txt"
+      },
+      {
+        "id": 281211,
+        "member": "50Am_output_tempcorr/281211_trajectory.txt",
+        "sha256": "7c59bac6a8f3ce6aec379009bba0c8b2c4bdb08ac296f820e98f34e29492be65",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/281211_trajectory.txt"
+      },
+      {
+        "id": 282034,
+        "member": "50Am_output_tempcorr/282034_trajectory.txt",
+        "sha256": "be4eef7b37808f23c468b34b5f460f2045265d955013fa005c5ada9325cd4d63",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/282034_trajectory.txt"
+      },
+      {
+        "id": 282374,
+        "member": "50Am_output_tempcorr/282374_trajectory.txt",
+        "sha256": "8a1f424eea341e746426dfdfced5f8f191b8832751a856cfc4be57eda491d203",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/282374_trajectory.txt"
+      },
+      {
+        "id": 282415,
+        "member": "50Am_output_tempcorr/282415_trajectory.txt",
+        "sha256": "2c7618607c0093bf0cbde0908c30539ce402882bcdf85b2d1f7cab80f4d1966a",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/282415_trajectory.txt"
+      },
+      {
+        "id": 289519,
+        "member": "50Am_output_tempcorr/289519_trajectory.txt",
+        "sha256": "3d920f62f1479cfad95aadbb9f44fd2fed382ca6a3a89b655b2d9dcaf13fa23d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/289519_trajectory.txt"
+      },
+      {
+        "id": 320736,
+        "member": "50Am_output_tempcorr/320736_trajectory.txt",
+        "sha256": "59210b77a8c413175830ee8056d2ef24f16482dc2ca637cce83dbfdc0fb2b87d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/320736_trajectory.txt"
+      },
+      {
+        "id": 320820,
+        "member": "50Am_output_tempcorr/320820_trajectory.txt",
+        "sha256": "71475f4836d6d7b05c5e1301349ba8f9959ff8075dfa0ec0375f6e1a913ff2be",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/320820_trajectory.txt"
+      },
+      {
+        "id": 372924,
+        "member": "50Am_output_tempcorr/372924_trajectory.txt",
+        "sha256": "5af2d3f74bf645be51fd8ef5b4541dc2a7a0aa569587e394ae63e4ebc8b684df",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/372924_trajectory.txt"
+      },
+      {
+        "id": 463819,
+        "member": "50Am_output_tempcorr/463819_trajectory.txt",
+        "sha256": "9b1edd47f5b35289dbca1284d9ccc4430575d91072484514c80270d706f0711b",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/463819_trajectory.txt"
+      },
+      {
+        "id": 466467,
+        "member": "50Am_output_tempcorr/466467_trajectory.txt",
+        "sha256": "cf0f9447c575852bda0ac68f374f862f557b1fb50dd92d9ba85d01f4ecd376ab",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/466467_trajectory.txt"
+      },
+      {
+        "id": 484103,
+        "member": "50Am_output_tempcorr/484103_trajectory.txt",
+        "sha256": "9787ebf6fe498ddea81eb32b5c79d185723ca1d37d77c76727188c516ec1f967",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/484103_trajectory.txt"
+      },
+      {
+        "id": 554686,
+        "member": "50Am_output_tempcorr/554686_trajectory.txt",
+        "sha256": "6b4a5235c53de2b11849d77124166092e981fe69511edbc51a8336871651c348",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/554686_trajectory.txt"
+      },
+      {
+        "id": 645539,
+        "member": "50Am_output_tempcorr/645539_trajectory.txt",
+        "sha256": "34cba504662eab70f8af39ae46c0537ed099888aa23257b88caafd021fd762ef",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/645539_trajectory.txt"
+      },
+      {
+        "id": 715826,
+        "member": "50Am_output_tempcorr/715826_trajectory.txt",
+        "sha256": "7d0716d55546c7f5d224452e8bb53a16198f447716e8581ff6dc6356dc0c781d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/715826_trajectory.txt"
+      },
+      {
+        "id": 736293,
+        "member": "50Am_output_tempcorr/736293_trajectory.txt",
+        "sha256": "e4b945c82c68787a87b2dfc09f29b7e39a7dd92c648effdcf33a5f66353d1aae",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/736293_trajectory.txt"
+      },
+      {
+        "id": 826819,
+        "member": "50Am_output_tempcorr/826819_trajectory.txt",
+        "sha256": "fca4f8bdd61384d0a903ca7f2f33bd20eba36c9c9ec70f3fe218e2cd313510aa",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/826819_trajectory.txt"
+      },
+      {
+        "id": 896599,
+        "member": "50Am_output_tempcorr/896599_trajectory.txt",
+        "sha256": "b521ac2984b60f526819353d2784028b4dc514adffa775f67c3a67c24a0203cc",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/896599_trajectory.txt"
+      },
+      {
+        "id": 914719,
+        "member": "50Am_output_tempcorr/914719_trajectory.txt",
+        "sha256": "65eb1ddc27e1d7b216e4898d63ca9fed5c1d20bdd87a3ba93d14715bcd83a47a",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/914719_trajectory.txt"
+      },
+      {
+        "id": 914735,
+        "member": "50Am_output_tempcorr/914735_trajectory.txt",
+        "sha256": "4c3dd3db34cd9f6cf3e3535c23be8c03a862ec81dcda8c305745c44686f65462",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/914735_trajectory.txt"
+      },
+      {
+        "id": 917342,
+        "member": "50Am_output_tempcorr/917342_trajectory.txt",
+        "sha256": "d645e636d285a161f5c2f49affa336fa726cb815e9efdc05b3926c857e8090f9",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/917342_trajectory.txt"
+      },
+      {
+        "id": 945631,
+        "member": "50Am_output_tempcorr/945631_trajectory.txt",
+        "sha256": "fa39886de11309e28ef406b6122eb081393010e9449738d34b8d711d34bd08fc",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/945631_trajectory.txt"
+      },
+      {
+        "id": 945632,
+        "member": "50Am_output_tempcorr/945632_trajectory.txt",
+        "sha256": "60ab8325d24520443f1a1b46eca61ab9a16b6236274bc36c153f7bab0f00f91d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/945632_trajectory.txt"
+      },
+      {
+        "id": 945633,
+        "member": "50Am_output_tempcorr/945633_trajectory.txt",
+        "sha256": "fe4650da9d72306b8b9023b80a2eec0e09e9cedadd5b0ae8a03746f05681b40d",
+        "saved": "provenance/tracer_inputs/50Am_output_tempcorr/945633_trajectory.txt"
+      }
+    ]
+  },
+  {
+    "source": {
+      "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund.zip",
+      "bytes": 1237054167,
+      "mtime_ns": 1758151422000000000,
+      "ctime_ns": 1758151422000000000,
+      "inode": 4972714490751702591
+    },
+    "members": 943903,
+    "uncompressed_bytes": 3972881368,
+    "particle_files": 943900,
+    "requested_missing": [
+      0
+    ],
+    "status": "selected_members_CRC_verified",
+    "copied": [
+      {
+        "id": 193,
+        "member": "50Am_abund/193_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/193_abund.txt"
+      },
+      {
+        "id": 2922,
+        "member": "50Am_abund/2922_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/2922_abund.txt"
+      },
+      {
+        "id": 2997,
+        "member": "50Am_abund/2997_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/2997_abund.txt"
+      },
+      {
+        "id": 5410,
+        "member": "50Am_abund/5410_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/5410_abund.txt"
+      },
+      {
+        "id": 5613,
+        "member": "50Am_abund/5613_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/5613_abund.txt"
+      },
+      {
+        "id": 7753,
+        "member": "50Am_abund/7753_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/7753_abund.txt"
+      },
+      {
+        "id": 8425,
+        "member": "50Am_abund/8425_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/8425_abund.txt"
+      },
+      {
+        "id": 8474,
+        "member": "50Am_abund/8474_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/8474_abund.txt"
+      },
+      {
+        "id": 10027,
+        "member": "50Am_abund/10027_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10027_abund.txt"
+      },
+      {
+        "id": 10059,
+        "member": "50Am_abund/10059_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10059_abund.txt"
+      },
+      {
+        "id": 10065,
+        "member": "50Am_abund/10065_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10065_abund.txt"
+      },
+      {
+        "id": 10077,
+        "member": "50Am_abund/10077_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10077_abund.txt"
+      },
+      {
+        "id": 10084,
+        "member": "50Am_abund/10084_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/10084_abund.txt"
+      },
+      {
+        "id": 10096,
+        "member": "50Am_abund/10096_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/10096_abund.txt"
+      },
+      {
+        "id": 10123,
+        "member": "50Am_abund/10123_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/10123_abund.txt"
+      },
+      {
+        "id": 10127,
+        "member": "50Am_abund/10127_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10127_abund.txt"
+      },
+      {
+        "id": 10141,
+        "member": "50Am_abund/10141_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10141_abund.txt"
+      },
+      {
+        "id": 10151,
+        "member": "50Am_abund/10151_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10151_abund.txt"
+      },
+      {
+        "id": 10160,
+        "member": "50Am_abund/10160_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/10160_abund.txt"
+      },
+      {
+        "id": 10171,
+        "member": "50Am_abund/10171_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10171_abund.txt"
+      },
+      {
+        "id": 10240,
+        "member": "50Am_abund/10240_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10240_abund.txt"
+      },
+      {
+        "id": 10529,
+        "member": "50Am_abund/10529_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/10529_abund.txt"
+      },
+      {
+        "id": 10917,
+        "member": "50Am_abund/10917_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/10917_abund.txt"
+      },
+      {
+        "id": 11140,
+        "member": "50Am_abund/11140_abund.txt",
+        "sha256": "18c381678d45e3a9789bf141300062781b99a0c2d6dcfa8f50ca1001f1b271ce",
+        "saved": "provenance/tracer_inputs/50Am_abund/11140_abund.txt"
+      },
+      {
+        "id": 12078,
+        "member": "50Am_abund/12078_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/12078_abund.txt"
+      },
+      {
+        "id": 14069,
+        "member": "50Am_abund/14069_abund.txt",
+        "sha256": "924b4d531633dab1f7c9253ae3c76fedc8be4cf04e250ccaef02f51dbd8c6412",
+        "saved": "provenance/tracer_inputs/50Am_abund/14069_abund.txt"
+      },
+      {
+        "id": 14834,
+        "member": "50Am_abund/14834_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/14834_abund.txt"
+      },
+      {
+        "id": 16928,
+        "member": "50Am_abund/16928_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/16928_abund.txt"
+      },
+      {
+        "id": 18077,
+        "member": "50Am_abund/18077_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/18077_abund.txt"
+      },
+      {
+        "id": 20884,
+        "member": "50Am_abund/20884_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/20884_abund.txt"
+      },
+      {
+        "id": 22626,
+        "member": "50Am_abund/22626_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/22626_abund.txt"
+      },
+      {
+        "id": 23645,
+        "member": "50Am_abund/23645_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/23645_abund.txt"
+      },
+      {
+        "id": 25199,
+        "member": "50Am_abund/25199_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/25199_abund.txt"
+      },
+      {
+        "id": 28630,
+        "member": "50Am_abund/28630_abund.txt",
+        "sha256": "754942121d54348afcfdb13beda28bbe391b3e45a039fe0502357135d187765b",
+        "saved": "provenance/tracer_inputs/50Am_abund/28630_abund.txt"
+      },
+      {
+        "id": 28936,
+        "member": "50Am_abund/28936_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/28936_abund.txt"
+      },
+      {
+        "id": 29053,
+        "member": "50Am_abund/29053_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/29053_abund.txt"
+      },
+      {
+        "id": 30468,
+        "member": "50Am_abund/30468_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/30468_abund.txt"
+      },
+      {
+        "id": 30712,
+        "member": "50Am_abund/30712_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/30712_abund.txt"
+      },
+      {
+        "id": 30900,
+        "member": "50Am_abund/30900_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/30900_abund.txt"
+      },
+      {
+        "id": 30935,
+        "member": "50Am_abund/30935_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/30935_abund.txt"
+      },
+      {
+        "id": 30954,
+        "member": "50Am_abund/30954_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/30954_abund.txt"
+      },
+      {
+        "id": 31132,
+        "member": "50Am_abund/31132_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/31132_abund.txt"
+      },
+      {
+        "id": 31468,
+        "member": "50Am_abund/31468_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/31468_abund.txt"
+      },
+      {
+        "id": 32191,
+        "member": "50Am_abund/32191_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/32191_abund.txt"
+      },
+      {
+        "id": 32403,
+        "member": "50Am_abund/32403_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/32403_abund.txt"
+      },
+      {
+        "id": 32446,
+        "member": "50Am_abund/32446_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/32446_abund.txt"
+      },
+      {
+        "id": 32472,
+        "member": "50Am_abund/32472_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/32472_abund.txt"
+      },
+      {
+        "id": 32657,
+        "member": "50Am_abund/32657_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/32657_abund.txt"
+      },
+      {
+        "id": 32868,
+        "member": "50Am_abund/32868_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/32868_abund.txt"
+      },
+      {
+        "id": 33140,
+        "member": "50Am_abund/33140_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/33140_abund.txt"
+      },
+      {
+        "id": 34438,
+        "member": "50Am_abund/34438_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/34438_abund.txt"
+      },
+      {
+        "id": 34579,
+        "member": "50Am_abund/34579_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/34579_abund.txt"
+      },
+      {
+        "id": 35526,
+        "member": "50Am_abund/35526_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/35526_abund.txt"
+      },
+      {
+        "id": 37878,
+        "member": "50Am_abund/37878_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/37878_abund.txt"
+      },
+      {
+        "id": 38913,
+        "member": "50Am_abund/38913_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/38913_abund.txt"
+      },
+      {
+        "id": 39205,
+        "member": "50Am_abund/39205_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/39205_abund.txt"
+      },
+      {
+        "id": 39225,
+        "member": "50Am_abund/39225_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/39225_abund.txt"
+      },
+      {
+        "id": 40172,
+        "member": "50Am_abund/40172_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/40172_abund.txt"
+      },
+      {
+        "id": 41396,
+        "member": "50Am_abund/41396_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/41396_abund.txt"
+      },
+      {
+        "id": 41475,
+        "member": "50Am_abund/41475_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/41475_abund.txt"
+      },
+      {
+        "id": 41704,
+        "member": "50Am_abund/41704_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/41704_abund.txt"
+      },
+      {
+        "id": 41812,
+        "member": "50Am_abund/41812_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/41812_abund.txt"
+      },
+      {
+        "id": 41986,
+        "member": "50Am_abund/41986_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/41986_abund.txt"
+      },
+      {
+        "id": 42393,
+        "member": "50Am_abund/42393_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/42393_abund.txt"
+      },
+      {
+        "id": 42733,
+        "member": "50Am_abund/42733_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/42733_abund.txt"
+      },
+      {
+        "id": 42751,
+        "member": "50Am_abund/42751_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/42751_abund.txt"
+      },
+      {
+        "id": 43143,
+        "member": "50Am_abund/43143_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/43143_abund.txt"
+      },
+      {
+        "id": 43160,
+        "member": "50Am_abund/43160_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/43160_abund.txt"
+      },
+      {
+        "id": 43473,
+        "member": "50Am_abund/43473_abund.txt",
+        "sha256": "1498cdf38a66b0ca834d75485ed78b79894afcd2ad1866aff3fc80ac549ae294",
+        "saved": "provenance/tracer_inputs/50Am_abund/43473_abund.txt"
+      },
+      {
+        "id": 43589,
+        "member": "50Am_abund/43589_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/43589_abund.txt"
+      },
+      {
+        "id": 44185,
+        "member": "50Am_abund/44185_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/44185_abund.txt"
+      },
+      {
+        "id": 44240,
+        "member": "50Am_abund/44240_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/44240_abund.txt"
+      },
+      {
+        "id": 45265,
+        "member": "50Am_abund/45265_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/45265_abund.txt"
+      },
+      {
+        "id": 45384,
+        "member": "50Am_abund/45384_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/45384_abund.txt"
+      },
+      {
+        "id": 45519,
+        "member": "50Am_abund/45519_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/45519_abund.txt"
+      },
+      {
+        "id": 45568,
+        "member": "50Am_abund/45568_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/45568_abund.txt"
+      },
+      {
+        "id": 45683,
+        "member": "50Am_abund/45683_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/45683_abund.txt"
+      },
+      {
+        "id": 45971,
+        "member": "50Am_abund/45971_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/45971_abund.txt"
+      },
+      {
+        "id": 46494,
+        "member": "50Am_abund/46494_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/46494_abund.txt"
+      },
+      {
+        "id": 46867,
+        "member": "50Am_abund/46867_abund.txt",
+        "sha256": "f4c91123e7a20ac06819103adf75033193180935ae9e07f7cce1eef31104a244",
+        "saved": "provenance/tracer_inputs/50Am_abund/46867_abund.txt"
+      },
+      {
+        "id": 47366,
+        "member": "50Am_abund/47366_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/47366_abund.txt"
+      },
+      {
+        "id": 48659,
+        "member": "50Am_abund/48659_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/48659_abund.txt"
+      },
+      {
+        "id": 48958,
+        "member": "50Am_abund/48958_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/48958_abund.txt"
+      },
+      {
+        "id": 49491,
+        "member": "50Am_abund/49491_abund.txt",
+        "sha256": "98df44283cb3d7ff771a6570be3a553ae37e8c1e46667f2252307d72e0e79bef",
+        "saved": "provenance/tracer_inputs/50Am_abund/49491_abund.txt"
+      },
+      {
+        "id": 50228,
+        "member": "50Am_abund/50228_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/50228_abund.txt"
+      },
+      {
+        "id": 52795,
+        "member": "50Am_abund/52795_abund.txt",
+        "sha256": "02cd86f7c0b5bab3fcf5d590fb5eeb4eda5efaa3bb5cdd6d52f4a5f564b40f10",
+        "saved": "provenance/tracer_inputs/50Am_abund/52795_abund.txt"
+      },
+      {
+        "id": 53220,
+        "member": "50Am_abund/53220_abund.txt",
+        "sha256": "247e42fd71fe7dc80d5cc7eed45e03975ae7921fa329a7f35027a57b8de25d9d",
+        "saved": "provenance/tracer_inputs/50Am_abund/53220_abund.txt"
+      },
+      {
+        "id": 53335,
+        "member": "50Am_abund/53335_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/53335_abund.txt"
+      },
+      {
+        "id": 53831,
+        "member": "50Am_abund/53831_abund.txt",
+        "sha256": "7daa889805742953144d407f93a962ad50beb7cf7b7a516155712748bbc11b4d",
+        "saved": "provenance/tracer_inputs/50Am_abund/53831_abund.txt"
+      },
+      {
+        "id": 54576,
+        "member": "50Am_abund/54576_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/54576_abund.txt"
+      },
+      {
+        "id": 55219,
+        "member": "50Am_abund/55219_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/55219_abund.txt"
+      },
+      {
+        "id": 57458,
+        "member": "50Am_abund/57458_abund.txt",
+        "sha256": "9adc3e3b5da3cf3cdca6c2f002409983ac6984fe070d3be619faf6f8967fa682",
+        "saved": "provenance/tracer_inputs/50Am_abund/57458_abund.txt"
+      },
+      {
+        "id": 59576,
+        "member": "50Am_abund/59576_abund.txt",
+        "sha256": "e21afc7580a3fc2e00eb0f3727edd893197e95a6092f80e73762970cf19f35f0",
+        "saved": "provenance/tracer_inputs/50Am_abund/59576_abund.txt"
+      },
+      {
+        "id": 59907,
+        "member": "50Am_abund/59907_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/59907_abund.txt"
+      },
+      {
+        "id": 61762,
+        "member": "50Am_abund/61762_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/61762_abund.txt"
+      },
+      {
+        "id": 62793,
+        "member": "50Am_abund/62793_abund.txt",
+        "sha256": "6a616d717ced724cc1583c11f08dd5f707c0e43496077dd5306279bdb564b68f",
+        "saved": "provenance/tracer_inputs/50Am_abund/62793_abund.txt"
+      },
+      {
+        "id": 62861,
+        "member": "50Am_abund/62861_abund.txt",
+        "sha256": "3b24cd67fc842514805d3af8802a7612893a658d9a45e9777cf9349d9c2c3237",
+        "saved": "provenance/tracer_inputs/50Am_abund/62861_abund.txt"
+      },
+      {
+        "id": 62938,
+        "member": "50Am_abund/62938_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/62938_abund.txt"
+      },
+      {
+        "id": 63557,
+        "member": "50Am_abund/63557_abund.txt",
+        "sha256": "e21afc7580a3fc2e00eb0f3727edd893197e95a6092f80e73762970cf19f35f0",
+        "saved": "provenance/tracer_inputs/50Am_abund/63557_abund.txt"
+      },
+      {
+        "id": 64759,
+        "member": "50Am_abund/64759_abund.txt",
+        "sha256": "ba4dce5fa1cf5a8944330b29107a91e12b496d2d8703faeeb919b3231290d74c",
+        "saved": "provenance/tracer_inputs/50Am_abund/64759_abund.txt"
+      },
+      {
+        "id": 65721,
+        "member": "50Am_abund/65721_abund.txt",
+        "sha256": "a2e4580a604500abf608310ad96ca4a58fae65ce84c464c7269a866c2dfb4bb3",
+        "saved": "provenance/tracer_inputs/50Am_abund/65721_abund.txt"
+      },
+      {
+        "id": 65734,
+        "member": "50Am_abund/65734_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/65734_abund.txt"
+      },
+      {
+        "id": 65909,
+        "member": "50Am_abund/65909_abund.txt",
+        "sha256": "8e5440edbf4025178779ae66e33e2283333148d61b9e0e6d709bb488f707fb0e",
+        "saved": "provenance/tracer_inputs/50Am_abund/65909_abund.txt"
+      },
+      {
+        "id": 66397,
+        "member": "50Am_abund/66397_abund.txt",
+        "sha256": "d513c21997d47a02ee91617ac964a0b18c5a936dd54cf8742863e41e6b313905",
+        "saved": "provenance/tracer_inputs/50Am_abund/66397_abund.txt"
+      },
+      {
+        "id": 68328,
+        "member": "50Am_abund/68328_abund.txt",
+        "sha256": "a7a067a8ac22baecb0db425128d308ba20455d411867538879f5bc1d0bf73792",
+        "saved": "provenance/tracer_inputs/50Am_abund/68328_abund.txt"
+      },
+      {
+        "id": 69192,
+        "member": "50Am_abund/69192_abund.txt",
+        "sha256": "847a88ffa1b9082d1f21f366ec5964db7f86096d3e3f5309d53a8dd353b07245",
+        "saved": "provenance/tracer_inputs/50Am_abund/69192_abund.txt"
+      },
+      {
+        "id": 71788,
+        "member": "50Am_abund/71788_abund.txt",
+        "sha256": "9448d4df90faeac669759a133c739ac780a89ee06487fc6036341ccc19124b59",
+        "saved": "provenance/tracer_inputs/50Am_abund/71788_abund.txt"
+      },
+      {
+        "id": 72624,
+        "member": "50Am_abund/72624_abund.txt",
+        "sha256": "193759fe59d40e0ce145e743595c52122b0f06aaeae24421c4fe32410c0400e9",
+        "saved": "provenance/tracer_inputs/50Am_abund/72624_abund.txt"
+      },
+      {
+        "id": 73969,
+        "member": "50Am_abund/73969_abund.txt",
+        "sha256": "e1112b1b499019c6b20a591e8d9024134ba424b14d9383cb8e2cd60d92537b27",
+        "saved": "provenance/tracer_inputs/50Am_abund/73969_abund.txt"
+      },
+      {
+        "id": 75042,
+        "member": "50Am_abund/75042_abund.txt",
+        "sha256": "40202b9c23eb55065d84ccfd6c0e61126ffb6e907a14c9278583b6216a3210fc",
+        "saved": "provenance/tracer_inputs/50Am_abund/75042_abund.txt"
+      },
+      {
+        "id": 100000,
+        "member": "50Am_abund/100000_abund.txt",
+        "sha256": "8d63aac0052f8a7dccf2454e3d680ff0c724a3c7cec66db99b0e6d63942e4166",
+        "saved": "provenance/tracer_inputs/50Am_abund/100000_abund.txt"
+      },
+      {
+        "id": 104085,
+        "member": "50Am_abund/104085_abund.txt",
+        "sha256": "5d5247adc68c18394d183596f774078af299073ee6e0cb0d5084438387d33a80",
+        "saved": "provenance/tracer_inputs/50Am_abund/104085_abund.txt"
+      },
+      {
+        "id": 105562,
+        "member": "50Am_abund/105562_abund.txt",
+        "sha256": "6c485a6c39ddb7feb34ce18a84ef7e32b79891e05f1c9eb8d35ec7450e0e03bc",
+        "saved": "provenance/tracer_inputs/50Am_abund/105562_abund.txt"
+      },
+      {
+        "id": 111207,
+        "member": "50Am_abund/111207_abund.txt",
+        "sha256": "eb67b8bb1bfca632aa4adffbd30c093d01d7b747cef02b94b1e73bce22500ca7",
+        "saved": "provenance/tracer_inputs/50Am_abund/111207_abund.txt"
+      },
+      {
+        "id": 123851,
+        "member": "50Am_abund/123851_abund.txt",
+        "sha256": "b1bfa9c1fe9f462ee8e111391b6f4679ef0d9d80a49088bede1a85f8aa081877",
+        "saved": "provenance/tracer_inputs/50Am_abund/123851_abund.txt"
+      },
+      {
+        "id": 124893,
+        "member": "50Am_abund/124893_abund.txt",
+        "sha256": "0671f01139915076471cf37bc8e575fd4f121dda75738656920923089e492856",
+        "saved": "provenance/tracer_inputs/50Am_abund/124893_abund.txt"
+      },
+      {
+        "id": 132518,
+        "member": "50Am_abund/132518_abund.txt",
+        "sha256": "fcd10c111e32d64c7132cdd5b4ebc3162e8c17d7abefe5039a6f4c0e118d192d",
+        "saved": "provenance/tracer_inputs/50Am_abund/132518_abund.txt"
+      },
+      {
+        "id": 148504,
+        "member": "50Am_abund/148504_abund.txt",
+        "sha256": "31913fc4dadee47202ea07dc5c39a5cec924756c5352db927cb1ce781127c1e9",
+        "saved": "provenance/tracer_inputs/50Am_abund/148504_abund.txt"
+      },
+      {
+        "id": 157594,
+        "member": "50Am_abund/157594_abund.txt",
+        "sha256": "31913fc4dadee47202ea07dc5c39a5cec924756c5352db927cb1ce781127c1e9",
+        "saved": "provenance/tracer_inputs/50Am_abund/157594_abund.txt"
+      },
+      {
+        "id": 173366,
+        "member": "50Am_abund/173366_abund.txt",
+        "sha256": "3b24cd67fc842514805d3af8802a7612893a658d9a45e9777cf9349d9c2c3237",
+        "saved": "provenance/tracer_inputs/50Am_abund/173366_abund.txt"
+      },
+      {
+        "id": 191136,
+        "member": "50Am_abund/191136_abund.txt",
+        "sha256": "af24564969772e97a5db8887d4caede7912484194961c77c9bf5ded9415e465e",
+        "saved": "provenance/tracer_inputs/50Am_abund/191136_abund.txt"
+      },
+      {
+        "id": 203839,
+        "member": "50Am_abund/203839_abund.txt",
+        "sha256": "10a187a91728186d3c262d46c10c7de1ed351be9ebdb2f7343f674b3cb5e47e8",
+        "saved": "provenance/tracer_inputs/50Am_abund/203839_abund.txt"
+      },
+      {
+        "id": 210811,
+        "member": "50Am_abund/210811_abund.txt",
+        "sha256": "6bf7a1a6db26ef3724ec70b6f084d9110e54d92bec9a44fe890f3a57a463138d",
+        "saved": "provenance/tracer_inputs/50Am_abund/210811_abund.txt"
+      },
+      {
+        "id": 211510,
+        "member": "50Am_abund/211510_abund.txt",
+        "sha256": "10a187a91728186d3c262d46c10c7de1ed351be9ebdb2f7343f674b3cb5e47e8",
+        "saved": "provenance/tracer_inputs/50Am_abund/211510_abund.txt"
+      },
+      {
+        "id": 272296,
+        "member": "50Am_abund/272296_abund.txt",
+        "sha256": "dbbc04af1118efcea892b80ce5d0d3f0140716a492ff4ae33ef1fec74b1d6feb",
+        "saved": "provenance/tracer_inputs/50Am_abund/272296_abund.txt"
+      },
+      {
+        "id": 272971,
+        "member": "50Am_abund/272971_abund.txt",
+        "sha256": "a88a609210b3a8ea58408d26634af7c46d1f2e534a93cb0fe424c0e5884e7d63",
+        "saved": "provenance/tracer_inputs/50Am_abund/272971_abund.txt"
+      },
+      {
+        "id": 274870,
+        "member": "50Am_abund/274870_abund.txt",
+        "sha256": "7cfe3f7150dc5a292027e1e7a08456bfdb7de6e6041e605fc4aeb835aa73de23",
+        "saved": "provenance/tracer_inputs/50Am_abund/274870_abund.txt"
+      },
+      {
+        "id": 274944,
+        "member": "50Am_abund/274944_abund.txt",
+        "sha256": "2035180b02136da7ece80016a2400c1e49ec5dce1f969dafbdcb1b8781fa16a7",
+        "saved": "provenance/tracer_inputs/50Am_abund/274944_abund.txt"
+      },
+      {
+        "id": 275588,
+        "member": "50Am_abund/275588_abund.txt",
+        "sha256": "d63da1616f326c2c6538497701124f99a6f725a5869aed173165b5f2cfaca95e",
+        "saved": "provenance/tracer_inputs/50Am_abund/275588_abund.txt"
+      },
+      {
+        "id": 276084,
+        "member": "50Am_abund/276084_abund.txt",
+        "sha256": "59ab0e9885652e8117f20b93dc357c663ed7cc36e22b6550d7594f0c5fc202f7",
+        "saved": "provenance/tracer_inputs/50Am_abund/276084_abund.txt"
+      },
+      {
+        "id": 277771,
+        "member": "50Am_abund/277771_abund.txt",
+        "sha256": "d63da1616f326c2c6538497701124f99a6f725a5869aed173165b5f2cfaca95e",
+        "saved": "provenance/tracer_inputs/50Am_abund/277771_abund.txt"
+      },
+      {
+        "id": 277860,
+        "member": "50Am_abund/277860_abund.txt",
+        "sha256": "a88a609210b3a8ea58408d26634af7c46d1f2e534a93cb0fe424c0e5884e7d63",
+        "saved": "provenance/tracer_inputs/50Am_abund/277860_abund.txt"
+      },
+      {
+        "id": 281211,
+        "member": "50Am_abund/281211_abund.txt",
+        "sha256": "81688afc97d1fa4089d930f2829dd9f2ccf19f42ceac2d04092f68e2d28d6b0a",
+        "saved": "provenance/tracer_inputs/50Am_abund/281211_abund.txt"
+      },
+      {
+        "id": 282034,
+        "member": "50Am_abund/282034_abund.txt",
+        "sha256": "2035180b02136da7ece80016a2400c1e49ec5dce1f969dafbdcb1b8781fa16a7",
+        "saved": "provenance/tracer_inputs/50Am_abund/282034_abund.txt"
+      },
+      {
+        "id": 282374,
+        "member": "50Am_abund/282374_abund.txt",
+        "sha256": "59ab0e9885652e8117f20b93dc357c663ed7cc36e22b6550d7594f0c5fc202f7",
+        "saved": "provenance/tracer_inputs/50Am_abund/282374_abund.txt"
+      },
+      {
+        "id": 282415,
+        "member": "50Am_abund/282415_abund.txt",
+        "sha256": "dbbc04af1118efcea892b80ce5d0d3f0140716a492ff4ae33ef1fec74b1d6feb",
+        "saved": "provenance/tracer_inputs/50Am_abund/282415_abund.txt"
+      },
+      {
+        "id": 289519,
+        "member": "50Am_abund/289519_abund.txt",
+        "sha256": "59ab0e9885652e8117f20b93dc357c663ed7cc36e22b6550d7594f0c5fc202f7",
+        "saved": "provenance/tracer_inputs/50Am_abund/289519_abund.txt"
+      },
+      {
+        "id": 320736,
+        "member": "50Am_abund/320736_abund.txt",
+        "sha256": "dbbc04af1118efcea892b80ce5d0d3f0140716a492ff4ae33ef1fec74b1d6feb",
+        "saved": "provenance/tracer_inputs/50Am_abund/320736_abund.txt"
+      },
+      {
+        "id": 320820,
+        "member": "50Am_abund/320820_abund.txt",
+        "sha256": "d63da1616f326c2c6538497701124f99a6f725a5869aed173165b5f2cfaca95e",
+        "saved": "provenance/tracer_inputs/50Am_abund/320820_abund.txt"
+      },
+      {
+        "id": 372924,
+        "member": "50Am_abund/372924_abund.txt",
+        "sha256": "a88a609210b3a8ea58408d26634af7c46d1f2e534a93cb0fe424c0e5884e7d63",
+        "saved": "provenance/tracer_inputs/50Am_abund/372924_abund.txt"
+      },
+      {
+        "id": 463819,
+        "member": "50Am_abund/463819_abund.txt",
+        "sha256": "838006a8a604a104ea9303a0a50779e9c6cbb2e79afc3242f3b47538dfabc0e9",
+        "saved": "provenance/tracer_inputs/50Am_abund/463819_abund.txt"
+      },
+      {
+        "id": 466467,
+        "member": "50Am_abund/466467_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/466467_abund.txt"
+      },
+      {
+        "id": 484103,
+        "member": "50Am_abund/484103_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/484103_abund.txt"
+      },
+      {
+        "id": 554686,
+        "member": "50Am_abund/554686_abund.txt",
+        "sha256": "56c8d55c87719b6667ae9f37da807d5034240a8a68dac2ca21bb3b39bdcff056",
+        "saved": "provenance/tracer_inputs/50Am_abund/554686_abund.txt"
+      },
+      {
+        "id": 645539,
+        "member": "50Am_abund/645539_abund.txt",
+        "sha256": "bbbe79535f43698073036a50afe1627cb9e9f92dd4ef00b00141129f79b8e812",
+        "saved": "provenance/tracer_inputs/50Am_abund/645539_abund.txt"
+      },
+      {
+        "id": 715826,
+        "member": "50Am_abund/715826_abund.txt",
+        "sha256": "85cf241e0d2ba7014890a872a23a19421eed8f7587f6e8f2b867ae15ffebd9ea",
+        "saved": "provenance/tracer_inputs/50Am_abund/715826_abund.txt"
+      },
+      {
+        "id": 736293,
+        "member": "50Am_abund/736293_abund.txt",
+        "sha256": "ed15e1b9c7a073b188d0195eb1a37e02f7a40c3bf32a58e55a293eb01455ac8c",
+        "saved": "provenance/tracer_inputs/50Am_abund/736293_abund.txt"
+      },
+      {
+        "id": 826819,
+        "member": "50Am_abund/826819_abund.txt",
+        "sha256": "a2e4580a604500abf608310ad96ca4a58fae65ce84c464c7269a866c2dfb4bb3",
+        "saved": "provenance/tracer_inputs/50Am_abund/826819_abund.txt"
+      },
+      {
+        "id": 896599,
+        "member": "50Am_abund/896599_abund.txt",
+        "sha256": "c062335e06352a56ac34aab0effbf71c146ccc2977a986edc267168165b70743",
+        "saved": "provenance/tracer_inputs/50Am_abund/896599_abund.txt"
+      },
+      {
+        "id": 914719,
+        "member": "50Am_abund/914719_abund.txt",
+        "sha256": "85cf241e0d2ba7014890a872a23a19421eed8f7587f6e8f2b867ae15ffebd9ea",
+        "saved": "provenance/tracer_inputs/50Am_abund/914719_abund.txt"
+      },
+      {
+        "id": 914735,
+        "member": "50Am_abund/914735_abund.txt",
+        "sha256": "85cf241e0d2ba7014890a872a23a19421eed8f7587f6e8f2b867ae15ffebd9ea",
+        "saved": "provenance/tracer_inputs/50Am_abund/914735_abund.txt"
+      },
+      {
+        "id": 917342,
+        "member": "50Am_abund/917342_abund.txt",
+        "sha256": "6a616d717ced724cc1583c11f08dd5f707c0e43496077dd5306279bdb564b68f",
+        "saved": "provenance/tracer_inputs/50Am_abund/917342_abund.txt"
+      },
+      {
+        "id": 945631,
+        "member": "50Am_abund/945631_abund.txt",
+        "sha256": "78fe29aed681cf50f0d1122dc791607a46a38c48cea32e71b306c57fa0f3a724",
+        "saved": "provenance/tracer_inputs/50Am_abund/945631_abund.txt"
+      },
+      {
+        "id": 945632,
+        "member": "50Am_abund/945632_abund.txt",
+        "sha256": "d54c8a6bf87f259783fdaaf7b78ec09b1526375953c0b6a595b2d5e62b7ec9a0",
+        "saved": "provenance/tracer_inputs/50Am_abund/945632_abund.txt"
+      },
+      {
+        "id": 945633,
+        "member": "50Am_abund/945633_abund.txt",
+        "sha256": "d54c8a6bf87f259783fdaaf7b78ec09b1526375953c0b6a595b2d5e62b7ec9a0",
+        "saved": "provenance/tracer_inputs/50Am_abund/945633_abund.txt"
+      }
+    ]
+  }
+]

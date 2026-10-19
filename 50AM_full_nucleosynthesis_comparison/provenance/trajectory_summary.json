@@ -1,0 +1,44 @@
+{
+  "source": {
+    "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output_tempcorr.zip",
+    "bytes": 769357822,
+    "mtime_ns": 1761696862000000000,
+    "ctime_ns": 1792364612000000000,
+    "inode": 6610116420011869657
+  },
+  "sha256": "60cdb27245a7aec473a1fc63ecfcf9bc6a9a9506ec9a13b43e56783092865021",
+  "trajectories": 943900,
+  "errors": 0,
+  "unique_ids": 943900,
+  "old_histories_matched": 275786,
+  "population_counts": {
+    "points": 57577900,
+    "snapshot_index_matches": 57577900,
+    "hydro_points_available": 57577900,
+    "hydro_temperature_matches": 57577900,
+    "hydro_native_density_matches": 24219880,
+    "hydro_CGS_density_matches": 0,
+    "hydro_physical_time_matches": 943900,
+    "old_overlapping_points": 2482074,
+    "temperature_points_agree_as_labelled": 307312,
+    "density_points_agree_as_labelled": 0,
+    "hydro_native_density_matches_export_precision": 57577900,
+    "old_zero_T_denominators": 15,
+    "old_zero_rho_denominators": 2
+  },
+  "density_correction_factor": 5.911824660348532e-06,
+  "physical_time_last_s": 157558.0,
+  "printed_time_last": {
+    "min": 2000.0,
+    "p01": 2000.0,
+    "p05": 2000.0,
+    "p25": 2000.0,
+    "p50": 2000.0,
+    "p75": 2000.0,
+    "p95": 2000.0,
+    "p99": 2000.0,
+    "max": 2000.0
+  },
+  "temperature_interpolation_test": "Linear interpolation of archived corrected trajectory at legacy input times; diagnostic only, not an assertion about either solver interpolation.",
+  "historical_input_revision_caveat": "The archived controls point at a mutable 50Am_output path. The corrected zip is an available candidate input, not a verified copy of every historical run input."
+}

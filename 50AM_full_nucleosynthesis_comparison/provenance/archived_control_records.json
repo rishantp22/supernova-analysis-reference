@@ -1,0 +1,3170 @@
+[
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz",
+    "particle": 100000,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/100000_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/100000_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0.0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 2000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": false,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0002.tar.gz",
+    "particle": 191136,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/191136_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/191136_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0004.tar.gz",
+    "particle": 372924,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/372924_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/372924_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0005.tar.gz",
+    "particle": 463819,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/463819_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/463819_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0006.tar.gz",
+    "particle": 554686,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/554686_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/554686_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz",
+    "particle": 645539,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/645539_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/645539_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0008.tar.gz",
+    "particle": 736293,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/736293_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/736293_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0009.tar.gz",
+    "particle": 826819,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/826819_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/826819_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  },
+  {
+    "archive": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz",
+    "particle": 917342,
+    "control": {
+      "nuclear": {
+        "datasets": [
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+            "active": true,
+            "id": "ag",
+            "comment": "(alpha,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+            "active": true,
+            "id": "ga",
+            "comment": "(gamma,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+            "active": false,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+            "active": true,
+            "id": "pg",
+            "comment": "(proton,gamma) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+            "active": true,
+            "id": "gp",
+            "comment": "(gamma,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+            "active": true,
+            "id": "pn",
+            "comment": "(proton,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+            "active": true,
+            "id": "np",
+            "comment": "(neutron,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+            "active": true,
+            "id": "pa",
+            "comment": "(proton,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+            "active": true,
+            "id": "ap",
+            "comment": "(alpha,proton) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+            "active": true,
+            "id": "na",
+            "comment": "(neutron,alpha) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+            "active": true,
+            "id": "an",
+            "comment": "(alpha,neutron) channel reactions from Reaclib"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+            "active": true,
+            "comment": "all reactions from Reaclib not otherwise specified in above entries"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from Moller2003 dataset"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "additional beta-minus decays with delayed neutron probabilities from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+            "active": true,
+            "id": "beta",
+            "comment": "beta-minus decays from Nubase2016. Neutron emission probabilities supplemented with Moller2003"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+            "active": true,
+            "id": "ng",
+            "comment": "(neutron,gamma) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (FRDM2012)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "rev-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+            "active": true,
+            "id": "gn",
+            "comment": "(gamma,neutron) channel reactions from NDI dataset (AME2016)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "bdf",
+            "comment": "beta-delayed fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-rxn",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+            "active": true,
+            "id": "nif",
+            "comment": "neutron-induced fission reactions from NDI dataset (FRDM2012+FRLDM)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from NDI dataset (Karpov+Zagrabaev Formalism)"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+            "active": true,
+            "id": "spf",
+            "comment": "spontaneous fission reactions from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+            "active": true,
+            "id": "betaplus",
+            "comment": "beta-plus decays from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+            "active": true,
+            "comment": "miscellaneous other beta decays with particle (e.g. alpha, proton, etc.) emission from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+            "active": true,
+            "id": "ec",
+            "comment": "electron capture rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+            "active": true,
+            "id": "spne",
+            "comment": "spontaneous neutron emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+            "active": true,
+            "id": "sppe",
+            "comment": "spontaneous proton emission rates from Nubase2016"
+          },
+          {
+            "dtype": "ascii",
+            "rtype": "decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+            "id": "alpha",
+            "active": true,
+            "comment": "alpha decay rates from Nubase2016"
+          },
+          {
+            "dtype": "bin",
+            "rtype": "prob-decay",
+            "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+            "active": true,
+            "id": "beta",
+            "comment": "ensures beta-stable nuclei do not beta decay"
+          }
+        ]
+      },
+      "conditions": {
+        "trajectory": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_output/917342_trajectory.txt",
+          "comment": "Trajectory input file"
+        },
+        "initial_composition": {
+          "path": "/scratch/svierlin/prism-v02/input/conditions/50Am_abund/917342_abund.txt",
+          "comment": "Initial Composition input file"
+        }
+      },
+      "network": {
+        "extent": {
+          "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+          "comment": "Enumerates the list of nuclei to include in nucleosynthesis model"
+        },
+        "start": {
+          "time": 0,
+          "comment": "Starts calculation when trajectory reaches 10.5399GK. Can also specify start time (in seconds) or leave blank to start at beginning of Trajectory File."
+        },
+        "stop": {
+          "time": 166000.0,
+          "comment": "Stops calculation when trajectory reaches 10.0sec. Can also specify stop temperature (in GK) or leave blank to stop at end of Trajectory File."
+        }
+      },
+      "output": {
+        "ytime": {
+          "active": true,
+          "path": "ytime.txt",
+          "comment": "outputs abundances for each (Z,A) pair at each timestep"
+        },
+        "y": {
+          "active": true,
+          "path": "y.txt",
+          "comment": "outputs abundances for each (Z,A) pair at end of calculation"
+        },
+        "yA": {
+          "active": true,
+          "path": "ya.txt",
+          "comment": "outputs abundances for each atomic mass number (A) at end of calculation"
+        },
+        "yZ": {
+          "active": true,
+          "path": "yz.txt",
+          "comment": "outputs abundances for each element (Z) at end of calculation"
+        },
+        "xtime": {
+          "active": true,
+          "path": "xtime.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at each timestep"
+        },
+        "x": {
+          "active": true,
+          "path": "x.txt",
+          "comment": "outputs mass fractions for each (Z,A) pair at end of calculation"
+        },
+        "xA": {
+          "active": true,
+          "path": "xa.txt",
+          "comment": "outputs mass fractions for each atomic mass number (A) at end of calculation"
+        },
+        "xZ": {
+          "active": true,
+          "path": "xz.txt",
+          "comment": "outputs mass fractions for each element (Z) at end of calculation"
+        },
+        "tau": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "tau.txt",
+          "comment": "outputs abundance-weighted timescales at each timestep"
+        },
+        "flows": {
+          "include": [
+            "ng",
+            "gn",
+            "beta",
+            "alpha"
+          ],
+          "active": true,
+          "path": "flows.txt",
+          "comment": "outputs nuclear flow for each (Z,A) pair and at each timestep"
+        }
+      }
+    }
+  }
+]

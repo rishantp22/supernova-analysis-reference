@@ -1,0 +1,53 @@
+{
+  "native_initial_rows": 945628,
+  "native_initial_sumX": {
+    "min": 0.9999924751997433,
+    "p01": 0.9999925064718092,
+    "p05": 0.9999925983089462,
+    "p25": 0.9999999906102346,
+    "p50": 1.0000000256347334,
+    "p75": 1.0000025122814087,
+    "p95": 1.0000026835065192,
+    "p99": 1.0000031257030706,
+    "max": 1.000007201310261
+  },
+  "native_composition_minus_Ye": {
+    "min": -5.587755380620507e-08,
+    "p01": -2.476552518615449e-08,
+    "p05": -1.609848315764495e-08,
+    "p25": 9.250673560501355e-10,
+    "p50": 0.8320604870269687,
+    "p75": 0.8323204292965908,
+    "p95": 0.8323553615474463,
+    "p99": 0.8323554113441002,
+    "max": 0.8323554115769308
+  },
+  "archived_seed_minus_native_initial_Ye": {
+    "min": -0.2568826979748464,
+    "p01": -0.25269610714485025,
+    "p05": -0.08255776826064354,
+    "p25": -0.0004933791648716324,
+    "p50": 0.4995150129369741,
+    "p75": 0.4995163963955229,
+    "p95": 0.4995176195940818,
+    "p99": 0.4995179081598055,
+    "max": 0.4995179464513889
+  },
+  "archived_seed_comparable": 943900,
+  "archived_seed_matches_native_initial_Ye_1e5": 0,
+  "seed_epoch_caveat": "Different seed composition is verified; the intended seed epoch/mapping cannot be inferred from this difference alone",
+  "initial_source": {
+    "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0000",
+    "bytes": 355557728,
+    "mtime_ns": 1712168004189167000,
+    "ctime_ns": 1735656598685182197,
+    "inode": 1672362366
+  },
+  "final_source": {
+    "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.2000",
+    "bytes": 355557728,
+    "mtime_ns": 1712168093501340000,
+    "ctime_ns": 1735656744415579190,
+    "inode": 1672362484
+  }
+}

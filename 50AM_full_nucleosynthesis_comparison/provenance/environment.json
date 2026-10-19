@@ -1,0 +1,13 @@
+{
+  "python": "3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 16:50:00) [GCC 14.3.0]",
+  "numpy": "2.4.4",
+  "pandas": "3.0.3",
+  "platform": "Linux-4.18.0-553.172.1.el8_10.x86_64-x86_64-with-glibc2.28",
+  "slurm_job_id": "66029510",
+  "scripts": {
+    "common.py": "bb7d9a0bf90f7cd0e81393928653b85d2a1513350d72218fe214f172032a3922",
+    "test_audit.py": "61acb64fb5be301e6c5715c546a5ee15c662cc805c68112d7d5b7fb352775321",
+    "population_audit.py": "127b8f278977f0b8e77870af526ed5cfa2ef1f522239b7dc964aafb07dc9957a",
+    "chunk_audit.py": "3a1b5bcb916d50e8544007a586beed42cc0eeaf1e8bbb807f42b4458192a88ec"
+  }
+}

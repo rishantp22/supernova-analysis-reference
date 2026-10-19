@@ -18,6 +18,7 @@ comparison performed on 18 October 2026. It is separate from
 | `comparison/` | Streaming comparator, correctness tests, Slurm script, software versions and measured comparison |
 | `slurm/` | Portable comparison-job template and original historical copy-job script |
 | `schema/` | The requested 298-column schema |
+| [`50AM_full_nucleosynthesis_comparison/`](50AM_full_nucleosynthesis_comparison/) | Completed all-particle, all-isotope audit: code, reports, statistics and provenance |
 | `provenance/` | Source hashes, preparation metadata and the complete excluded-file inventory |
 
 The source scripts and small reports are exact copies. Notebook code cells are
@@ -90,3 +91,7 @@ publication; their upload and remote fields describe that earlier stage.
 particles; they do not establish condensed dust grains. Matching IDs does not
 make hydrodynamic and nucleosynthesis epochs equivalent. Field definitions and
 native abundance epochs are retained in the source documentation.
+
+## Completed full-population audit
+
+The new [50AM audit](50AM_full_nucleosynthesis_comparison/README.md) compares 937,227 matched valid particle IDs, audits 1,876 chunk files, and records the complete available species inventory. Start with its [key findings](50AM_full_nucleosynthesis_comparison/reports/KEY_FINDINGS.md). Large databases and figures remain in the separately prepared complete export; the [publication manifest](50AM_full_nucleosynthesis_comparison/PUBLICATION_MANIFEST.csv) and [exclusion list](50AM_full_nucleosynthesis_comparison/EXCLUDED_FILES.csv) document the exact boundary.

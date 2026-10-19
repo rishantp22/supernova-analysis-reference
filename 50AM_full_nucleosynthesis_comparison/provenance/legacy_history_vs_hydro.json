@@ -1,0 +1,466 @@
+{
+  "counts": {
+    "points": 3052610,
+    "physical_time_matches": 3052610,
+    "temperature_matches": 3052368,
+    "density_cgs_matches": 3052368,
+    "all_three_match": 3052368,
+    "nonfinite_points": 1
+  },
+  "examples": [
+    {
+      "id": 103961,
+      "legacy_time": 0.0,
+      "hydro_time": 0.0,
+      "legacy_temperature": -1.5275954629891827e+71,
+      "hydro_temperature": 944363200.0,
+      "legacy_density": 3.198976303693887e-14,
+      "hydro_density_cgs": 25162.974707133344
+    },
+    {
+      "id": 103961,
+      "legacy_time": 0.21500000730156898,
+      "hydro_time": 0.215,
+      "legacy_temperature": 1.631286507649766e+255,
+      "hydro_temperature": 944683648.0,
+      "legacy_density": 8.141505021946551e-12,
+      "hydro_density_cgs": 25189.052569718297
+    },
+    {
+      "id": 103961,
+      "legacy_time": 0.8910000324249268,
+      "hydro_time": 0.8909999999999999,
+      "legacy_temperature": -9.473043300357229e-113,
+      "hydro_temperature": 934166912.0,
+      "legacy_density": 2.1711984004141996e-13,
+      "hydro_density_cgs": 24398.096211333832
+    },
+    {
+      "id": 103961,
+      "legacy_time": 2.7149999514222145,
+      "hydro_time": 2.715,
+      "legacy_temperature": 2.2423106810055397e-298,
+      "hydro_temperature": 918871040.0,
+      "legacy_density": 8.734048122989487e-17,
+      "hydro_density_cgs": 17631.454622138608
+    },
+    {
+      "id": 103961,
+      "legacy_time": 10.619000345468521,
+      "hydro_time": 10.619,
+      "legacy_temperature": 1.1793617870723505e+239,
+      "hydro_temperature": 313405024.0,
+      "legacy_density": 3.4096016677088695e-110,
+      "hydro_density_cgs": 816.905106718833
+    },
+    {
+      "id": 103961,
+      "legacy_time": 28.02700102329254,
+      "hydro_time": 28.027,
+      "legacy_temperature": 1.1125369295126334e-308,
+      "hydro_temperature": 141388208.0,
+      "legacy_density": -6.876674523807669e-158,
+      "hydro_density_cgs": 83.53392283145894
+    },
+    {
+      "id": 103961,
+      "legacy_time": 83.57899785041809,
+      "hydro_time": 83.57900000000001,
+      "legacy_temperature": 1.1125369295450125e-308,
+      "hydro_temperature": 62187592.0,
+      "legacy_density": 1.165949742476607e+67,
+      "hydro_density_cgs": 7.923963695029686
+    },
+    {
+      "id": 103961,
+      "legacy_time": 295.5470085144043,
+      "hydro_time": 295.547,
+      "legacy_temperature": 8.345300168819606e-309,
+      "hydro_temperature": 17133128.0,
+      "legacy_density": 5.847755953881562e+138,
+      "hydro_density_cgs": 0.1934538853860993
+    },
+    {
+      "id": 103961,
+      "legacy_time": 1122.9399681091309,
+      "hydro_time": 1122.94,
+      "legacy_temperature": 0.0,
+      "hydro_temperature": 4541479.5,
+      "legacy_density": -1.1957320942199515e+32,
+      "hydro_density_cgs": 0.004137793751193871
+    },
+    {
+      "id": 103961,
+      "legacy_time": 2826.8699645996094,
+      "hydro_time": 2826.87,
+      "legacy_temperature": 9.527761103657e-312,
+      "hydro_temperature": 1705010.875,
+      "legacy_density": 2.0524199598757073e-303,
+      "hydro_density_cgs": 0.00024778906189113837
+    },
+    {
+      "id": 138729,
+      "legacy_time": 0.0,
+      "hydro_time": 0.0,
+      "legacy_temperature": 1.737662173226755e-139,
+      "hydro_temperature": 718013376.0,
+      "legacy_density": 4.3679710174967744e-250,
+      "hydro_density_cgs": 8527.647973527499
+    },
+    {
+      "id": 138729,
+      "legacy_time": 0.21500000730156898,
+      "hydro_time": 0.215,
+      "legacy_temperature": -9.838629410487575e+91,
+      "hydro_temperature": 717604672.0,
+      "legacy_density": 4.590622544694757e-19,
+      "hydro_density_cgs": 8512.535647090144
+    },
+    {
+      "id": 138729,
+      "legacy_time": 0.8910000324249268,
+      "hydro_time": 0.8909999999999999,
+      "legacy_temperature": -1.1274645034466853e+120,
+      "hydro_temperature": 724297280.0,
+      "legacy_density": 0.0,
+      "hydro_density_cgs": 8738.99428629704
+    },
+    {
+      "id": 138729,
+      "legacy_time": 2.7149999514222145,
+      "hydro_time": 2.715,
+      "legacy_temperature": -6.415490975329648e-24,
+      "hydro_temperature": 930049152.0,
+      "legacy_density": 4.3369296775433863e-38,
+      "hydro_density_cgs": 13920.76289529021
+    },
+    {
+      "id": 138729,
+      "legacy_time": 10.619000345468521,
+      "hydro_time": 10.619,
+      "legacy_temperature": 1.3778216203300454e-20,
+      "hydro_temperature": 329629664.0,
+      "legacy_density": 1.4499179024981454e-144,
+      "hydro_density_cgs": 701.7310332751175
+    },
+    {
+      "id": 138729,
+      "legacy_time": 28.02700102329254,
+      "hydro_time": 28.027,
+      "legacy_temperature": 1.1125369295126334e-308,
+      "hydro_temperature": 138668400.0,
+      "legacy_density": 1.2266141109507227e-154,
+      "hydro_density_cgs": 59.48839776911907
+    },
+    {
+      "id": 138729,
+      "legacy_time": 83.57899785041809,
+      "hydro_time": 83.57900000000001,
+      "legacy_temperature": 9.73524985214132e-309,
+      "hydro_temperature": 61199644.0,
+      "legacy_density": -8.536639434984346e-258,
+      "hydro_density_cgs": 5.633147896662445
+    },
+    {
+      "id": 138729,
+      "legacy_time": 295.5470085144043,
+      "hydro_time": 295.547,
+      "legacy_temperature": 4.18069244845932e-309,
+      "hydro_temperature": 18035436.0,
+      "legacy_density": -9.36919433333873e+125,
+      "hydro_density_cgs": 0.1678871027218308
+    },
+    {
+      "id": 138729,
+      "legacy_time": 1122.9399681091309,
+      "hydro_time": 1122.94,
+      "legacy_temperature": 1.0525099125623e-311,
+      "hydro_temperature": 4587192.5,
+      "legacy_density": 4.8496932757164017e+142,
+      "hydro_density_cgs": 0.0031836994374851856
+    },
+    {
+      "id": 138729,
+      "legacy_time": 2826.8699645996094,
+      "hydro_time": 2826.87,
+      "legacy_temperature": 7.830164470505e-312,
+      "hydro_temperature": 1786144.875,
+      "legacy_density": 2.1668118124403455e+52,
+      "hydro_density_cgs": 0.00020780513364443144
+    },
+    {
+      "id": 173366,
+      "legacy_time": 0.0,
+      "hydro_time": 0.0,
+      "legacy_temperature": 2.5035215440657325e+297,
+      "hydro_temperature": 563351872.0,
+      "legacy_density": 6.137918705697738e-17,
+      "hydro_density_cgs": 3395.4058884520873
+    },
+    {
+      "id": 173366,
+      "legacy_time": 0.21500000730156898,
+      "hydro_time": 0.215,
+      "legacy_temperature": -1.0343210941949278e+258,
+      "hydro_temperature": 563548672.0,
+      "legacy_density": 2.925009765501156e-10,
+      "hydro_density_cgs": 3398.733536316904
+    },
+    {
+      "id": 173366,
+      "legacy_time": 0.8910000324249268,
+      "hydro_time": 0.8909999999999999,
+      "legacy_temperature": -1.1827933379481191e-226,
+      "hydro_temperature": 567651008.0,
+      "legacy_density": 4.789219137011733e-18,
+      "hydro_density_cgs": 3470.548679685316
+    },
+    {
+      "id": 173366,
+      "legacy_time": 2.7149999514222145,
+      "hydro_time": 2.715,
+      "legacy_temperature": 6.6536611432891276e+94,
+      "hydro_temperature": 544590912.0,
+      "legacy_density": 5.7495119695320724e-15,
+      "hydro_density_cgs": 3071.281635715565
+    },
+    {
+      "id": 173366,
+      "legacy_time": 10.619000345468521,
+      "hydro_time": 10.619,
+      "legacy_temperature": -6.56735704668375e+92,
+      "hydro_temperature": 342471456.0,
+      "legacy_density": 9.137921684010967e-136,
+      "hydro_density_cgs": 654.1311966614661
+    },
+    {
+      "id": 173366,
+      "legacy_time": 28.02700102329254,
+      "hydro_time": 28.027,
+      "legacy_temperature": 1.1125369295126334e-308,
+      "hydro_temperature": 155739488.0,
+      "legacy_density": 8.923207743285622e+261,
+      "hydro_density_cgs": 68.82891520137926
+    },
+    {
+      "id": 173366,
+      "legacy_time": 83.57899785041809,
+      "hydro_time": 83.57900000000001,
+      "legacy_temperature": 9.734698133559333e-309,
+      "hydro_temperature": 60934532.0,
+      "legacy_density": -4.152602017870999e+48,
+      "hydro_density_cgs": 4.6492466133310515
+    },
+    {
+      "id": 173366,
+      "legacy_time": 295.5470085144043,
+      "hydro_time": 295.547,
+      "legacy_temperature": 8.345300168819626e-309,
+      "hydro_temperature": 17395600.0,
+      "legacy_density": 8.86590719447604e-92,
+      "hydro_density_cgs": 0.128938789473538
+    },
+    {
+      "id": 173366,
+      "legacy_time": 1122.9399681091309,
+      "hydro_time": 1122.94,
+      "legacy_temperature": 0.0,
+      "hydro_temperature": 4466471.5,
+      "legacy_density": 7.90376576803566e-117,
+      "hydro_density_cgs": 0.0026026173007894725
+    },
+    {
+      "id": 173366,
+      "legacy_time": 2826.8699645996094,
+      "hydro_time": 2826.87,
+      "legacy_temperature": 9.50654114576e-312,
+      "hydro_temperature": 1679280.375,
+      "legacy_density": 5.466740647266388e+40,
+      "hydro_density_cgs": 0.00015448381017143137
+    },
+    {
+      "id": 208098,
+      "legacy_time": 0.0,
+      "hydro_time": 0.0,
+      "legacy_temperature": 1.2516040456693335e-308,
+      "hydro_temperature": 405376736.0,
+      "legacy_density": 2.636336940729959e-10,
+      "hydro_density_cgs": 951.7605430541972
+    },
+    {
+      "id": 208098,
+      "legacy_time": 0.21500000730156898,
+      "hydro_time": 0.215,
+      "legacy_temperature": 0.0,
+      "hydro_temperature": 405380032.0,
+      "legacy_density": 6.957216104233424e-14,
+      "hydro_density_cgs": 951.7997975699419
+    },
+    {
+      "id": 208098,
+      "legacy_time": 0.8910000324249268,
+      "hydro_time": 0.8909999999999999,
+      "legacy_temperature": 8.34572456797792e-309,
+      "hydro_temperature": 405034176.0,
+      "legacy_density": 2.6231128031360845e-07,
+      "hydro_density_cgs": 949.6306781601642
+    },
+    {
+      "id": 208098,
+      "legacy_time": 2.7149999514222145,
+      "hydro_time": 2.715,
+      "legacy_temperature": 8.957278323e-315,
+      "hydro_temperature": 398934208.0,
+      "legacy_density": 9.259619834617532e-16,
+      "hydro_density_cgs": 909.4485261843453
+    },
+    {
+      "id": 208098,
+      "legacy_time": 10.619000345468521,
+      "hydro_time": 10.619,
+      "legacy_temperature": 9.018482113707e-312,
+      "hydro_temperature": 346546112.0,
+      "legacy_density": 1.3863232562548517e-93,
+      "hydro_density_cgs": 477.8982846985579
+    },
+    {
+      "id": 208098,
+      "legacy_time": 28.02700102329254,
+      "hydro_time": 28.027,
+      "legacy_temperature": 2.97079411827e-313,
+      "hydro_temperature": 168219888.0,
+      "legacy_density": 2.2105592700632284e-216,
+      "hydro_density_cgs": 60.66457302076939
+    },
+    {
+      "id": 208098,
+      "legacy_time": 83.57899785041809,
+      "hydro_time": 83.57900000000001,
+      "legacy_temperature": 2.707e-321,
+      "hydro_temperature": 61035108.0,
+      "legacy_density": -2.767910221839736e-141,
+      "hydro_density_cgs": 3.3326370753412746
+    },
+    {
+      "id": 208098,
+      "legacy_time": 295.5470085144043,
+      "hydro_time": 295.547,
+      "legacy_temperature": 3.0361518212044516e-24,
+      "hydro_temperature": 16863382.0,
+      "legacy_density": -3.434408893597083e+79,
+      "hydro_density_cgs": 0.08495423667391794
+    },
+    {
+      "id": 208098,
+      "legacy_time": 1122.9399681091309,
+      "hydro_time": 1122.94,
+      "legacy_temperature": 7.254949052974903e-110,
+      "hydro_temperature": 4289055.5,
+      "legacy_density": -2408592485.5116796,
+      "hydro_density_cgs": 0.0015992537523191323
+    },
+    {
+      "id": 208098,
+      "legacy_time": 2826.8699645996094,
+      "hydro_time": 2826.87,
+      "legacy_temperature": 1.729948688478441e-213,
+      "hydro_temperature": 1661169.375,
+      "legacy_density": -4.900614697125812e-83,
+      "hydro_density_cgs": 9.59699749323946e-05
+    },
+    {
+      "id": 289434,
+      "legacy_time": 0.0,
+      "hydro_time": 0.0,
+      "legacy_temperature": 7.924004310877823e-07,
+      "hydro_temperature": 250219552.0,
+      "legacy_density": -2.5965250498014166e-169,
+      "hydro_density_cgs": 104.10934870196606
+    },
+    {
+      "id": 289434,
+      "legacy_time": 0.21500000730156898,
+      "hydro_time": 0.215,
+      "legacy_temperature": -5.288315400584429e+83,
+      "hydro_temperature": 250238336.0,
+      "legacy_density": -7.632944317860089e-101,
+      "hydro_density_cgs": 104.13309058980202
+    },
+    {
+      "id": 289434,
+      "legacy_time": 0.8910000324249268,
+      "hydro_time": 0.8909999999999999,
+      "legacy_temperature": 1.5708288704654348e-149,
+      "hydro_temperature": 249924720.0,
+      "legacy_density": -1.0484856999926382e-105,
+      "hydro_density_cgs": 103.76470114791705
+    },
+    {
+      "id": 289434,
+      "legacy_time": 2.7149999514222145,
+      "hydro_time": 2.715,
+      "legacy_temperature": -1.9331499529829476e-280,
+      "hydro_temperature": 246164800.0,
+      "legacy_density": 6.45980169272012e+85,
+      "hydro_density_cgs": 99.37267654760161
+    },
+    {
+      "id": 289434,
+      "legacy_time": 10.619000345468521,
+      "hydro_time": 10.619,
+      "legacy_temperature": -1.2764786892739875e+148,
+      "hydro_temperature": 320622976.0,
+      "legacy_density": -7.146382900451844e-68,
+      "hydro_density_cgs": 177.75288937768113
+    },
+    {
+      "id": 289434,
+      "legacy_time": 28.02700102329254,
+      "hydro_time": 28.027,
+      "legacy_temperature": 1.1125369295126334e-308,
+      "hydro_temperature": 173346912.0,
+      "legacy_density": 0.3825000002369452,
+      "hydro_density_cgs": 29.363548318329013
+    },
+    {
+      "id": 289434,
+      "legacy_time": 83.57899785041809,
+      "hydro_time": 83.57900000000001,
+      "legacy_temperature": 1.1125369295126334e-308,
+      "hydro_temperature": 63858832.0,
+      "legacy_density": 9.460382676692464e-06,
+      "hydro_density_cgs": 1.7189818107231045
+    },
+    {
+      "id": 289434,
+      "legacy_time": 295.5470085144043,
+      "hydro_time": 295.547,
+      "legacy_temperature": 8.34521528898797e-309,
+      "hydro_temperature": 16589487.0,
+      "legacy_density": 4.991104324526784e-10,
+      "hydro_density_cgs": 0.03723287954846077
+    },
+    {
+      "id": 289434,
+      "legacy_time": 1122.9399681091309,
+      "hydro_time": 1122.94,
+      "legacy_temperature": 1.390671163185955e-309,
+      "hydro_temperature": 3877349.25,
+      "legacy_density": 9.320424617137287e-22,
+      "hydro_density_cgs": 0.0006092831893147537
+    },
+    {
+      "id": 289434,
+      "legacy_time": 2826.8699645996094,
+      "hydro_time": 2826.87,
+      "legacy_temperature": 9.67630080905e-312,
+      "hydro_temperature": 1436015.25,
+      "legacy_density": 4.277857474970845e-100,
+      "hydro_density_cgs": 3.690783444149192e-05
+    }
+  ],
+  "time_rtol": 1e-06,
+  "time_atol_s": 1e-09,
+  "temperature_and_density_rtol": 1e-10,
+  "temperature_and_density_atol": 0
+}

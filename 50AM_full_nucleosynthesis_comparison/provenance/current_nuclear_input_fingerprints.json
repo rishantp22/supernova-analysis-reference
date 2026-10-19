@@ -1,0 +1,266 @@
+[
+  {
+    "path": "/scratch/svierlin/prism-v02/input/extent/default.dat",
+    "bytes": 1482,
+    "mtime_ns": 1754426096000000000,
+    "ctime_ns": 1792361030000000000,
+    "inode": 18337130220458470852,
+    "sha256": "ae52116592bebabfcf6167b79120825edfbbdcdb55d5fa4717d2afdd08493600"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/Spf_KarpovZag_FRLDMBh.dat",
+    "bytes": 163489,
+    "mtime_ns": 1774988774000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 5524758031726311933,
+    "sha256": "539eb770b2b91cf0c054424a61d41e3cdc258a908f9b1789805b1d32964cf3ef"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bdfc_beoh350-gtff-sdn_frdm2012_asy_ss0.50.bin",
+    "bytes": 386092,
+    "mtime_ns": 1774988773000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 1091854444144323376,
+    "sha256": "3f60b77ff1a0fa3119fbbfe27ee5ce9307528bd7f12502b5362c3b42cca6c7a2"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmd_beoh350-gtff-sdn_frdm2012.bin",
+    "bytes": 1019484,
+    "mtime_ns": 1774988768000000000,
+    "ctime_ns": 1792363306000000000,
+    "inode": 15268559512006747303,
+    "sha256": "7f12419d26a4bc563d46a1842db8fc34719c508f9e65e94444097d2abb0885b1"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/bmdc_beoh350-gtff-sdn_frdm2012.bin",
+    "bytes": 332828,
+    "mtime_ns": 1774988767000000000,
+    "ctime_ns": 1792363306000000000,
+    "inode": 13755473767109612401,
+    "sha256": "c73351313edd8d5b81def6839e360d51d79c4430ee93fc07f7472156e7f8ae15"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_ame2016.bin",
+    "bytes": 1176029,
+    "mtime_ns": 1774988773000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 1359996182843685699,
+    "sha256": "aa6f46c24f91e5626f66b90456c07aba28550286cf7cdd3d9fec9c79364f6048"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/ncap_coh350_frdm2012.bin",
+    "bytes": 4394741,
+    "mtime_ns": 1774988776000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 12666520778136070242,
+    "sha256": "c216c1a5528c5f7882a60e354946e431abfd0f389321833c08a9a68b8ce6216a"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/nif_coh350_frdm2012_asy_ss0.50.bin",
+    "bytes": 1548356,
+    "mtime_ns": 1774988768000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 3141436779244791365,
+    "sha256": "b1bb1c6e05fa6c2962b2541acf7582e61317a3b792b1125c2def93d378db5415"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_ame2016.bin",
+    "bytes": 168204,
+    "mtime_ns": 1774988776000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 4216166668842776315,
+    "sha256": "ba411907f86e640de5558c2af86522e4f039269722df803b458d1095c1f0f30f"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/NDI/s1n_frdm2012.bin",
+    "bytes": 661620,
+    "mtime_ns": 1774988777000000000,
+    "ctime_ns": 1792363307000000000,
+    "inode": 1025019404416967530,
+    "sha256": "766e3e802b9035d310d2f84c1bbca7baa339c950f207defd29d9c7e624a22367"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/ECbetap_nubase2016.dat",
+    "bytes": 62265,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363308000000000,
+    "inode": 16363475993627124609,
+    "sha256": "2350427979b9b3fd0af54e35172cabc58e99a26b48314b3b77d2c82b765a36ab"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/SF5050_nubase2016.dat",
+    "bytes": 115312,
+    "mtime_ns": 1774988766000000000,
+    "ctime_ns": 1792363308000000000,
+    "inode": 16855524412188690917,
+    "sha256": "f8fecf8b0151b9800c64d6fe9b8b878449456e9462f6b0f2996d4a523f02b39f"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/alpha_nubase2016.dat",
+    "bytes": 84555,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363309000000000,
+    "inode": 8152232311821639007,
+    "sha256": "66798cccee30fc0f64d0af3363be506fb52af2039a897e5ffa89fe7ee3529aac"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betam_nubase2016_moller.dat",
+    "bytes": 185353,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363306000000000,
+    "inode": 1511004476651010324,
+    "sha256": "db0458d311582c21008f9eef54f6819de743a015cd10371b4aab34444e9893cd"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/betap_nubase2016.dat",
+    "bytes": 160451,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363308000000000,
+    "inode": 4913902416261130988,
+    "sha256": "831fc78ddc410f7558c72b598ef64cdb38e63e40b92767a09fc4488b846b5195"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/bmpextra_nubase2016.dat",
+    "bytes": 1457,
+    "mtime_ns": 1774988766000000000,
+    "ctime_ns": 1792363308000000000,
+    "inode": 9351815229802544619,
+    "sha256": "2e31c5b67fc803c5811d147a99a9c9c364b06f5442e71f3edfea20d930a4fcd5"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/neutemit_nubase2016.dat",
+    "bytes": 209435,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363308000000000,
+    "inode": 17833678017374415469,
+    "sha256": "2a135a3564e31b7b97000490928863f455984b6ea01122b19aedd9010871b3e0"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/protemit_nubase2016.dat",
+    "bytes": 209568,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363309000000000,
+    "inode": 4624411446777556988,
+    "sha256": "c9dc744e3b057d87c5f79bf71df1eb6057a16841c3c9aae4c0ada19d64c12166"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Nubase/stable.bin",
+    "bytes": 24396,
+    "mtime_ns": 1774988765000000000,
+    "ctime_ns": 1792363309000000000,
+    "inode": 7208158774315221748,
+    "sha256": "ea68130ede6d65528ec575f301ae0a52329ce173571ad2ba0672808423fbfbc4"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ag.bin",
+    "bytes": 41142493,
+    "mtime_ns": 1774988787000000000,
+    "ctime_ns": 1792363300000000000,
+    "inode": 8318275258278211832,
+    "sha256": "c88c0880b42b76fcc3f4d28b034fc87e6eb10d521fa1f2862bc7410aa732ba81"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/an.bin",
+    "bytes": 40440677,
+    "mtime_ns": 1774988792000000000,
+    "ctime_ns": 1792363306000000000,
+    "inode": 10885951225748698339,
+    "sha256": "25aeaad9d5e50f6879b8a68e1131edf824de04ab3a884d3eedd1a38f290205f4"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ap.bin",
+    "bytes": 40650549,
+    "mtime_ns": 1774988790000000000,
+    "ctime_ns": 1792363305000000000,
+    "inode": 12890525303833192486,
+    "sha256": "998ec11365229706245b1f2c65a454cea89a31865e85d154a0c2ce6d27c0612f"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/else.bin",
+    "bytes": 799437,
+    "mtime_ns": 1774988795000000000,
+    "ctime_ns": 1792363306000000000,
+    "inode": 419747358423375173,
+    "sha256": "f2be1566bbeaf7281373dd5e67222a54fc995969ea9b0c28639471b87a259226"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ga.bin",
+    "bytes": 41247325,
+    "mtime_ns": 1774988785000000000,
+    "ctime_ns": 1792363301000000000,
+    "inode": 11065129523851095051,
+    "sha256": "c54bbf3b1b27f379825c602d4e98a8b37d090726671211ebbd93ee6648ece416"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gn.bin",
+    "bytes": 59907421,
+    "mtime_ns": 1774988809000000000,
+    "ctime_ns": 1774988809000000000,
+    "inode": 6787492545169482438,
+    "sha256": "caeefb70db329c4328c102c56f37d9a442d101ef6cd4010d499f2dd9b5f451c1"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/gp.bin",
+    "bytes": 40690909,
+    "mtime_ns": 1774988782000000000,
+    "ctime_ns": 1792363302000000000,
+    "inode": 15946035119348993715,
+    "sha256": "137324450974b9c8cec9d93b4c0a595b9e5cbbb7e776d25cc662774add59096e"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/moller2003.bin",
+    "bytes": 769836,
+    "mtime_ns": 1774988790000000000,
+    "ctime_ns": 1792363306000000000,
+    "inode": 17385992805260935634,
+    "sha256": "60bebe1cd9ca0fbaea92b8d044180dcc05ee4ac01c0b2c96ce0c6f7688e22d0c"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/na.bin",
+    "bytes": 40440677,
+    "mtime_ns": 1774988795000000000,
+    "ctime_ns": 1792363305000000000,
+    "inode": 388511778618414493,
+    "sha256": "897b326bee6a2032bd0cb14c971dee1ea02b671bbf1cea1e1dbe791a90088638"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/ng.bin",
+    "bytes": 119390845,
+    "mtime_ns": 1774988804000000000,
+    "ctime_ns": 1792363301000000000,
+    "inode": 10367406447485105239,
+    "sha256": "3d6097db594c2d42293fb770aa95f3d7dd136dc0f0dcb9258cc08091cc8f84ef"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/np.bin",
+    "bytes": 40440677,
+    "mtime_ns": 1774988798000000000,
+    "ctime_ns": 1792363304000000000,
+    "inode": 2093705135071809222,
+    "sha256": "9bfec37aaeef6729c15123ddf85849644ce196569c3727436b802dd1de87d419"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pa.bin",
+    "bytes": 40650549,
+    "mtime_ns": 1774988812000000000,
+    "ctime_ns": 1792363304000000000,
+    "inode": 18036266327717715526,
+    "sha256": "5e909867d9fd06c7d0ba141d72760694a68ade5938433f12964b5cbbc2c7b7bc"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pg.bin",
+    "bytes": 40682845,
+    "mtime_ns": 1774988806000000000,
+    "ctime_ns": 1792363302000000000,
+    "inode": 8771087292627017616,
+    "sha256": "a882756243c4434772253ff25c1d0a4f1544c0f5809ab045bc7e128745097e6f"
+  },
+  {
+    "path": "/scratch/svierlin/prism-v02/input/nuclear/Reaclib/pn.bin",
+    "bytes": 40440677,
+    "mtime_ns": 1774988779000000000,
+    "ctime_ns": 1792363303000000000,
+    "inode": 18137189531889505378,
+    "sha256": "ec33af5370bec3b6e9224883cb19dcb6f66276232511f66d94995ab2acd28f57"
+  }
+]

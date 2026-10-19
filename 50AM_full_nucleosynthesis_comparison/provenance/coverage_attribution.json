@@ -1,0 +1,19 @@
+{
+  "old_ids_without_raw": 668118,
+  "old_ids_without_raw_all_exported_isotopes_zero": 668118,
+  "old_ids_without_raw_any_nonzero": 0,
+  "shared_raw_covered": 269113,
+  "shared_raw_absent": 668114,
+  "mass_shared_raw_covered_msun": 2.4893537024900003,
+  "mass_shared_raw_absent_msun": 6.46772831413,
+  "legacy_looperror_counts": {
+    "1337": 277507,
+    "100": 3
+  },
+  "legacy_history_validation": {
+    "points": 3052610,
+    "nonfinite": 1,
+    "zero_temperature": 15,
+    "zero_density": 2
+  }
+}

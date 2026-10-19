@@ -1,0 +1,90 @@
+path,reason
+/scratch/rpraka15/final_chunks,large collection; separately audited where relevant
+/scratch/rpraka15/slurm_log,large collection; separately audited where relevant
+/scratch/rpraka15/ccsn-presolar-oxide-analysis/.git,hidden/cache/software directory
+/scratch/rpraka15/ccsn-presolar-oxide-analysis/scripts/__pycache__,hidden/cache/software directory
+/scratch/rpraka15/final_chunks_export_20261018/parts,large collection; separately audited where relevant
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/.git,hidden/cache/software directory
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libSDF/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libSDF/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libSDF/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libtree/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libtree/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libtree/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/WVTInitial/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/WVTInitial/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/WVTInitial/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/sph+nln/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/sph+nln/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/sph+nln/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libmpmy/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libmpmy/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libmpmy/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libsw/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libsw/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/50AM_test/gregsnsph.dir/libsw/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/.git,hidden/cache/software directory
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libSDF/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libSDF/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libSDF/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libtree/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libtree/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libtree/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/WVTInitial/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/WVTInitial/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/WVTInitial/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libmpmy/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libmpmy/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libmpmy/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/sph+nln/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/sph+nln/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/sph+nln/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libsw/Objfiles/saguaro,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libsw/Objfiles/sol,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/output_data/extracted/gregsnsph.dir/libsw/Objfiles/default,discovery depth bound; targeted follow-up required
+/scratch/rpraka15/file_comparison_20261018/__pycache__,hidden/cache/software directory
+/scratch/rpraka15/supernova-analysis-reference/.git,hidden/cache/software directory
+/scratch/rpraka15/supernova-analysis-reference/tests/__pycache__,hidden/cache/software directory
+/scratch/rpraka15/supernova-analysis-reference/supernova-grain-analysis/code/__pycache__,hidden/cache/software directory
+/scratch/rpraka15/supernova-analysis-reference/comparison/__pycache__,hidden/cache/software directory
+/home/rpraka15/supernova-grain-analysis/.git,hidden/cache/software directory
+/home/rpraka15/supernova-grain-analysis/tests/__pycache__,hidden/cache/software directory
+/home/rpraka15/supernova-grain-analysis/scripts/__pycache__,hidden/cache/software directory
+/scratch/svierlin/prism-v02/vconv_outputs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/final_chunks,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/cco2_outputs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_outputs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/50Am_plots/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/50Am_plots/temp_and_density/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/vconv_time_replace/logs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_plots/ye_plot/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_plots/abundance_v_region/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_plots/temp_and_density/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_plots/total_abundance/final_chunks,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_plots/total_abundance/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/jet3b_plots/total_abundance/final_chunks_Els/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/input/conditions/vconv_traj,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/input/conditions/logs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/input/conditions/50Am_abund,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/input/conditions/jet3b_traj,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/input/conditions/cco2_traj,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/input/conditions/__MACOSX/50Am_abund,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/Quals_Figures_data/TempandDensity/logs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/Quals_Figures_data/RegionalAbundance24Na60Fe/parts,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/Quals_Figures_data/RegionalAbundance24Na60Fe/logs,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/vconv_plots/Ye_plots/slurm_log,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/gsvance/data_mining/.git,hidden/cache/software directory
+/scratch/svierlin/prism-v02/gsvance/supernova_data/jet3b/queries,large collection; separately audited where relevant
+/scratch/svierlin/prism-v02/gsvance/supernova_data/jet3b/sorted_queries,large collection; separately audited where relevant
+/data/pyoung3/supernova_data/50Am/sorted_queries,large collection; separately audited where relevant
+/data/pyoung3/supernova_data/50Am/queries,large collection; separately audited where relevant
+/data/pyoung3/gsvance/data_mining/.git,hidden/cache/software directory
+/data/pyoung3/gsvance/data_mining/__pycache__,hidden/cache/software directory
+/data/pyoung3/groupdata/svierlin/50Am_data/slurm_log,large collection; separately audited where relevant
+/data/pyoung3/groupdata/svierlin/50Am_data/logs,large collection; separately audited where relevant
+/data/pyoung3/burn/.git,hidden/cache/software directory
+/data/pyoung3/burn/burn/.git,hidden/cache/software directory
+/data/pyoung3/nucleosetup.dir/parabund/abund/.git,hidden/cache/software directory
+/data/pyoung3/se_analysis/.git,hidden/cache/software directory
+/data/pyoung3/snsphtools/.git,hidden/cache/software directory

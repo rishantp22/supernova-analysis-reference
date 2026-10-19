@@ -1,0 +1,806 @@
+{
+  "snapshots": [
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0000",
+        "bytes": 355557728,
+        "mtime_ns": 1712168004189167000,
+        "ctime_ns": 1735656598685182197,
+        "inode": 1672362366
+      },
+      "iteration": 0,
+      "time_code": 0.0,
+      "header_sha256": "7f9f943691a1b3177afa087726d7bc6cb7717404ab70760250dee5ac4416857a",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0020",
+        "bytes": 355557728,
+        "mtime_ns": 1712168010485144000,
+        "ctime_ns": 1735656599774884210,
+        "inode": 1672362369
+      },
+      "iteration": 20,
+      "time_code": 0.0002,
+      "header_sha256": "8cf8cfecaf6370fc5acdd0cfc0486f9c6611a300be64373c68045582c37dfd87",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0040",
+        "bytes": 355557728,
+        "mtime_ns": 1712168080153718000,
+        "ctime_ns": 1735656612726107009,
+        "inode": 1672362379
+      },
+      "iteration": 40,
+      "time_code": 0.00043,
+      "header_sha256": "4e4733aec227634ec921d45f4be2634d5632d6957d19a83d0dab37501670a103",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0060",
+        "bytes": 355557728,
+        "mtime_ns": 1712168028187852000,
+        "ctime_ns": 1735656603807093893,
+        "inode": 1672362372
+      },
+      "iteration": 60,
+      "time_code": 0.00083,
+      "header_sha256": "a72b925c0468504c61e5ad4e9a16782b83f566f121e6befc9eb4f28728b8c97a",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0080",
+        "bytes": 355557728,
+        "mtime_ns": 1712168106985440000,
+        "ctime_ns": 1735656601308756047,
+        "inode": 1672362371
+      },
+      "iteration": 80,
+      "time_code": 0.00135,
+      "header_sha256": "b0c5827b1d73f253baa12d1a300c60aa68cde1c74d2d9f6057c1822733cfd9b1",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0100",
+        "bytes": 355557728,
+        "mtime_ns": 1712168048872364000,
+        "ctime_ns": 1735656610357921754,
+        "inode": 1672362376
+      },
+      "iteration": 100,
+      "time_code": 0.00215,
+      "header_sha256": "19e99e1c86e98c663cff311b21300b26cbe211cdd13d2bb4776adb1e13f9f710",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0120",
+        "bytes": 355557728,
+        "mtime_ns": 1712168087695674000,
+        "ctime_ns": 1735656604888891437,
+        "inode": 1672362373
+      },
+      "iteration": 120,
+      "time_code": 0.00295,
+      "header_sha256": "903e53c5513d3453e0a45f9252dfd0fd8a2721f7faab7c95b7bfc6f04595e14f",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0140",
+        "bytes": 355557728,
+        "mtime_ns": 1712168040048998000,
+        "ctime_ns": 1735656631450375738,
+        "inode": 1672362395
+      },
+      "iteration": 140,
+      "time_code": 0.00403,
+      "header_sha256": "8a35653a4595cf5856e3d7c5f4dd0896c186c2583bf3db6b9ae7856c03f7c396",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0160",
+        "bytes": 355557728,
+        "mtime_ns": 1712168104782552000,
+        "ctime_ns": 1735656639726063807,
+        "inode": 1672362402
+      },
+      "iteration": 160,
+      "time_code": 0.00563,
+      "header_sha256": "db487708e2f21f2f3887ed926fa69d07f3f74debade7456eb4336b400159d790",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0180",
+        "bytes": 355557728,
+        "mtime_ns": 1712168096387280000,
+        "ctime_ns": 1735656621058250451,
+        "inode": 1672362382
+      },
+      "iteration": 180,
+      "time_code": 0.00723001,
+      "header_sha256": "c2c7865c6c0a8711c6abbaf6ac56d5bffc94162f6af2bcca8c8b93da29e69e1d",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0200",
+        "bytes": 355557728,
+        "mtime_ns": 1712168064407443000,
+        "ctime_ns": 1735656630821199057,
+        "inode": 1672362393
+      },
+      "iteration": 200,
+      "time_code": 0.00891,
+      "header_sha256": "64305a70b5c03181da2a46a39c93d25c9dda33756028b57537a6c711cf3652d1",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0220",
+        "bytes": 355557728,
+        "mtime_ns": 1712168067205704000,
+        "ctime_ns": 1735656648844379518,
+        "inode": 1672362410
+      },
+      "iteration": 220,
+      "time_code": 0.01051,
+      "header_sha256": "fdcd79b0fbb4a8f2b2b1164d4457afa4418b5103f76fb268711c74856dbbe910",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0240",
+        "bytes": 355557728,
+        "mtime_ns": 1712168046771370000,
+        "ctime_ns": 1735656613027557963,
+        "inode": 1672362377
+      },
+      "iteration": 240,
+      "time_code": 0.01307,
+      "header_sha256": "72f1d62b25f2e3243d722cb9777468133ac434b1602c22a48e1e1e86a59c53c5",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0260",
+        "bytes": 355557728,
+        "mtime_ns": 1712168053130265000,
+        "ctime_ns": 1735656619198491329,
+        "inode": 1672362383
+      },
+      "iteration": 260,
+      "time_code": 0.01627,
+      "header_sha256": "a764ecdcc9cefeed6ef5c0477554580032942ac6c3bd2beaee42438aa868d1f3",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0280",
+        "bytes": 355557728,
+        "mtime_ns": 1712168074879598000,
+        "ctime_ns": 1735656622149244268,
+        "inode": 1672362388
+      },
+      "iteration": 280,
+      "time_code": 0.02075,
+      "header_sha256": "2b2d826cf474bcb240ef55574ae98532e46535817a581be925d6f3be7c1f0c79",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0300",
+        "bytes": 355557728,
+        "mtime_ns": 1712168014699142000,
+        "ctime_ns": 1735656656945839229,
+        "inode": 1672362420
+      },
+      "iteration": 300,
+      "time_code": 0.02715,
+      "header_sha256": "55618388452354314c357f6b4c06b146422d6d6c453254596aff8a1dc089ace5",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0320",
+        "bytes": 355557728,
+        "mtime_ns": 1712168019027910000,
+        "ctime_ns": 1735656629762869166,
+        "inode": 1672362394
+      },
+      "iteration": 320,
+      "time_code": 0.03451,
+      "header_sha256": "41734f252ca26958b42b4b636aaaa9f936f97f5011e734f4ad525ae2dacc3bf8",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0340",
+        "bytes": 355557728,
+        "mtime_ns": 1712168086155849000,
+        "ctime_ns": 1735656639300915633,
+        "inode": 1672362400
+      },
+      "iteration": 340,
+      "time_code": 0.04731,
+      "header_sha256": "280218e4b4662e81748ee4278d8422d309b1f4a2b1e838fed1e4aef028746418",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0360",
+        "bytes": 355557728,
+        "mtime_ns": 1712168000007651000,
+        "ctime_ns": 1735656657165485191,
+        "inode": 1672362412
+      },
+      "iteration": 360,
+      "time_code": 0.0601101,
+      "header_sha256": "904a96ccbe77ac1bdd88c2f0e6907209ad4fb1c176977f552ee0ad2ad9322561",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0380",
+        "bytes": 355557728,
+        "mtime_ns": 1712168065826151000,
+        "ctime_ns": 1735656626706694277,
+        "inode": 1672362389
+      },
+      "iteration": 380,
+      "time_code": 0.0805901,
+      "header_sha256": "c25b4d1aa9c0ac5f557519d88fc362909b23f3eaa41a285923c60aae8897fedd",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0400",
+        "bytes": 355557728,
+        "mtime_ns": 1712168090541956000,
+        "ctime_ns": 1735656658678240684,
+        "inode": 1672362423
+      },
+      "iteration": 400,
+      "time_code": 0.10619,
+      "header_sha256": "a60664e9d3bc06a4dab05884e6976684a152fb4c534cd38392e096b88c00b12b",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0420",
+        "bytes": 355557728,
+        "mtime_ns": 1712168094983412000,
+        "ctime_ns": 1735656667287669403,
+        "inode": 1672362428
+      },
+      "iteration": 420,
+      "time_code": 0.13179,
+      "header_sha256": "97d2f4ef836bcbbfad9be5549334aa7585f1afade864880a8d9cb1c2f0dfff34",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0440",
+        "bytes": 355557728,
+        "mtime_ns": 1712168081549999000,
+        "ctime_ns": 1735656620857440150,
+        "inode": 1672362386
+      },
+      "iteration": 440,
+      "time_code": 0.15867,
+      "header_sha256": "38f63bf9ae92fab3bca39b7c85f94e458c8872323918852c6bfc2460adc766ba",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0460",
+        "bytes": 355557728,
+        "mtime_ns": 1712168016090114000,
+        "ctime_ns": 1735656634981713906,
+        "inode": 1672362398
+      },
+      "iteration": 460,
+      "time_code": 0.18427,
+      "header_sha256": "ebd515d6d6c468159ac4c60cd0b75571469629cc968d35c14edbe32501369f0e",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0480",
+        "bytes": 355557728,
+        "mtime_ns": 1712168070920032000,
+        "ctime_ns": 1735656643219382694,
+        "inode": 1672362405
+      },
+      "iteration": 480,
+      "time_code": 0.22907,
+      "header_sha256": "d82cc89e8d43d1652eb2ed6c093f1f3789272238cec97fd5fa7cfade1daf21b3",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0500",
+        "bytes": 355557728,
+        "mtime_ns": 1712168035808604000,
+        "ctime_ns": 1735656678159257954,
+        "inode": 1672362444
+      },
+      "iteration": 500,
+      "time_code": 0.28027,
+      "header_sha256": "8f2c5e9c825cea92f7ab762535932a8471c1d4355087cc5c0733868f41584b04",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0520",
+        "bytes": 355557728,
+        "mtime_ns": 1712168009077232000,
+        "ctime_ns": 1735656633714175165,
+        "inode": 1672362397
+      },
+      "iteration": 520,
+      "time_code": 0.33147,
+      "header_sha256": "744e7458fa1ed1a4baec69b5c8ad87d689abc3a517c52cd3d6ce2837695f1c9d",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0540",
+        "bytes": 355557728,
+        "mtime_ns": 1712168083108780000,
+        "ctime_ns": 1735656652141605653,
+        "inode": 1672362414
+      },
+      "iteration": 540,
+      "time_code": 0.42619,
+      "header_sha256": "71357e395f60f926fc778747af18adae0edfc6ed98741670bbb0a624d5e1e6d6",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0560",
+        "bytes": 355557728,
+        "mtime_ns": 1712168099241866000,
+        "ctime_ns": 1735656671139894924,
+        "inode": 1672362425
+      },
+      "iteration": 560,
+      "time_code": 0.52859,
+      "header_sha256": "c0d84282a3a408921174d94ea261da7d8b17fc174294e18885e18ffd6c37a2cb",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0580",
+        "bytes": 355557728,
+        "mtime_ns": 1712168023221861000,
+        "ctime_ns": 1735656690983322923,
+        "inode": 1672362450
+      },
+      "iteration": 580,
+      "time_code": 0.630989,
+      "header_sha256": "bd84137a45fa941acb36e06dcf75fb3b0e546e92a89ab30ef4f30e6e08e77be1",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0600",
+        "bytes": 355557728,
+        "mtime_ns": 1712168043974731000,
+        "ctime_ns": 1735656680089379685,
+        "inode": 1672362445
+      },
+      "iteration": 600,
+      "time_code": 0.83579,
+      "header_sha256": "40a42d3b6d3e612b452762e98fe13a09a8e8be0c96245adae03450adb5366e9e",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0620",
+        "bytes": 355557728,
+        "mtime_ns": 1712168037207181000,
+        "ctime_ns": 1735656691414787711,
+        "inode": 1672362452
+      },
+      "iteration": 620,
+      "time_code": 1.04059,
+      "header_sha256": "df4a327be67d6bfd78f4f09e8d43ec493733ca0977af7046a7e03fc1d31da154",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0640",
+        "bytes": 355557728,
+        "mtime_ns": 1712168017540472000,
+        "ctime_ns": 1735656700649672204,
+        "inode": 1672362453
+      },
+      "iteration": 640,
+      "time_code": 1.33755,
+      "header_sha256": "b6e7cf83ae55d7bf7eaf4319b971572a56975928093036e65eeda555997bf30a",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0660",
+        "bytes": 355557728,
+        "mtime_ns": 1712167997867566000,
+        "ctime_ns": 1735656702337218005,
+        "inode": 1672362457
+      },
+      "iteration": 660,
+      "time_code": 1.74715,
+      "header_sha256": "15a3ba36a287cdd2c037be4fb1c1769eabc39353bf96161c128b2d49276f985f",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0680",
+        "bytes": 355557728,
+        "mtime_ns": 1712168091946835000,
+        "ctime_ns": 1735656641785259315,
+        "inode": 1672362404
+      },
+      "iteration": 680,
+      "time_code": 2.15675,
+      "header_sha256": "5c94e89aa323fdf6f005385c6424bdce080d66994a00a42b3e98afaaaab3227b",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0700",
+        "bytes": 355557728,
+        "mtime_ns": 1712168062255887000,
+        "ctime_ns": 1735656669244763241,
+        "inode": 1672362431
+      },
+      "iteration": 700,
+      "time_code": 2.95547,
+      "header_sha256": "e451703282bb6d708494ba6997082c1061383218a7d9d82788f92ccf3d5420d7",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0720",
+        "bytes": 355557728,
+        "mtime_ns": 1712168073285597000,
+        "ctime_ns": 1735656710472838773,
+        "inode": 1672362459
+      },
+      "iteration": 720,
+      "time_code": 3.77467,
+      "header_sha256": "5a393e609898c951a7093631b2a296d47d2ce57e25472ad175da0f9de8eb7c0d",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0740",
+        "bytes": 355557728,
+        "mtime_ns": 1712168060826158000,
+        "ctime_ns": 1735656714928956965,
+        "inode": 1672362461
+      },
+      "iteration": 740,
+      "time_code": 4.92155,
+      "header_sha256": "ffa7903553d7a60f66ab2292ca21c7fd11509f55a2ade8c325975e1b638dfc6a",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0760",
+        "bytes": 355557728,
+        "mtime_ns": 1712167996466199000,
+        "ctime_ns": 1735656711795543408,
+        "inode": 1672362460
+      },
+      "iteration": 760,
+      "time_code": 6.55996,
+      "header_sha256": "d4f0daeeca65e9e4d32d8020fa4b37cfec082a629c515019fd517df3569f44dc",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0780",
+        "bytes": 355557728,
+        "mtime_ns": 1712168077956901000,
+        "ctime_ns": 1735656679556011884,
+        "inode": 1672362443
+      },
+      "iteration": 780,
+      "time_code": 8.19836,
+      "header_sha256": "b305471ddef08b9ff15f54d21c01decf445e018e1636b72301f4ba53c1f48e3d",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0800",
+        "bytes": 355557728,
+        "mtime_ns": 1712168051712675000,
+        "ctime_ns": 1735656650007519572,
+        "inode": 1672362411
+      },
+      "iteration": 800,
+      "time_code": 11.2294,
+      "header_sha256": "834ec33c3dbd139871213a09fe4f22e1ea3a22a07b6862ecdc16bef767fe0683",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0820",
+        "bytes": 355557728,
+        "mtime_ns": 1712168030966833000,
+        "ctime_ns": 1735656722440419001,
+        "inode": 1672362465
+      },
+      "iteration": 820,
+      "time_code": 14.5062,
+      "header_sha256": "c875576fdeeed9972e1ef9a6cc2ef6a60441dac0119d5120c5f44b98237236b6",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0840",
+        "bytes": 355557728,
+        "mtime_ns": 1712168054554588000,
+        "ctime_ns": 1735656688691020358,
+        "inode": 1672362451
+      },
+      "iteration": 840,
+      "time_code": 17.783,
+      "header_sha256": "295f2c067dc737169f4adcef9fbe30d063e5e51adcf776ad25aa39b3821e3b3b",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0860",
+        "bytes": 355557728,
+        "mtime_ns": 1712168102821515000,
+        "ctime_ns": 1735656635724183707,
+        "inode": 1672362399
+      },
+      "iteration": 860,
+      "time_code": 21.2236,
+      "header_sha256": "280796693f1f5868846ef1ed2658d6f1da461b0315682784204b85ffe564a200",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0880",
+        "bytes": 355557728,
+        "mtime_ns": 1712168045338101000,
+        "ctime_ns": 1735656702772258234,
+        "inode": 1672362455
+      },
+      "iteration": 880,
+      "time_code": 24.5004,
+      "header_sha256": "c74a88ce1dc8509f06742c1a7b541cd4b33edcc9b9dc63a9450e007dc0b72bf3",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0900",
+        "bytes": 355557728,
+        "mtime_ns": 1712168069192233000,
+        "ctime_ns": 1735656722147539686,
+        "inode": 1672362464
+      },
+      "iteration": 900,
+      "time_code": 28.2687,
+      "header_sha256": "8dfa93ef352d54ac643cc7912d292f1e8c30378d5e3d8ea2e7e56fc31839bc09",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0920",
+        "bytes": 355557728,
+        "mtime_ns": 1712168084585903000,
+        "ctime_ns": 1735656723925335449,
+        "inode": 1672362467
+      },
+      "iteration": 920,
+      "time_code": 34.8223,
+      "header_sha256": "f48ff5eddd1b24ecf1bc2a02146afb14729fbb5744a5cad4483696743f9b4d7d",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0940",
+        "bytes": 355557728,
+        "mtime_ns": 1712168059471268000,
+        "ctime_ns": 1735656731767937744,
+        "inode": 1672362473
+      },
+      "iteration": 940,
+      "time_code": 41.3759,
+      "header_sha256": "0cb99bb806237562bd80cce5d4c95e9f0b81630024d0ab18875b991782bde4e0",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0960",
+        "bytes": 355557728,
+        "mtime_ns": 1712168055940081000,
+        "ctime_ns": 1735656734434824958,
+        "inode": 1672362474
+      },
+      "iteration": 960,
+      "time_code": 48.2572,
+      "header_sha256": "9924227d65c412327340c4085d16e077c09893af61926ae384a653ade8fe06d0",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.0980",
+        "bytes": 355557728,
+        "mtime_ns": 1712168029579976000,
+        "ctime_ns": 1735656686744667756,
+        "inode": 1672362448
+      },
+      "iteration": 980,
+      "time_code": 54.8107,
+      "header_sha256": "5b299257965802188d66507553b7366cfb5a755eb1a9f80778576d6b5f77d865",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1000",
+        "bytes": 355557728,
+        "mtime_ns": 1712168026053331000,
+        "ctime_ns": 1735656696392058321,
+        "inode": 1672362454
+      },
+      "iteration": 1000,
+      "time_code": 61.3643,
+      "header_sha256": "662d26ecefbaad56dc858d341f95c5e38c5aa899bd3eedbbd5328e3a26933c4a",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1100",
+        "bytes": 355557728,
+        "mtime_ns": 1712168012580003000,
+        "ctime_ns": 1735656657672563085,
+        "inode": 1672362422
+      },
+      "iteration": 1100,
+      "time_code": 94.7879,
+      "header_sha256": "29f7da7f2e818e2bbc086d289997917b377e2e04872bd8276adbf15c9c7b4f15",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1200",
+        "bytes": 355557728,
+        "mtime_ns": 1712168001363043000,
+        "ctime_ns": 1735656713012633245,
+        "inode": 1672362462
+      },
+      "iteration": 1200,
+      "time_code": 150.821,
+      "header_sha256": "4bdbc64ebe31269d7f73b522920f256210dca743a81c41765e4106559f0fe3ef",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1300",
+        "bytes": 355557728,
+        "mtime_ns": 1712168020422787000,
+        "ctime_ns": 1735656707279869252,
+        "inode": 1672362458
+      },
+      "iteration": 1300,
+      "time_code": 217.013,
+      "header_sha256": "52ae8e94e0c2246d758b225c37812717b688fabe415f60cf4cd81034085dde6c",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1400",
+        "bytes": 355557728,
+        "mtime_ns": 1712168100675278000,
+        "ctime_ns": 1735656735641115122,
+        "inode": 1672362472
+      },
+      "iteration": 1400,
+      "time_code": 283.86,
+      "header_sha256": "227ba1d07a764f5dd8ad7fd3fcd2ec7e8dd6fdd806316210e75205e4082ce56c",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1500",
+        "bytes": 355557728,
+        "mtime_ns": 1712168007686408000,
+        "ctime_ns": 1735656667457806156,
+        "inode": 1672362429
+      },
+      "iteration": 1500,
+      "time_code": 393.306,
+      "header_sha256": "db3062f8454bd5941cf9853f0bcbe1e9dfee7a5d2b725ab3c05fdcc98493bc23",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1600",
+        "bytes": 355557728,
+        "mtime_ns": 1712168041428486000,
+        "ctime_ns": 1735656722707778984,
+        "inode": 1672362466
+      },
+      "iteration": 1600,
+      "time_code": 525.69,
+      "header_sha256": "6ac73cddeeb88451d1652aed1177e9907f0e8d78c5f0d55080aa9e80288fabc6",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1700",
+        "bytes": 355557728,
+        "mtime_ns": 1712168032360279000,
+        "ctime_ns": 1735656717605295725,
+        "inode": 1672362463
+      },
+      "iteration": 1700,
+      "time_code": 681.667,
+      "header_sha256": "7946f6059a64dc99479b2fa5cc5673787380b996063ead11bc45cfb32f02078e",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1800",
+        "bytes": 355557728,
+        "mtime_ns": 1712168021813256000,
+        "ctime_ns": 1735656676000103154,
+        "inode": 1672362442
+      },
+      "iteration": 1800,
+      "time_code": 946.434,
+      "header_sha256": "b409c49a393437d60846d59e6ef790bd7f88cdd7e46711c252533d6c059c6a06",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.1900",
+        "bytes": 355557728,
+        "mtime_ns": 1712168038606249000,
+        "ctime_ns": 1735656644513474485,
+        "inode": 1672362406
+      },
+      "iteration": 1900,
+      "time_code": 1213.82,
+      "header_sha256": "75c8fa3f419375f58329a3a5ab30b72a6397cd6bcd21f848a59912c54fe4e9be",
+      "rows": 945628
+    },
+    {
+      "source": {
+        "path": "/data/pyoung3/supernova_data/50Am/run3g_50Am6/run3g_50Am6_sph.2000",
+        "bytes": 355557728,
+        "mtime_ns": 1712168093501340000,
+        "ctime_ns": 1735656744415579190,
+        "inode": 1672362484
+      },
+      "iteration": 2000,
+      "time_code": 1575.58,
+      "header_sha256": "1d92d239de43121598c53495c1d9681d7e525c444dcf6443e4ce246c97f2a943",
+      "rows": 945628
+    }
+  ],
+  "shape": [
+    945634,
+    61,
+    2
+  ],
+  "temperature_units": "K",
+  "density_units": "code",
+  "time_conversion_s": 100,
+  "conversion_provenance": "/data/pyoung3/gsvance/data_mining/sn_utils.py; 50Am headers omit explicit factors"
+}

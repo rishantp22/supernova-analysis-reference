@@ -1,0 +1,35 @@
+# Publish only reviewed code and small records. Full databases stay on Sol.
+software/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*credentials*
+*.pem
+*.key
+*.npy
+*.npz
+*.gz
+*.zip
+*.tar
+figures/
+logs/
+provenance/source_snapshots/
+provenance/raw_archive_prefixes/
+provenance/tracer_inputs/
+provenance/representative_eoc/
+provenance/*member_hashes.csv
+provenance/additional_50AM_candidates.csv
+provenance/discovered_files.csv
+tables/legacy_history_vs_hydro.csv
+tables/test_fixtures/
+!/tables/*.csv
+!/provenance/*.csv
+!/PUBLICATION_MANIFEST.csv
+!/EXCLUDED_FILES.csv
+# Restore exclusions after the summary CSV allowlist.
+provenance/*member_hashes.csv
+provenance/additional_50AM_candidates.csv
+provenance/discovered_files.csv
+tables/legacy_history_vs_hydro.csv

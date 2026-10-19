@@ -1,0 +1,436 @@
+[
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0001.tar.gz",
+      "bytes": 524214599680,
+      "mtime_ns": 1778756461776200203,
+      "ctime_ns": 1778756461776200203,
+      "inode": 5169245199
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "100000/x.txt",
+        "bytes": 7399,
+        "sha256": "a479a068a7757ca7ce6d36efd62935bfae48e7e7a61cf7a7d74e96a4f4519ba1",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0001.tar/100000/x.txt"
+      },
+      {
+        "member": "100000/y.txt",
+        "bytes": 7056,
+        "sha256": "2e5aa544a7ba0e4162b793add03fb213af4833c407a99a1a43cf2eccbeed0343",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0001.tar/100000/y.txt"
+      },
+      {
+        "member": "100000/control.json",
+        "bytes": 11521,
+        "sha256": "4810dfb7bef9f3f1c2dc8c492637ee18b09d0e026f5a883cce1498dc3be2120a",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0001.tar/100000/control.json"
+      },
+      {
+        "member": "100000/xtime.txt",
+        "bytes": 373165,
+        "sha256": "24260212b25abf6c8ecc035ff570bec05fdbe830abca3c41c3038f52b06ae6ca",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0001.tar/100000/xtime.txt"
+      },
+      {
+        "member": "100000/xz.txt",
+        "bytes": 1073,
+        "sha256": "8e34d4482327eae666fb14a802f73da181c49ef563d5256a5a94057a19dc37b5",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0001.tar/100000/xz.txt"
+      }
+    ],
+    "particle_id": 100000,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0002.tar.gz",
+      "bytes": 42117506338,
+      "mtime_ns": 1778573718230925880,
+      "ctime_ns": 1778573718230925880,
+      "inode": 5158038588
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "191136/control.json",
+        "bytes": 11519,
+        "sha256": "535e1d11bebd9cbf9c74caa05939a7415947716c6de7ddc2dd98f9ccdae8ec02",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0002.tar/191136/control.json"
+      },
+      {
+        "member": "191136/x.txt",
+        "bytes": 6370,
+        "sha256": "2d10576f65dccaf9b334fdaedaccb4107a877f03bb9009f2887b065f2833efc2",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0002.tar/191136/x.txt"
+      },
+      {
+        "member": "191136/xz.txt",
+        "bytes": 1036,
+        "sha256": "5b267b3f756fe8928595fe0af5eca28dec0db4b96db3892a1a2b466e1fc5b9ec",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0002.tar/191136/xz.txt"
+      },
+      {
+        "member": "191136/xtime.txt",
+        "bytes": 398819,
+        "sha256": "06fceb2b3996803baade9e7114845140e88ebf757f59c12fcc30861b9593a07b",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0002.tar/191136/xtime.txt"
+      },
+      {
+        "member": "191136/y.txt",
+        "bytes": 6125,
+        "sha256": "920aac642b06e475f249038f4cd91aaae14024a61cdfc88639f6244869d2e910",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0002.tar/191136/y.txt"
+      }
+    ],
+    "particle_id": 191136,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0003.tar.gz",
+      "bytes": 52309238056,
+      "mtime_ns": 1778576655141473722,
+      "ctime_ns": 1778576655141473722,
+      "inode": 5165618793
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "282034/y.txt",
+        "bytes": 5978,
+        "sha256": "60984c78bc6fcb4b41b71f1e0132be574b48b071ddbdfc7cb886ba6255815dcb",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0003.tar/282034/y.txt"
+      },
+      {
+        "member": "282034/x.txt",
+        "bytes": 6272,
+        "sha256": "bda7e6cd77151032984dca8e9c9eeee0ab14d273f6e4a0fbf1d9abea35cf2e86",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0003.tar/282034/x.txt"
+      },
+      {
+        "member": "282034/xtime.txt",
+        "bytes": 352781,
+        "sha256": "d9bd83fc9c60a36f8081b6cdf941fa1150453c23b439edf7d9fcf6866fd7b281",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0003.tar/282034/xtime.txt"
+      },
+      {
+        "member": "282034/xz.txt",
+        "bytes": 1036,
+        "sha256": "d14af4a71819aba1d5ff114afe384ee0a953032b0252e540174cc8a2026024be",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0003.tar/282034/xz.txt"
+      }
+    ],
+    "particle_id": 282034,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0004.tar.gz",
+      "bytes": 43485178212,
+      "mtime_ns": 1778585621097458687,
+      "ctime_ns": 1778585621097458687,
+      "inode": 5165618794
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "372924/xz.txt",
+        "bytes": 1073,
+        "sha256": "42b7a2af936668a604056c4a71d51a1658dbad8e10469471b64eb693711a0c25",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0004.tar/372924/xz.txt"
+      },
+      {
+        "member": "372924/control.json",
+        "bytes": 11519,
+        "sha256": "47dd644e745748db4a1b104db834e7de1f969ebed7bf63e1bc1d909601e9439c",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0004.tar/372924/control.json"
+      },
+      {
+        "member": "372924/xtime.txt",
+        "bytes": 335963,
+        "sha256": "c72d5ce301277d176394c7e49e7bb8b48d2de1da0e5e99e6f4521e2821ea0fd6",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0004.tar/372924/xtime.txt"
+      },
+      {
+        "member": "372924/y.txt",
+        "bytes": 6027,
+        "sha256": "972bde830e5a3fcffb37bad53778d05bf4279c3928085634ce1f2da8a9ed51af",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0004.tar/372924/y.txt"
+      },
+      {
+        "member": "372924/x.txt",
+        "bytes": 6321,
+        "sha256": "36ce8aced83968462a5fb99165a4c55fa02c08836bb4b4033e91fb0be61965bd",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0004.tar/372924/x.txt"
+      }
+    ],
+    "particle_id": 372924,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0005.tar.gz",
+      "bytes": 70030558542,
+      "mtime_ns": 1778588836576532252,
+      "ctime_ns": 1778588836576532252,
+      "inode": 5145119045
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "463819/control.json",
+        "bytes": 11519,
+        "sha256": "9c30b5a43b4fabe722c91dc079c5ad1753f3beed206459cfcb0b1b96a451e848",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0005.tar/463819/control.json"
+      },
+      {
+        "member": "463819/y.txt",
+        "bytes": 5929,
+        "sha256": "cbb518ff5a6fe79ecb60b79cb5fbd82d15e9d4a3ac9c395e1210da6bdb65b567",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0005.tar/463819/y.txt"
+      },
+      {
+        "member": "463819/xz.txt",
+        "bytes": 1073,
+        "sha256": "284814c9d09b13adb922a27a1237a4074fd2f79bdf1fab641c8ef0070f6c8dbf",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0005.tar/463819/xz.txt"
+      },
+      {
+        "member": "463819/xtime.txt",
+        "bytes": 380047,
+        "sha256": "01a02ad67e30e80eee64fd967042e213ab348a77782574499c8089564db4bb60",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0005.tar/463819/xtime.txt"
+      },
+      {
+        "member": "463819/x.txt",
+        "bytes": 6174,
+        "sha256": "b9c5dca84503a649cfb778cad93a7440f78f0f839ac560c4c4f6ec6e38b3cdb7",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0005.tar/463819/x.txt"
+      }
+    ],
+    "particle_id": 463819,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0006.tar.gz",
+      "bytes": 93575322081,
+      "mtime_ns": 1778590664620030972,
+      "ctime_ns": 1778590664620030972,
+      "inode": 5145119047
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "554686/y.txt",
+        "bytes": 5929,
+        "sha256": "a9dfb3e59bfcfbf7dff2c6f0665d74c21a9434e15d33486edd7706893443a831",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0006.tar/554686/y.txt"
+      },
+      {
+        "member": "554686/x.txt",
+        "bytes": 6174,
+        "sha256": "19a69050037999ada84c0bce8a5f71a1b99c997941408e3e1dee465b24d0cf84",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0006.tar/554686/x.txt"
+      },
+      {
+        "member": "554686/xtime.txt",
+        "bytes": 362866,
+        "sha256": "a1cbe7a4be16746cf4ca94abdb122679af56906cdcdaf5007a2ee6e606636450",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0006.tar/554686/xtime.txt"
+      },
+      {
+        "member": "554686/xz.txt",
+        "bytes": 1073,
+        "sha256": "db85c4e3604689013231513378dba88706e2694910a0f0d25b13b73cdadd6e69",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0006.tar/554686/xz.txt"
+      },
+      {
+        "member": "554686/control.json",
+        "bytes": 11519,
+        "sha256": "bd1ac5bd23c559839ab6b6b07b8465b0698ad7f5835c80820422fbcec246311a",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0006.tar/554686/control.json"
+      }
+    ],
+    "particle_id": 554686,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0007.tar.gz",
+      "bytes": 221649527181,
+      "mtime_ns": 1778715545357629698,
+      "ctime_ns": 1778715545357629698,
+      "inode": 5169245200
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "645539/xz.txt",
+        "bytes": 1073,
+        "sha256": "b6a55a8d1ffa97ceb4c8b70a30fd894a2b2553a50847fa224020b4d74c1211be",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0007.tar/645539/xz.txt"
+      },
+      {
+        "member": "645539/control.json",
+        "bytes": 11519,
+        "sha256": "43c9652d5464f09052021579694bdd4bc68b945fba156797697bbd7d18e9ae00",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0007.tar/645539/control.json"
+      },
+      {
+        "member": "645539/xtime.txt",
+        "bytes": 415631,
+        "sha256": "eaa77700ee6f831d8fb966cc5b2a72886b956b7afe8e871c7448424f4e3bc0f5",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0007.tar/645539/xtime.txt"
+      },
+      {
+        "member": "645539/y.txt",
+        "bytes": 5733,
+        "sha256": "86985628b27b93af88c5f3406e429c16f390f58610bf8afea000af69e370fee6",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0007.tar/645539/y.txt"
+      },
+      {
+        "member": "645539/x.txt",
+        "bytes": 6076,
+        "sha256": "c2542a665fbb5b556f5c7909b050bbc2fe753572c9a610ce515d0280cd3d5e6b",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0007.tar/645539/x.txt"
+      }
+    ],
+    "particle_id": 645539,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0008.tar.gz",
+      "bytes": 376129716224,
+      "mtime_ns": 1778756442957699131,
+      "ctime_ns": 1778756442957699131,
+      "inode": 5170373754
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "736293/xz.txt",
+        "bytes": 1073,
+        "sha256": "8a9f00145e15844c647bfcc7486c9d48335b3996f177ab755537b3ecf47469a7",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0008.tar/736293/xz.txt"
+      },
+      {
+        "member": "736293/control.json",
+        "bytes": 11519,
+        "sha256": "d04a48763a9d42af5e6ec0539ac6e4f0d0242c10a793a5966716fd3272084717",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0008.tar/736293/control.json"
+      },
+      {
+        "member": "736293/xtime.txt",
+        "bytes": 453996,
+        "sha256": "1b9641b72a414ffeecaca14033c0ba57e986b67ade191bad3e018988cbd2096a",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0008.tar/736293/xtime.txt"
+      },
+      {
+        "member": "736293/y.txt",
+        "bytes": 5782,
+        "sha256": "72943b5f45596da8d4766919b2e35310c6b851b9381db1d16e037e8182053781",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0008.tar/736293/y.txt"
+      },
+      {
+        "member": "736293/x.txt",
+        "bytes": 6027,
+        "sha256": "d13c3a15f5a0e7c90fa5e05a4be41b795a57c7d0677fa247b05bf0ddb42145fe",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0008.tar/736293/x.txt"
+      }
+    ],
+    "particle_id": 736293,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0009.tar.gz",
+      "bytes": 385585250304,
+      "mtime_ns": 1778756442939482871,
+      "ctime_ns": 1778756442939482871,
+      "inode": 5170373753
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "826819/xz.txt",
+        "bytes": 1073,
+        "sha256": "9377f2856b548c932ec36b009d4e2b5bd14ee4b57d9b7a52310bdb6424e7c74e",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0009.tar/826819/xz.txt"
+      },
+      {
+        "member": "826819/control.json",
+        "bytes": 11519,
+        "sha256": "479c2cdca71072b55ae9b0de12caa0195b2e94af4eb09d4d67699073729a50bc",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0009.tar/826819/control.json"
+      },
+      {
+        "member": "826819/xtime.txt",
+        "bytes": 444431,
+        "sha256": "04ea73b43c96527f372b329a38c170b96014191df4b349dc48b0e1e9fab7a6d5",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0009.tar/826819/xtime.txt"
+      },
+      {
+        "member": "826819/y.txt",
+        "bytes": 5782,
+        "sha256": "b837759bd08dbc3ec55733bc4604b08026747fee16437fa51bced6f6774fa684",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0009.tar/826819/y.txt"
+      },
+      {
+        "member": "826819/x.txt",
+        "bytes": 6076,
+        "sha256": "814c639db7d547dae084cd9892c71b9751a8c4a9472ae921c1c67152a52cbaba",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0009.tar/826819/x.txt"
+      }
+    ],
+    "particle_id": 826819,
+    "status": "readable_prefix_only"
+  },
+  {
+    "source": {
+      "path": "/data/pyoung3/groupdata/svierlin/50Am_data/eoc_batch_0010.tar.gz",
+      "bytes": 358367941293,
+      "mtime_ns": 1778712591402441463,
+      "ctime_ns": 1778712591402441463,
+      "inode": 5164714688
+    },
+    "scope": "first particle directory, at most 256 MiB uncompressed archive prefix",
+    "files": [
+      {
+        "member": "917342/xz.txt",
+        "bytes": 1073,
+        "sha256": "573c806e3473758ebf05599f2bf89fd30c42876c4235949bf188d10bf2b02e38",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0010.tar/917342/xz.txt"
+      },
+      {
+        "member": "917342/control.json",
+        "bytes": 11519,
+        "sha256": "42a963ad566237e7672c729eb69694a54423c091e407d8064f67c7f86a30cadc",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0010.tar/917342/control.json"
+      },
+      {
+        "member": "917342/xtime.txt",
+        "bytes": 484434,
+        "sha256": "26bd65baa1379cad70e16691d6a3e160886c8e5cdacca95ab4a74afc5e8771d4",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0010.tar/917342/xtime.txt"
+      },
+      {
+        "member": "917342/y.txt",
+        "bytes": 5782,
+        "sha256": "c6050046bf126a8efb0e486db2d6bb2afed69f4f9be854d4a9f0cad2a604655d",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0010.tar/917342/y.txt"
+      },
+      {
+        "member": "917342/x.txt",
+        "bytes": 6076,
+        "sha256": "47d69bcdb6379fab82aab2a2fb4984c05a05b6f17de15312242dded24119be88",
+        "saved": "provenance/raw_archive_prefixes/eoc_batch_0010.tar/917342/x.txt"
+      }
+    ],
+    "particle_id": 917342,
+    "status": "readable_prefix_only"
+  }
+]

@@ -1,0 +1,924 @@
+{
+  "source": {
+    "path": "/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out",
+    "bytes": 748723480,
+    "mtime_ns": 1712167930264361000,
+    "ctime_ns": 1735656916972342234,
+    "inode": 1672176440
+  },
+  "sha256": "7e88d0e59fbe27e9752837327ac3979a8ad5e1bec9c45aee4dab593e579436c6",
+  "rows": 945628,
+  "raw_columns": [
+    "id",
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz",
+    "ax",
+    "ay",
+    "az",
+    "mass",
+    "h",
+    "density",
+    "peak temp",
+    "peak density",
+    "Y_{e}",
+    "X_{n}",
+    "X_{He}",
+    "X_{Be}",
+    "X_{B}",
+    "X_{C}",
+    "X_{O}",
+    "X_{Ne}",
+    "X_{Na}",
+    "X_{Mg}",
+    "X_{Al}",
+    "X_{Si}",
+    "X_{P}",
+    "X_{S}",
+    "X_{Ar}",
+    "X_{K}",
+    "X_{Ca}",
+    "X_{Ti}",
+    "X_{Fe}",
+    "X_{Co}",
+    "X_{Ni}",
+    "X_{4He}",
+    "X_{7Be}",
+    "X_{9Be}",
+    "X_{10Be}",
+    "X_{10B}",
+    "X_{11B}",
+    "X_{12C}",
+    "X_{13C}",
+    "X_{14N}",
+    "X_{15N}",
+    "X_{16O}",
+    "X_{17O}",
+    "X_{18O}",
+    "X_{20Ne}",
+    "X_{24Mg}",
+    "X_{25Mg}",
+    "X_{26Mg}",
+    "X_{26Al}",
+    "X_{27Al}",
+    "X_{28Si}",
+    "X_{29Si}",
+    "X_{30Si}",
+    "X_{32S}",
+    "X_{33S}",
+    "X_{34S}",
+    "X_{36Ar}",
+    "X_{39K}",
+    "X_{40K}",
+    "X_{41K}",
+    "X_{40Ca}",
+    "X_{41Ca}",
+    "X_{42Ca}",
+    "X_{43Ca}",
+    "X_{44Ca}",
+    "X_{44Ti}",
+    "X_{46Ti}",
+    "X_{47Ti}",
+    "X_{48Ti}",
+    "X_{49Ti}",
+    "X_{50Ti}",
+    "X_{48Cr}",
+    "X_{50Cr}",
+    "X_{52Cr}",
+    "X_{53Cr}",
+    "X_{54Cr}",
+    "X_{54Fe}",
+    "X_{56Fe}",
+    "X_{57Fe}",
+    "X_{58Fe}",
+    "X_{60Fe}",
+    "X_{56Ni}",
+    "X_{58Ni}",
+    "X_{60Ni}",
+    "X_{61Ni}",
+    "X_{62Ni}",
+    "X_{64Ni}",
+    "X_{84Sr}",
+    "X_{86Sr}",
+    "X_{87Sr}",
+    "X_{88Sr}",
+    "X_{95Mo}",
+    "X_{96Mo}",
+    "X_{97Mo}",
+    "X_{98Mo}"
+  ],
+  "columns": [
+    "id",
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz",
+    "ax",
+    "ay",
+    "az",
+    "mass",
+    "h",
+    "density",
+    "peak temp",
+    "peak density",
+    "Y_{e}",
+    "n",
+    "He",
+    "Be",
+    "B",
+    "C",
+    "O",
+    "Ne",
+    "Na",
+    "Mg",
+    "Al",
+    "Si",
+    "P",
+    "S",
+    "Ar",
+    "K",
+    "Ca",
+    "Ti",
+    "Fe",
+    "Co",
+    "Ni",
+    "4He",
+    "7Be",
+    "9Be",
+    "10Be",
+    "10B",
+    "11B",
+    "12C",
+    "13C",
+    "14N",
+    "15N",
+    "16O",
+    "17O",
+    "18O",
+    "20Ne",
+    "24Mg",
+    "25Mg",
+    "26Mg",
+    "26Al",
+    "27Al",
+    "28Si",
+    "29Si",
+    "30Si",
+    "32S",
+    "33S",
+    "34S",
+    "36Ar",
+    "39K",
+    "40K",
+    "41K",
+    "40Ca",
+    "41Ca",
+    "42Ca",
+    "43Ca",
+    "44Ca",
+    "44Ti",
+    "46Ti",
+    "47Ti",
+    "48Ti",
+    "49Ti",
+    "50Ti",
+    "48Cr",
+    "50Cr",
+    "52Cr",
+    "53Cr",
+    "54Cr",
+    "54Fe",
+    "56Fe",
+    "57Fe",
+    "58Fe",
+    "60Fe",
+    "56Ni",
+    "58Ni",
+    "60Ni",
+    "61Ni",
+    "62Ni",
+    "64Ni",
+    "84Sr",
+    "86Sr",
+    "87Sr",
+    "88Sr",
+    "95Mo",
+    "96Mo",
+    "97Mo",
+    "98Mo"
+  ],
+  "unique_valid_ids": 945628,
+  "duplicate_ids": 0,
+  "invalid_ids": 0,
+  "id_inversions": 0,
+  "blank_lines": [],
+  "wrong_width_lines": [],
+  "column_counts": {
+    "id": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 1,
+      "positive": 945627
+    },
+    "x": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 473001,
+      "zero": 0,
+      "positive": 472627
+    },
+    "y": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 472492,
+      "zero": 0,
+      "positive": 473136
+    },
+    "z": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 472716,
+      "zero": 0,
+      "positive": 472912
+    },
+    "vx": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 473150,
+      "zero": 0,
+      "positive": 472478
+    },
+    "vy": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 472254,
+      "zero": 0,
+      "positive": 473374
+    },
+    "vz": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 472844,
+      "zero": 0,
+      "positive": 472784
+    },
+    "ax": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 473154,
+      "zero": 0,
+      "positive": 472474
+    },
+    "ay": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 472698,
+      "zero": 0,
+      "positive": 472930
+    },
+    "az": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 473426,
+      "zero": 0,
+      "positive": 472202
+    },
+    "mass": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 945628
+    },
+    "h": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 945628
+    },
+    "density": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 945628
+    },
+    "peak temp": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 945628
+    },
+    "peak density": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 0,
+      "positive": 945628
+    },
+    "Y_{e}": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 495018,
+      "positive": 450610
+    },
+    "n": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945627,
+      "positive": 1
+    },
+    "He": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 820660,
+      "positive": 124968
+    },
+    "Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945626,
+      "positive": 2
+    },
+    "B": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945140,
+      "positive": 488
+    },
+    "C": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "Ne": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 675149,
+      "positive": 270479
+    },
+    "Na": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 698712,
+      "positive": 246916
+    },
+    "Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "Al": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668122,
+      "positive": 277506
+    },
+    "Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "P": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 678390,
+      "positive": 267238
+    },
+    "S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668122,
+      "positive": 277506
+    },
+    "Ar": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668327,
+      "positive": 277301
+    },
+    "Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "Co": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "4He": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 820660,
+      "positive": 124968
+    },
+    "7Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945626,
+      "positive": 2
+    },
+    "9Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "10Be": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "10B": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "11B": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945140,
+      "positive": 488
+    },
+    "12C": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "13C": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 686845,
+      "positive": 258783
+    },
+    "14N": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 747244,
+      "positive": 198384
+    },
+    "15N": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 776561,
+      "positive": 169067
+    },
+    "16O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "17O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 697449,
+      "positive": 248179
+    },
+    "18O": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 724290,
+      "positive": 221338
+    },
+    "20Ne": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 675149,
+      "positive": 270479
+    },
+    "24Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "25Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 670571,
+      "positive": 275057
+    },
+    "26Mg": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 671084,
+      "positive": 274544
+    },
+    "26Al": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 787845,
+      "positive": 157783
+    },
+    "27Al": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668122,
+      "positive": 277506
+    },
+    "28Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "29Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668122,
+      "positive": 277506
+    },
+    "30Si": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "32S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668122,
+      "positive": 277506
+    },
+    "33S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 679060,
+      "positive": 266568
+    },
+    "34S": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 670417,
+      "positive": 275211
+    },
+    "36Ar": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "39K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 670116,
+      "positive": 275512
+    },
+    "40K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 672983,
+      "positive": 272645
+    },
+    "41K": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 678899,
+      "positive": 266729
+    },
+    "40Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668121,
+      "positive": 277507
+    },
+    "41Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 928978,
+      "positive": 16650
+    },
+    "42Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 919773,
+      "positive": 25855
+    },
+    "43Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668374,
+      "positive": 277254
+    },
+    "44Ca": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 943422,
+      "positive": 2206
+    },
+    "44Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 895887,
+      "positive": 49741
+    },
+    "46Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "47Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "48Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668122,
+      "positive": 277506
+    },
+    "49Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 683822,
+      "positive": 261806
+    },
+    "50Ti": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 686461,
+      "positive": 259167
+    },
+    "48Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 916457,
+      "positive": 29171
+    },
+    "50Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "52Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "53Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 684810,
+      "positive": 260818
+    },
+    "54Cr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 685740,
+      "positive": 259888
+    },
+    "54Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "56Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "57Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668841,
+      "positive": 276787
+    },
+    "58Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 685230,
+      "positive": 260398
+    },
+    "60Fe": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 821871,
+      "positive": 123757
+    },
+    "56Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 919696,
+      "positive": 25932
+    },
+    "58Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "60Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668120,
+      "positive": 277508
+    },
+    "61Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 668314,
+      "positive": 277314
+    },
+    "62Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 671256,
+      "positive": 274372
+    },
+    "64Ni": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 697718,
+      "positive": 247910
+    },
+    "84Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "86Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "87Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "88Sr": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "95Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "96Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "97Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    },
+    "98Mo": {
+      "NA": 0,
+      "invalid": 0,
+      "negative": 0,
+      "zero": 945628,
+      "positive": 0
+    }
+  },
+  "invalid_cells": []
+}

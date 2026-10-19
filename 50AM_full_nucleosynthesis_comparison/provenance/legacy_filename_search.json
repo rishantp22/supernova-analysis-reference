@@ -1,0 +1,27 @@
+{
+  "matches": [
+    {
+      "path": "/data/pyoung3/supernova_data/50Am/analysis/50Am_plotting.out",
+      "bytes": 748723480,
+      "readable": true,
+      "symlink": false
+    }
+  ],
+  "bases": [
+    "/scratch/rpraka15",
+    "/home/rpraka15/supernova-grain-analysis",
+    "/scratch/svierlin/prism-v02",
+    "/scratch/pyoung3/runsnsph",
+    "/data/pyoung3/supernova_data/50Am",
+    "/data/pyoung3/gsvance/data_mining",
+    "/data/pyoung3/groupdata/svierlin/50Am_data",
+    "/data/pyoung3/burn",
+    "/data/pyoung3/burnpatrick",
+    "/data/pyoung3/burnpkg",
+    "/data/pyoung3/nucleosetup.dir",
+    "/data/pyoung3/setraj",
+    "/data/pyoung3/se_analysis",
+    "/data/pyoung3/snsphtools"
+  ],
+  "scope": "bounded five-level search, pruned collections documented separately; not a claim about inaccessible directories"
+}
